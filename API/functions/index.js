@@ -41,52 +41,51 @@ admin.initializeApp({
 
 const db = admin.firestore();
 
-app.get("/getMovies", (request, response) => {
-  db.collection("movies")
-    .orderBy("title")
+app.get("/courses", (request, response) => {
+  db.collection("courses")
+    .orderBy("code")
     .get()
     .then((data) => {
-      let movies = new Array();
+      let courses = new Array();
       data.forEach((doc) => {
-        movies.push(doc.data());
+        courses.push(doc.data());
       });
-      return response.json({ movies });
+      return response.json({ courses });
     });
 });
-app.post("/createNewMovie", (request, response) => {
-  const genres = request.body.genres.split(",");
-  const newMovie = {
-    title: request.body.title,
-    yearReleased: parseInt(String(request.body.yearReleased)),
-    imageURL: request.body.imageURL,
-    genres: genres,
-  };
-  db.collection("movies")
-    .add(newMovie)
-    .then((data) => {
-      return response.json({
-        status: "success",
-        details: `movie ID ${data.id} added`,
-      });
+app.post("/addCourse", (request, response) => {
+    const newCourse = {
+        title: request.body.title,
+        code: request.body.code,
+    };
+    db.collection("courses").doc(request.body.code).set({
+        title: request.body.title,
+        code: request.body.code,
     })
-    .catch((err) =>
-      response.status(500).json({ status: "failed", error: err.code })
-    );
+    .then(function() {
+        return response.json({
+            status: "success",
+            details: `course code ${newCourse.code} added`,
+        });
+    })
+    .catch(function(error) {
+        response.status(500).json({ status: "failed", error: err.code })
+    });
 });
 
-app.get("/movie/:movieId", (request, response) => {
-  const id = request.params.movieId;
-  db.collection("movies")
+app.get("/course/:courseID", (request, response) => {
+  const id = request.params.courseID;
+  db.collection("courses")
     .doc(id)
     .get()
     .then((data) => {
       if (data.exists) {
         console.log(data);
-        return response.json({ status: "success", movie: data.data() });
+        return response.json({ status: "success", course: data.data() });
       }
       return response
         .status(404)
-        .json({ status: "failed", error: "Movie not found" });
+        .json({ status: "failed", error: "course not found" });
     })
     .catch((err) =>
       response.status(500).json({ status: "failed", error: err.code })
