@@ -51,26 +51,44 @@ app.get("/courses", (request, response) => {
         courses.push(doc.data());
       });
       return response.json({ courses });
+    })
+    .catch((err) => {
+        response.status(500).json({ status: "failed", error: err.code })
     });
 });
 app.post("/addCourse", (request, response) => {
-    const newCourse = {
-        title: request.body.title,
-        code: request.body.code,
-    };
     db.collection("courses").doc(request.body.code).set({
         title: request.body.title,
         code: request.body.code,
+        subject: request.body.subject
     })
-    .then(function() {
+    .then(() => {
         return response.json({
             status: "success",
-            details: `course code ${newCourse.code} added`,
+            details: `course code ${request.body.code} added`,
         });
     })
-    .catch(function(error) {
+    .catch((err) => {
         response.status(500).json({ status: "failed", error: err.code })
     });
+});
+
+app.post("/addSubject", (request, response) => {
+  // const courses = request.body.courses.split(",");
+  db.collection("subjects").doc(request.body.subject).set({
+      subject: request.body.subject,
+      title: request.body.title,
+      courses: request.body.courses,
+  })
+  .then(() => {
+      return response.json({
+          status: "success",
+          details: `suject ${request.body.subject} added`,
+      });
+  })
+  .catch((err) => {
+      response.status(500).json({ status: "failed", error: err.code })
+  });
 });
 
 app.get("/course/:courseID", (request, response) => {
@@ -86,6 +104,25 @@ app.get("/course/:courseID", (request, response) => {
       return response
         .status(404)
         .json({ status: "failed", error: "course not found" });
+    })
+    .catch((err) =>
+      response.status(500).json({ status: "failed", error: err.code })
+    );
+});
+
+app.get("/search/:courseID", (request, response) => {
+  const id = request.params.courseID;
+  db.collection("courses")
+    .where("code", ">=", id)
+    .where("code", "<=", id+"\uf8ff")
+    .orderBy("code")
+    .limit(5)
+    .get()
+    .then(snapshot => {
+      let arrayR = snapshot.docs.map(doc => {
+        return doc.data();
+      })
+      return response.json(arrayR);
     })
     .catch((err) =>
       response.status(500).json({ status: "failed", error: err.code })
