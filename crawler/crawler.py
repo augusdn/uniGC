@@ -1,4 +1,3 @@
-## crawler.py
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -7,71 +6,80 @@ import os
 def saveJson(data):
     ## base directory of python file
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-    
-    with open(os.path.join(BASE_DIR, 'result.json'), 'w+') as json_file:
+
+    with open(os.path.join(BASE_DIR, 'result.json'), 'a+') as json_file:
         json.dump(data, json_file)
 
 def getURL():
-    BASE_URL = 'http://classutil.unsw.edu.au/'
+    BASE_URL = 'http://timetable.unsw.edu.au/2020/'
     req = requests.get(BASE_URL)
     html = req.text
     soup = BeautifulSoup(html, 'html.parser')
     class_table = soup.select(
-        'table:nth-of-type(2) > tr'
+        '.data > a'
     )
-    data = {}
-    lists = []
-    
+    lists = {}
+
     for row in class_table:
-        course = {}
-        if row.td['class'][0] != 'data':
+        if len(row['href']) != 13:
             continue
-        # code
-        code = row.contents[9].text
-        #data[code] = code
-        # if data[code] alreadt exist, load
-        #print(code)
-        if code in data:
-            course = data[code]
-            
-        # name
-        name = row.contents[11].text
-        course['name'] = name
+
+        url = BASE_URL + row['href']
+
+        #print(row.getText())
         
-        # t0, summer
-        t0 = row.contents[1].find('a', href=True)
-        if t0:
-            tempURL = BASE_URL + t0['href']
-            lists.append(tempURL)
-            course[t0.text] = tempURL
-        # t1
-        t1 = row.contents[3].find('a', href=True)
-        if t1:
-            tempURL = BASE_URL + t1['href']
-            lists.append(tempURL)
-            course[t1.text] = tempURL
-        # t2
-        t2 = row.contents[5].find('a', href=True)
-        if t2:
-            tempURL = BASE_URL + t2['href']
-            lists.append(tempURL)
-            course[t2.text] = tempURL
-        #t3
-        t3 = row.contents[7].find('a', href=True)
-        if t3:
-            tempURL = BASE_URL + t3['href']
-            lists.append(tempURL)
-            course[t3.text] = tempURL
-        #print(course)
-        data[code] = course
-    
-    saveJson(data)
+        if url not in lists:
+            lists[url] = row.getText()
+
     return lists
-    
-def crawl(url):
-    print(url)
+
+def getCourse(url, area):
+    req = requests.get(url)
+    html = req.text
+    soup = BeautifulSoup(html, 'html.parser')
+    courseTable = soup.select('.data > a')
+    subject = soup.select(
+        "td.data"
+    )
+    subject = subject[7].text
+    courses = []
+    count = 0
+    courseCode = ''
+    courseName = ''
+
+    for row in courseTable:
+        flag = 0
+        course = {}
+
+        if len(row['href']) != 13:
+            continue
+        
+        if (count % 2) == 0:
+            courseCode = row.text
+        else:
+            courseName = row.text
+            flag = 1
+
+        if flag:
+            course['code'] = courseCode
+            course['title'] = courseName
+            course['subject'] = area
+            courses.append(course)
+            print("adding "+courseCode)
+            x = requests.post("https://asia-east2-unigc-eea69.cloudfunctions.net/api/addCourse", data=course)
+            print(x.text)
+            flag = 0
+
+        count += 1
+    #print(courses)
 
 if __name__ == '__main__':
     url_list = getURL()
-    for url in url_list:
-        crawl(url)
+    #print(url_list)
+
+    # for url, area in url_list.items():
+    #     getCourse(url,area)
+    getCourse("http://timetable.unsw.edu.au/2020/ACCTKENS.html","ACCT")
+
+    # for url in url_list:
+    #     getCourse(url)
