@@ -1,0 +1,672 @@
+[
+    {
+        "code": "ZHSS3412",
+        "title": "Politics of Australian Security",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS3417",
+        "title": "Ethnic Conflict and World Politics",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS3425",
+        "title": "Air Power in Small and Irregular Wars",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS3437",
+        "title": "Politics of the USA",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS3438",
+        "title": "The United Nations in Global Politics",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS3502",
+        "title": "Civil-State-Military Relations in Indonesia",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS3901",
+        "title": "Humanities & Social Sciences Research Project 2",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS3902",
+        "title": "Humanities & Social Sciences Research Project 3",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS4001",
+        "title": "Arts Honours Research 1",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS4002",
+        "title": "Arts Honours Research 2",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS4003",
+        "title": "Arts Honours Special Topic 1",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS4004",
+        "title": "Arts Honours Special Topic 2",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS4005",
+        "title": "History Honours Research 1",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS4006",
+        "title": "History Honours Research 2",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS4007",
+        "title": "Historiography Honours",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS4008",
+        "title": "History Honours Special Topic",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS4009",
+        "title": "International and Political Studies Honours Special Topic",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS4010",
+        "title": "English and Media Studies Honours Special Topic",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS4011",
+        "title": "Indonesian Studies Special Topic",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS4012",
+        "title": "Arts Honours Research 3",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8001",
+        "title": "Professional Practice",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8102",
+        "title": "American Empire",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8112",
+        "title": "Occasional Elective: English",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8122",
+        "title": "Research Project - English and Media Studies Single Session",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8123",
+        "title": "Research Project - English and Media Studies Full Year",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8125",
+        "title": "Strategic Communication",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8212",
+        "title": "Research Project: History Single Session",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8215",
+        "title": "Research Project: History",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8220",
+        "title": "Fighting the Second World War",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8225",
+        "title": "Australian Military History: An Introduction",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8226",
+        "title": "The Vietnam Wars: A Thirty Year Conflict",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8227",
+        "title": "Civil Wars: Societies in Conflict",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8231",
+        "title": "The History of Special Operations",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8234",
+        "title": "Occasional Elective: History II",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8235",
+        "title": "Ten American Conflicts: The Origins of US Military History",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8236",
+        "title": "A British Way in Warfare?: Strategy and Defence Policy 1856-1945",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8237",
+        "title": "The Cold War",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8400",
+        "title": "Research Project: IPS Single Session",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8401",
+        "title": "Research Project International and Political Studies - Full Year",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8403",
+        "title": "Global Security",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8409",
+        "title": "Asia-Pacific Security: The Dynamics of Change",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8417",
+        "title": "Air Power in the 21st Century: Strategic Issues",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8435",
+        "title": "Contemporary Strategy",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8441",
+        "title": "Cyber-Security and World Politics",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8452",
+        "title": "Weapons of Mass Destruction and Global Security",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8453",
+        "title": "Culture and Conflict",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8455",
+        "title": "Australian Cyber Diplomacy",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8456",
+        "title": "Australia and Cyber War",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8457",
+        "title": "Cyber Security in Asia",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8458",
+        "title": "Cyber Policy in China",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8459",
+        "title": "Special Operations: Theory and Strategic Utility",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8461",
+        "title": "GRIM Threats (Guerrilla, Revolutionary, Insurgent and Militia) and Irregular Warfare",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8462",
+        "title": "Ethics in Special Operations and Irregular Warfare",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8463",
+        "title": "The Politics of International Law",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8464",
+        "title": "Cyberspace, National Security and Law",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8467",
+        "title": "Military Game Changers in 21st Century Warfare",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8501",
+        "title": "Principles of Public Leadership",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8503",
+        "title": "Moral Leadership in Complex Military Operations",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8504",
+        "title": "Space Conflict and Competition",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8998",
+        "title": "Public Leadership Dissertation (F/T)",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS8999",
+        "title": "Public Leadership Dissertation (P/T)",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZINT2100",
+        "title": "Introduction to Cyber-Security: Policy and Operations",
+        "subject": "ZINT"
+    },
+    {
+        "code": "ZINT2501",
+        "title": "Engineering Materials and Chemistry",
+        "subject": "ZINT"
+    },
+    {
+        "code": "ZINT8105",
+        "title": "Academic Practice: Critical Reading and Writing",
+        "subject": "ZINT"
+    },
+    {
+        "code": "ZINT8301",
+        "title": "Lethality and Survivability",
+        "subject": "ZINT"
+    },
+    {
+        "code": "ZINT9001",
+        "title": "Postgraduate Research Preparation Course",
+        "subject": "ZINT"
+    },
+    {
+        "code": "ZPEM1101",
+        "title": "Chemistry 1A",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM1102",
+        "title": "Chemistry 1B",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM1201",
+        "title": "Geography 1A",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM1202",
+        "title": "Geography 1B",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM1301",
+        "title": "Mathematics 1A",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM1302",
+        "title": "Mathematics 1B",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM1303",
+        "title": "Engineering Mathematics 1A",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM1304",
+        "title": "Engineering Mathematics 1B",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM1306",
+        "title": "Introduction to Discrete Mathematics",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM1307",
+        "title": "Computational Problem Solving",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM1501",
+        "title": "Physics 1A: Mechanics, Waves and Thermodynamics",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM1502",
+        "title": "Physics 1B: Electromagnetism and Modern Physics",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM1901",
+        "title": "Contemporary Issues in Science",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM2102",
+        "title": "Organic Chemistry 2",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM2113",
+        "title": "Inorganic Chemistry and Spectroscopy",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM2114",
+        "title": "Biological Chemistry",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM2202",
+        "title": "Ecological Biogeography",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM2207",
+        "title": "Social Geography",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM2213",
+        "title": "The Art and Science of Doing Geography",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM2302",
+        "title": "Mathematical Tools for Science",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM2309",
+        "title": "Engineering Mathematics 2A",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM2310",
+        "title": "Engineering Mathematics 2B",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM2311",
+        "title": "Mathematical Modelling",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM2312",
+        "title": "Fundamentals of Data Analysis",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM2313",
+        "title": "Discrete Mathematics with Applications",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM2401",
+        "title": "Australian Waters and their Dynamics",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM2502",
+        "title": "Physics 2B: Electrons, Photons and Matter",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM2506",
+        "title": "Physics 2A: Meteorology and Atmospheric Physics",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM2508",
+        "title": "Chemical, Biological, Radiological, Nuclear, Explosives",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM2509",
+        "title": "Astrophysics",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM2901",
+        "title": "Research Project 1",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM3103",
+        "title": "Quantum Theory and Applications in Spectroscopy",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM3107",
+        "title": "Explosives",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM3121",
+        "title": "Supramolecular Chemistry",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM3202",
+        "title": "Cultural Geography",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM3204",
+        "title": "Environmental Hazards",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM3208",
+        "title": "Geographic Research Methods",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM3222",
+        "title": "Coastal Geography",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM3301",
+        "title": "Topics in Mathematics",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM3306",
+        "title": "Waves and Fluids",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM3311",
+        "title": "Mathematical Methods for Differential Equations",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM3401",
+        "title": "Ocean Circulation and Mixing",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM3404",
+        "title": "Ocean Waves and Modelling",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM3503",
+        "title": "Advanced Materials",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM3528",
+        "title": "Nuclear Physics",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM3532",
+        "title": "Advanced Topics in Physics and Oceanography",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM3901",
+        "title": "Research Project 2",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM3902",
+        "title": "Research Project 3",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM4001",
+        "title": "Science Honours Research 1",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM4002",
+        "title": "Science Honours Research 2",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM4003",
+        "title": "Science Honours Research 3",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM4004",
+        "title": "Science Honours Research 4",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM4101",
+        "title": "Chemistry Honours Special Topic 1",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM4102",
+        "title": "Chemistry Honours Special Topic 2",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM4201",
+        "title": "Geography Honours Special Topic 1",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM4202",
+        "title": "Geography Honours Special Topic 2",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM4205",
+        "title": "Human Geography Honours Special Topic",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM4301",
+        "title": "Mathematics and Statistics Honours Special Topic 1",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM4302",
+        "title": "Mathematics and Statistics Honours Special Topic 2",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM4401",
+        "title": "Oceanography Honours Special Topic 1",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM4402",
+        "title": "Oceanography Honours Special Topic 2",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM4501",
+        "title": "Physics Honours Special Topic 1",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM4502",
+        "title": "Physics Honours Special Topic 2",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM8207",
+        "title": "Economic Geography",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM8208",
+        "title": "Human Factors and the Technological Interface",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM8209",
+        "title": "Development Geography",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM8805",
+        "title": "Science Special Topic 3",
+        "subject": "ZPEM"
+    },
+    {
+        "code": "ZPEM9403",
+        "title": "Oceanography Research Part-Time",
+        "subject": "ZPEM"
+    }
+]

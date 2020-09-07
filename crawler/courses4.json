@@ -1,0 +1,2452 @@
+[
+    {
+        "code": "GMAT9600",
+        "title": "Principles of Remote Sensing",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GMAT9606",
+        "title": "Microwave Remote Sensing",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GMAT4220",
+        "title": "Geospatial Information Science",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GMAT9205",
+        "title": "Fundamentals of Geopositioning",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GMAT9600",
+        "title": "Principles of Remote Sensing",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GMAT9606",
+        "title": "Microwave Remote Sensing",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GMAT0001",
+        "title": "Research Surveying Full-Time",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GMAT0002",
+        "title": "Research Surveying Part-Time",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GSBE0703",
+        "title": "Built Environment Research Thesis Full-Time",
+        "subject": "GSBE"
+    },
+    {
+        "code": "GSBE0803",
+        "title": "Built Environment Research Thesis Part-Time",
+        "subject": "GSBE"
+    },
+    {
+        "code": "GSOE9712",
+        "title": "Engineering Statistics and Experiment Design",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE9740",
+        "title": "Industrial Ecology and Sustainable Engineering",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE0006",
+        "title": "Project 6 Units of Credit",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE0012",
+        "title": "Project 12 Units of Credit",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE0024",
+        "title": "Project 24 Units of Credit",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE9010",
+        "title": "Engineering Postgraduate Coursework Research Skills",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE9011",
+        "title": "Engineering Postgraduate Coursework Research Skills",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE9017",
+        "title": "Managing Energy Efficiency",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE9111",
+        "title": "Energy Storage",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE9122",
+        "title": "Integrated Design Studio for High Performance Buildings",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE9141",
+        "title": "Smart Grids and Distribution Networks",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE9210",
+        "title": "Engineering Decision Structures",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE9220",
+        "title": "Launching a Startup",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE9340",
+        "title": "Life Cycle Engineering",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE9360",
+        "title": "Academic Discourse in Engineering",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE9445",
+        "title": "Entrepreneurial Engineering",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE9510",
+        "title": "Ethics and Leadership in Engineering",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE9712",
+        "title": "Engineering Statistics and Experiment Design",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE9740",
+        "title": "Industrial Ecology and Sustainable Engineering",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE9758",
+        "title": "Network Systems Architecture",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE9810",
+        "title": "Process and Product Quality in Engineering",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE9820",
+        "title": "Engineering Project Management",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE9830",
+        "title": "Economic Decision Analysis in Engineering",
+        "subject": "GSOE"
+    },
+    {
+        "code": "GSOE9400",
+        "title": "Engineering Postgraduate Research Essentials",
+        "subject": "GSOE"
+    },
+    {
+        "code": "HDAT9100",
+        "title": "Context of Health Data Science",
+        "subject": "HDAT"
+    },
+    {
+        "code": "HDAT9200",
+        "title": "Statistical Foundations for Health Data Science",
+        "subject": "HDAT"
+    },
+    {
+        "code": "HDAT9300",
+        "title": "Computing for Health Data Science",
+        "subject": "HDAT"
+    },
+    {
+        "code": "HDAT9400",
+        "title": "Management and Curation of Health Data",
+        "subject": "HDAT"
+    },
+    {
+        "code": "HDAT9500",
+        "title": "Health Data Analytics: Machine Learning and Data Mining",
+        "subject": "HDAT"
+    },
+    {
+        "code": "HDAT9600",
+        "title": "Health Data Analytics: Statistical Modelling I",
+        "subject": "HDAT"
+    },
+    {
+        "code": "HDAT9700",
+        "title": "Health Data Analytics: Statistical Modelling II",
+        "subject": "HDAT"
+    },
+    {
+        "code": "HDAT9800",
+        "title": "Visualisation and Communication of Health Data",
+        "subject": "HDAT"
+    },
+    {
+        "code": "HDAT9900",
+        "title": "Health Data Science: Dissertation (6 Units of Credit)",
+        "subject": "HDAT"
+    },
+    {
+        "code": "HDAT9901",
+        "title": "Health Data Science: Dissertation (12 Units of Credit)",
+        "subject": "HDAT"
+    },
+    {
+        "code": "HDAT9902",
+        "title": "Health Data Science: Dissertation (18 Units of Credit)",
+        "subject": "HDAT"
+    },
+    {
+        "code": "HDAT9910",
+        "title": "Health Data Science: Capstone",
+        "subject": "HDAT"
+    },
+    {
+        "code": "HESC1501",
+        "title": "Introductory Exercise Science",
+        "subject": "HESC"
+    },
+    {
+        "code": "HESC1511",
+        "title": "Exercise Programs and Behaviour",
+        "subject": "HESC"
+    },
+    {
+        "code": "HESC2452",
+        "title": "Movement Assessment and Instruction",
+        "subject": "HESC"
+    },
+    {
+        "code": "HESC2501",
+        "title": "Exercise Physiology",
+        "subject": "HESC"
+    },
+    {
+        "code": "HESC3501",
+        "title": "Advanced Exercise Science",
+        "subject": "HESC"
+    },
+    {
+        "code": "HESC3504",
+        "title": "Physical Activity and Health",
+        "subject": "HESC"
+    },
+    {
+        "code": "HESC3511",
+        "title": "Health, Exercise and Sport Psychology",
+        "subject": "HESC"
+    },
+    {
+        "code": "HESC3532",
+        "title": "Movement Rehabilitation",
+        "subject": "HESC"
+    },
+    {
+        "code": "HESC3541",
+        "title": "Clinical Exercise Physiology",
+        "subject": "HESC"
+    },
+    {
+        "code": "HESC3581",
+        "title": "Physical Activity in Special Populations",
+        "subject": "HESC"
+    },
+    {
+        "code": "HESC3592",
+        "title": "Neuromuscular Rehabilitation",
+        "subject": "HESC"
+    },
+    {
+        "code": "HESC4501",
+        "title": "Exercise Physiology Research Seminars",
+        "subject": "HESC"
+    },
+    {
+        "code": "HESC4502",
+        "title": "Workplace Assessment and Rehabilitation",
+        "subject": "HESC"
+    },
+    {
+        "code": "HESC4551",
+        "title": "Research Project",
+        "subject": "HESC"
+    },
+    {
+        "code": "HESC4561",
+        "title": "Research Internship A",
+        "subject": "HESC"
+    },
+    {
+        "code": "HESC4571",
+        "title": "Research Internship B",
+        "subject": "HESC"
+    },
+    {
+        "code": "HESC4611",
+        "title": "Clinical Practicum A",
+        "subject": "HESC"
+    },
+    {
+        "code": "HESC4622",
+        "title": "Clinical Practicum B",
+        "subject": "HESC"
+    },
+    {
+        "code": "HIST8301",
+        "title": "Masters Program by Coursework and Research Full-Time",
+        "subject": "HIST"
+    },
+    {
+        "code": "HIST8302",
+        "title": "Masters Program by Coursework and Research Part-Time",
+        "subject": "HIST"
+    },
+    {
+        "code": "HUML9000",
+        "title": "PhD Thesis Humanities and Languages Full-Time",
+        "subject": "HUML"
+    },
+    {
+        "code": "HUML9050",
+        "title": "PhD Thesis Humanities and Languages Part Time",
+        "subject": "HUML"
+    },
+    {
+        "code": "HUMS1005",
+        "title": "Personalised English Language Enhancement",
+        "subject": "HUMS"
+    },
+    {
+        "code": "HUMS1006",
+        "title": "Presentation and Communication Skills",
+        "subject": "HUMS"
+    },
+    {
+        "code": "HUMS1008",
+        "title": "Music on My Mind: Psychology and Music",
+        "subject": "HUMS"
+    },
+    {
+        "code": "HUMS1009",
+        "title": "Sounds Good: Music, Pleasure and Well-being",
+        "subject": "HUMS"
+    },
+    {
+        "code": "HUMS1010",
+        "title": "Experiencing the Sydney Opera House",
+        "subject": "HUMS"
+    },
+    {
+        "code": "HUMS1011",
+        "title": "Experiencing Sydney Crime",
+        "subject": "HUMS"
+    },
+    {
+        "code": "HUMS2000",
+        "title": "Arts Internship",
+        "subject": "HUMS"
+    },
+    {
+        "code": "HUMS2003",
+        "title": "Arts & Social Sciences Global Internship",
+        "subject": "HUMS"
+    },
+    {
+        "code": "HUMS2006",
+        "title": "Research Placement, Arts and Social Sciences",
+        "subject": "HUMS"
+    },
+    {
+        "code": "HUMS2007",
+        "title": "Research Placement II, Arts and Social Sciences",
+        "subject": "HUMS"
+    },
+    {
+        "code": "IDES1071",
+        "title": "Materials and Tech 1: Physical Principles",
+        "subject": "IDES"
+    },
+    {
+        "code": "IDES1122",
+        "title": "Design Theory 1 - History",
+        "subject": "IDES"
+    },
+    {
+        "code": "IDES1211",
+        "title": "Design Studio 1A",
+        "subject": "IDES"
+    },
+    {
+        "code": "IDES1212",
+        "title": "Design Studio 1B",
+        "subject": "IDES"
+    },
+    {
+        "code": "IDES1213",
+        "title": "Design Studio 1C",
+        "subject": "IDES"
+    },
+    {
+        "code": "IDES1262",
+        "title": "Communications 2 - Sketch Modelling",
+        "subject": "IDES"
+    },
+    {
+        "code": "IDES2021",
+        "title": "Design Theory 2: Society",
+        "subject": "IDES"
+    },
+    {
+        "code": "IDES2023",
+        "title": "Design Theory 4 : Methods",
+        "subject": "IDES"
+    },
+    {
+        "code": "IDES2072",
+        "title": "Materials and Tech 2: Manufacturing",
+        "subject": "IDES"
+    },
+    {
+        "code": "IDES2171",
+        "title": "Communication 3: 3D CAD Modelling",
+        "subject": "IDES"
+    },
+    {
+        "code": "IDES2201",
+        "title": "Design Theory 3: People",
+        "subject": "IDES"
+    },
+    {
+        "code": "IDES2221",
+        "title": "Design Studio 2A",
+        "subject": "IDES"
+    },
+    {
+        "code": "IDES2222",
+        "title": "Design Studio 2B",
+        "subject": "IDES"
+    },
+    {
+        "code": "IDES2223",
+        "title": "Design Studio 2C",
+        "subject": "IDES"
+    },
+    {
+        "code": "IDES3021",
+        "title": "Design Theory 5: Perspectives",
+        "subject": "IDES"
+    },
+    {
+        "code": "IDES3321",
+        "title": "Design Studio 3A",
+        "subject": "IDES"
+    },
+    {
+        "code": "IDES3322",
+        "title": "Design Studio 3B",
+        "subject": "IDES"
+    },
+    {
+        "code": "IDES4100",
+        "title": "Capstone Research",
+        "subject": "IDES"
+    },
+    {
+        "code": "IDES4111",
+        "title": "Advanced Studio",
+        "subject": "IDES"
+    },
+    {
+        "code": "IDES4112",
+        "title": "Capstone Project",
+        "subject": "IDES"
+    },
+    {
+        "code": "IEST5001",
+        "title": "Frameworks for Environmental Management",
+        "subject": "IEST"
+    },
+    {
+        "code": "IEST5002",
+        "title": "Tools for Environmental Management",
+        "subject": "IEST"
+    },
+    {
+        "code": "IEST5003",
+        "title": "Addressing Environmental Issues",
+        "subject": "IEST"
+    },
+    {
+        "code": "IEST5003",
+        "title": "Addressing Environmental Issues: Pathways to Change-Making",
+        "subject": "IEST"
+    },
+    {
+        "code": "IEST5004",
+        "title": "Environmental Management Research Internship",
+        "subject": "IEST"
+    },
+    {
+        "code": "IEST5005",
+        "title": "Environmental Communication",
+        "subject": "IEST"
+    },
+    {
+        "code": "IEST5007",
+        "title": "Environment and Development",
+        "subject": "IEST"
+    },
+    {
+        "code": "IEST5012",
+        "title": "Environmental Management Project Paper",
+        "subject": "IEST"
+    },
+    {
+        "code": "IEST5021",
+        "title": "Corporate Environmental Sustainability Reporting",
+        "subject": "IEST"
+    },
+    {
+        "code": "IEST5500",
+        "title": "Understanding Environmental Policy",
+        "subject": "IEST"
+    },
+    {
+        "code": "IEST6911",
+        "title": "Managing Greenhouse Gas Emissions",
+        "subject": "IEST"
+    },
+    {
+        "code": "IEST7100",
+        "title": "Environmental Management: Economics Fundamentals",
+        "subject": "IEST"
+    },
+    {
+        "code": "IEST7200",
+        "title": "Environmental Management: Law Fundamentals",
+        "subject": "IEST"
+    },
+    {
+        "code": "IEST7400",
+        "title": "Environmental Management: Social Science Fundamentals",
+        "subject": "IEST"
+    },
+    {
+        "code": "IEST7500",
+        "title": "Environmental Management: Engineering Fundamentals",
+        "subject": "IEST"
+    },
+    {
+        "code": "IEST8025",
+        "title": "Major Research Project",
+        "subject": "IEST"
+    },
+    {
+        "code": "INFS1602",
+        "title": "Digital Transformation in Business",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS1603",
+        "title": "Introduction to Business Databases",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS1609",
+        "title": "Fundamentals of Business Programming",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS2101",
+        "title": "Industry Placement 1",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS2603",
+        "title": "Business Analysis",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS2605",
+        "title": "Intermediate Business Programming",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS2608",
+        "title": "Database Management and Big Data Infrastructures",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS2609",
+        "title": "Programming for Business",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS2621",
+        "title": "Enterprise Systems",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS2631",
+        "title": "Innovation and Technology Management",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS2822",
+        "title": "Programming for Data Analytics",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS3020",
+        "title": "International Information Systems and Technology Practicum",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS3202",
+        "title": "Industry Placement 2",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS3303",
+        "title": "Industry Placement 3",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS3603",
+        "title": "Introduction to Business Analytics",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS3604",
+        "title": "Business Process Management",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS3605",
+        "title": "Information Systems Innovation and Transformation",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS3617",
+        "title": "Networking and Cyber Security",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS3632",
+        "title": "Service and Quality Management",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS3634",
+        "title": "Mobile Applications Development",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS3830",
+        "title": "Social Media and Analytics",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS3873",
+        "title": "Business Analytics Methods",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS4800",
+        "title": "Thesis A",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS4801",
+        "title": "Thesis B",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS4802",
+        "title": "Thesis C",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS4831",
+        "title": "Information Systems Consulting",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS4854",
+        "title": "Information Systems Strategy and Management",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS4858",
+        "title": "Managing Complex Projects",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS4886",
+        "title": "Principles of Research Design",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS4887",
+        "title": "Business Research Methods",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS4907",
+        "title": "Managing Security and Ethics in Cyberspace",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5604",
+        "title": "Business Process Management",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5621",
+        "title": "Enterprise Systems",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5700",
+        "title": "Introduction to Business Analytics",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5710",
+        "title": "Information Technology Infrastructure for Business Analytics",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5720",
+        "title": "Business Analytics Methods",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5730",
+        "title": "Social Media and Enterprise 2.0",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5731",
+        "title": "Information Systems Strategy and Management",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5740",
+        "title": "Business Systems Project",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5831",
+        "title": "Information Systems Consulting",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5848",
+        "title": "Managing Complex Projects",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5870",
+        "title": "Operations Management",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5871",
+        "title": "Supply Chains and Logistics Design",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5872",
+        "title": "Service and Quality Management",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5885",
+        "title": "e-Business",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5907",
+        "title": "Managing Security and Ethics in Cyberspace",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5929",
+        "title": "Managing Information Systems / Information Technology Risk",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5978",
+        "title": "Accounting Information Systems",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5987",
+        "title": "Theoretical Foundations of Information Systems",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5993",
+        "title": "Special Topic in Information Systems and Technology Management",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5997",
+        "title": "Enterprise Systems and Business Design Practicum",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5000",
+        "title": "Full-Time Research Information Systems",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5001",
+        "title": "Part-Time Research Information Systems",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS5994",
+        "title": "F/T Masters Research Thesis Information Systems",
+        "subject": "INFS"
+    },
+    {
+        "code": "INFS6001",
+        "title": "Part-Time Masters Research Thesis Information Systems",
+        "subject": "INFS"
+    },
+    {
+        "code": "INST1005",
+        "title": "Key Debates in International Studies",
+        "subject": "INST"
+    },
+    {
+        "code": "INST1006",
+        "title": "The World in Transition",
+        "subject": "INST"
+    },
+    {
+        "code": "INST2003",
+        "title": "Research Methods in International Studies",
+        "subject": "INST"
+    },
+    {
+        "code": "INST3900",
+        "title": "International Studies Advanced Seminar",
+        "subject": "INST"
+    },
+    {
+        "code": "INTA1000",
+        "title": "Interior Architecture Practice Studio 1",
+        "subject": "INTA"
+    },
+    {
+        "code": "INTA1003",
+        "title": "Interior Architecture Composition 3",
+        "subject": "INTA"
+    },
+    {
+        "code": "INTA2000",
+        "title": "Interior Architecture Practice Studio 2",
+        "subject": "INTA"
+    },
+    {
+        "code": "INTA2001",
+        "title": "Interior Architecture Technics 1",
+        "subject": "INTA"
+    },
+    {
+        "code": "INTA2002",
+        "title": "Interior Architecture Technics 2",
+        "subject": "INTA"
+    },
+    {
+        "code": "INTA2003",
+        "title": "Interior Architecture Technics 3",
+        "subject": "INTA"
+    },
+    {
+        "code": "INTA2004",
+        "title": "Interior Architecture Technics 4",
+        "subject": "INTA"
+    },
+    {
+        "code": "INTA2411",
+        "title": "Dissertation",
+        "subject": "INTA"
+    },
+    {
+        "code": "INTA3000",
+        "title": "Interior Architecture Practice Studio 3",
+        "subject": "INTA"
+    },
+    {
+        "code": "INTA3001",
+        "title": "Interior Architecture Critical Perspectives 1",
+        "subject": "INTA"
+    },
+    {
+        "code": "INTA3002",
+        "title": "Interior Architecture Critical Perspectives 2",
+        "subject": "INTA"
+    },
+    {
+        "code": "INTA3003",
+        "title": "Interior Architecture Critical Perspectives 3",
+        "subject": "INTA"
+    },
+    {
+        "code": "INTA3004",
+        "title": "Interior Architecture Critical Perspectives 4",
+        "subject": "INTA"
+    },
+    {
+        "code": "INTA4000",
+        "title": "Interior Architecture Practice Studio 4",
+        "subject": "INTA"
+    },
+    {
+        "code": "INTA4004",
+        "title": "Practice of Interior Architecture",
+        "subject": "INTA"
+    },
+    {
+        "code": "INTA5000",
+        "title": "Interior Architecture Practice Studio 5",
+        "subject": "INTA"
+    },
+    {
+        "code": "INTA6000",
+        "title": "Interior Architecture Practice Studio 6",
+        "subject": "INTA"
+    },
+    {
+        "code": "INTA7000",
+        "title": "Interior Architecture Practice Studio 7",
+        "subject": "INTA"
+    },
+    {
+        "code": "INTA8000",
+        "title": "Interior Architecture Practice Studio 8",
+        "subject": "INTA"
+    },
+    {
+        "code": "INTD8301",
+        "title": "Masters Program by Coursework and Research Full-Time",
+        "subject": "INTD"
+    },
+    {
+        "code": "INTD8302",
+        "title": "Masters Program by Coursework and Research Part-Time",
+        "subject": "INTD"
+    },
+    {
+        "code": "JURD7121",
+        "title": "Crime and the Criminal Process",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7122",
+        "title": "Criminal Laws",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7130",
+        "title": "Lawyers, Ethics and Justice",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7141",
+        "title": "Principles of Public Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7150",
+        "title": "Principles of Private Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7152",
+        "title": "Introducing Law and Justice",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7160",
+        "title": "Administrative Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7161",
+        "title": "Torts",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7175",
+        "title": "Contracts",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7222",
+        "title": "Law and Social Theory",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7223",
+        "title": "Legal Theory",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7224",
+        "title": "Business Associations",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7236",
+        "title": "Theories of Law and Justice",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7250",
+        "title": "Federal Constitutional Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7251",
+        "title": "Court Process, Evidence and Proof",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7270",
+        "title": "Law in the Global Context",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7271",
+        "title": "Resolving Civil Disputes",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7272",
+        "title": "Transitional Module: LRW - Australian Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7283",
+        "title": "Land Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7284",
+        "title": "Legal Experimentalism",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7285",
+        "title": "Equity and Trusts",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7302",
+        "title": "Advanced Criminal Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7303",
+        "title": "Kingsford Legal Centre Community Law Clinic (Intensive)",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7304",
+        "title": "Kingsford Legal Centre Community Law Clinic (Non-intensive)",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7305",
+        "title": "Kingsford Legal Centre Employment Law Clinic (Intensive)",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7318",
+        "title": "Commercial Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7321",
+        "title": "Foundations of Intellectual Property Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7323",
+        "title": "Chinese Legal System (SJTU)",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7325",
+        "title": "Advanced Contract Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7328",
+        "title": "Employment Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7331",
+        "title": "Information Technology Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7333",
+        "title": "Law of Banking",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7335",
+        "title": "Economic Analysis of Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7336",
+        "title": "Theories of Law and Justice",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7341",
+        "title": "Gender and Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7344",
+        "title": "Electronic Commerce Law & Practice",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7350",
+        "title": "Globalisation and Intellectual Property Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7360",
+        "title": "Human Rights Clinic (Non-intensive)",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7361",
+        "title": "Environmental Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7366",
+        "title": "Environmental Markets",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7369",
+        "title": "Natural Resources Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7371",
+        "title": "Development and Planning Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7372",
+        "title": "Australian Immigration Law and Practice",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7379",
+        "title": "Restitution",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7380",
+        "title": "Insurance Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7381",
+        "title": "International Humanitarian Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7382",
+        "title": "Advanced Administrative Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7383",
+        "title": "Australian Journal of Human Rights",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7386",
+        "title": "Human Rights Defender",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7387",
+        "title": "Forced Migration and Human Rights in International Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7399",
+        "title": "Funds Management, Superannuation and Insurance",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7404",
+        "title": "International Children's Rights Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7409",
+        "title": "Human Rights Clinic (Intensive)",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7411",
+        "title": "Indigenous People and the Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7413",
+        "title": "Housing Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7414",
+        "title": "Insolvency Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7419",
+        "title": "Competition Law and Policy",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7421",
+        "title": "Media Law: General Principles",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7423",
+        "title": "Research Thesis: 4 Units of Credit",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7424",
+        "title": "Indigenous Women and the Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7431",
+        "title": "Legal Theory",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7434",
+        "title": "Research Thesis: Extended",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7438",
+        "title": "Chinese Corporate and Securities Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7441",
+        "title": "Law Journal (Issue Editor)",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7444",
+        "title": "Animal Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7446",
+        "title": "Intellectual Property 1: Copyright and Designs",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7448",
+        "title": "Intellectual Property 2: Trade Marks and Patents",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7462",
+        "title": "Media and Human Rights",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7467",
+        "title": "International Criminal Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7468",
+        "title": "The Australian Legal System in Comparative Perspective",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7475",
+        "title": "Gender, Race and Justice",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7476",
+        "title": "Sir Anthony Mason Research Project in Constitutional Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7478",
+        "title": "Mediation in Practice",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7479",
+        "title": "International Investment Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7480",
+        "title": "Principled (Interest Based) Negotiation",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7481",
+        "title": "Public International Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7482",
+        "title": "Conflict of Laws",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7484",
+        "title": "International Trade Law: The Law and Policy of the WTO",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7486",
+        "title": "International Law Competitive Moot",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7488",
+        "title": "Law of Armed Conflict",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7491",
+        "title": "Family Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7492",
+        "title": "Children and the Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7493",
+        "title": "Succession",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7502",
+        "title": "Land and Environment Court Clinic",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7503",
+        "title": "Crime Prevention Policy",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7522",
+        "title": "Competition Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7527",
+        "title": "Drug Law and Policy",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7528",
+        "title": "Migration and Citizenship Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7540",
+        "title": "Kingsford Legal Centre Family Law Community Education Clinic (Non-intensive)",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7549",
+        "title": "Child Rights Comparative Clinical Program: India",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7554",
+        "title": "International Trade Remedies: Law and Practices",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7555",
+        "title": "UNSW Law Internships",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7564",
+        "title": "UNSW Law Journal (Executive Editor)",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7565",
+        "title": "UNSW Law Journal Editor",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7567",
+        "title": "The Rule of Law in Southeast Asia",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7572",
+        "title": "Corporate Misconduct and White Collar Crime",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7574",
+        "title": "Social Impact Hub (Non-intensive)",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7581",
+        "title": "Advanced Statutory Interpretation",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7582",
+        "title": "International Human Rights Law and Advocacy",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7583",
+        "title": "International Commercial Arbitration",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7585",
+        "title": "International Organisations",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7586",
+        "title": "Law of the Sea",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7589",
+        "title": "Business and Human Rights",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7592",
+        "title": "The High Court of Australia",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7593",
+        "title": "International Business Transactions",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7594",
+        "title": "White-Collar Crime",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7596",
+        "title": "Designing Technology Solutions for Access to Justice",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7602",
+        "title": "The Law of Politics",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7610",
+        "title": "International Commercial Mediation Competition",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7617",
+        "title": "Intellectual Property Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7619",
+        "title": "International Environmental Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7623",
+        "title": "Commercial and Charitable Trusts",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7632",
+        "title": "Law and Social Theory",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7639",
+        "title": "Law and the Culture Industries",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7657",
+        "title": "Chinese Regulation of International Business",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7665",
+        "title": "Skills in Dispute Management",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7689",
+        "title": "World Trade Law: Contemporary Issues and Concerns",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7701",
+        "title": "Remedies",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7716",
+        "title": "Food Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7741",
+        "title": "Censorship, Contempt and the Media",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7745",
+        "title": "Women and Gender Law ILS Pune",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7751",
+        "title": "Business Taxation",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7774",
+        "title": "Financial Law and Regulation in the Age of FinTech",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7775",
+        "title": "Social Impact Hub (Intensive)",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7781",
+        "title": "International Human Rights",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7784",
+        "title": "Legal Experimentalism",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7795",
+        "title": "Intellectual Property & Tech Commercialisation: Strategic Management of the Lifecycle of Innovation",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7817",
+        "title": "Critical Issues in Restorative Justice",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7819",
+        "title": "Police Powers Clinic",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7823",
+        "title": "Research Thesis: 6 Units of Credit",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7829",
+        "title": "Legal Writing in Context",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7841",
+        "title": "Pacific Islands Laws (USP)",
+        "subject": "JURD"
+    },
+    {
+        "code": "JURD7891",
+        "title": "International Criminal Law",
+        "subject": "JURD"
+    },
+    {
+        "code": "LAND1322",
+        "title": "Urban Landscape Design Seminar",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND1351",
+        "title": "Landscape Performance and Management",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND2101",
+        "title": "Landscape Studio 1 - Design Fundamentals",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND2102",
+        "title": "Landscape Studio 2 - Design Process",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND2121",
+        "title": "Introduction to Landscape Architecture",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND2122",
+        "title": "History of Landscape Architecture",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND2142",
+        "title": "Landscape Architecture Communication 2",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND2151",
+        "title": "Landscape Analysis",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND2152",
+        "title": "Plants and Design",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND2201",
+        "title": "Landscape Studio 3 - Landform and Planting",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND2202",
+        "title": "Landscape Studio 4 - Design Detail: Resolution and Representation",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND2251",
+        "title": "Planting Design at the Landscape Scale",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND2271",
+        "title": "Landscape Design and Documentation 1",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND2272",
+        "title": "Landscape Design and Documentation 2",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND2311",
+        "title": "Landscape Studio 5: Site Planning - Landscape Systems and Performance",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND2312",
+        "title": "Landscape Studio 6: Site Planning - Landscape Performance and Site Design",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND2313",
+        "title": "Landscape Studio 7: Design with a Complex Program",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND2411",
+        "title": "Landscape Studio 8: Urban Landscape Design",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND2412",
+        "title": "Landscape Studio 9: Urban Public Domain",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND2413",
+        "title": "Landscape Studio 10: Landscape Architecture Graduation Studio",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND2421",
+        "title": "Contemporary Landscape Theory and Research",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND7101",
+        "title": "Master Landscape Studio 1: Site Planning - Landscape Performance and Site Design",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND7102",
+        "title": "Master Landscape Studio 2: Design with a Complex Program",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND7121",
+        "title": "People Place Design",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND7151",
+        "title": "Planting Design at the Landscape Scale",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND7201",
+        "title": "Master Landscape Studio 3: The Public Realm",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND7202",
+        "title": "Master Landscape Studio 4: Constructed Ecologies",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND7211",
+        "title": "Case Studies in Landscape Architecture",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND7221",
+        "title": "Advanced Urban Landscape Visualisation",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND7272",
+        "title": "Landscape Technology 1: Landscape Performance (Materials and Fabrication)",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND7301",
+        "title": "Master Landscape Studio 5: City as Site",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND7302",
+        "title": "Master Landscape Studio 6: Capstone",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND7311",
+        "title": "Advanced Landscape Theory and Research",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND7312",
+        "title": "Master Landscape Studio 6: Capstone Part 1",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND7313",
+        "title": "Master Landscape Studio 6: Capstone Part 2",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAND7321",
+        "title": "Landscape Technology 2",
+        "subject": "LAND"
+    },
+    {
+        "code": "LAWS1021",
+        "title": "Crime and the Criminal Process",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS1022",
+        "title": "Criminal Laws",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS1052",
+        "title": "Introducing Law and Justice",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS1061",
+        "title": "Torts",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS1075",
+        "title": "Contracts",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS1091",
+        "title": "Business Associations",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS1121",
+        "title": "Legal System and Skills A",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS1141",
+        "title": "Principles of Public Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS1150",
+        "title": "Principles of Private Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS1160",
+        "title": "Administrative Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS1213",
+        "title": "Foundations Enrichment 1",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS1214",
+        "title": "Foundations Enrichment 2",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS1230",
+        "title": "Lawyers, Ethics and Justice",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS2150",
+        "title": "Federal Constitutional Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS2270",
+        "title": "Law in the Global Context",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS2277",
+        "title": "Transitional Module: LRW - Australian Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS2320",
+        "title": "Legal Theory",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS2326",
+        "title": "Theories of Law and Justice",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS2351",
+        "title": "Court Process, Evidence and Proof",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS2371",
+        "title": "Resolving Civil Disputes",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS2383",
+        "title": "Land Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS2384",
+        "title": "Legal Experimentalism",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS2385",
+        "title": "Equity and Trusts",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS2820",
+        "title": "Law and Social Theory",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3014",
+        "title": "Insolvency Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3018",
+        "title": "Commercial Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3021",
+        "title": "Foundations of Intellectual Property Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3022",
+        "title": "Competition Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3023",
+        "title": "Commercial and Charitable Trusts",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3025",
+        "title": "Advanced Contract Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3028",
+        "title": "Employment Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3046",
+        "title": "Intellectual Property 1: Copyright and Designs",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3060",
+        "title": "Human Rights Clinic (Non-intensive)",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3064",
+        "title": "UNSW Law Journal (Executive Editor)",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3065",
+        "title": "UNSW Law Journal Editor",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3067",
+        "title": "International Criminal Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3070",
+        "title": "International Investment Law and Policy",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3072",
+        "title": "Corporate Misconduct and White Collar Crime",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3074",
+        "title": "Social Impact Hub (Non-Intensive)",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3075",
+        "title": "Social Impact Hub (Intensive)",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3079",
+        "title": "Restitution",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3084",
+        "title": "International Trade Law: The Law and Policy of the World Trade Organisation (WTO)",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3086",
+        "title": "International Law Competitive Moot",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3102",
+        "title": "Advanced Criminal Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3123",
+        "title": "Chinese Legal System (SJTU)",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3131",
+        "title": "Information Technology Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3133",
+        "title": "Law of Banking",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3144",
+        "title": "Animal Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3157",
+        "title": "Chinese Regulation of International Business",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3167",
+        "title": "The Rule of Law in Southeast Asia",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3181",
+        "title": "International Humanitarian Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3182",
+        "title": "International Human Rights Law and Advocacy",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3183",
+        "title": "Australian Journal of Human Rights",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3186",
+        "title": "Human Rights Defender",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3187",
+        "title": "Forced Migration and Human Rights in International Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3196",
+        "title": "Designing Technology Solutions for Access to Justice",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3211",
+        "title": "Indigenous People and the Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3216",
+        "title": "Food Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3221",
+        "title": "Media Law: General Principles",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3240",
+        "title": "Kingsford Legal Centre Family Law Community Education Clinic (Non-Intensive)",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3248",
+        "title": "Intellectual Property 2: Trade Marks and Patents",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3272",
+        "title": "Australian Immigration Law and Practice",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3276",
+        "title": "Sir Anthony Mason Research Project in Constitutional Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3281",
+        "title": "Advanced Statutory Interpretation",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3282",
+        "title": "Advanced Administrative Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3292",
+        "title": "The High Court of Australia",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3301",
+        "title": "Remedies",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3302",
+        "title": "Land and Environment Court Clinic",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3303",
+        "title": "Kingsford Legal Centre Community Law Clinic (Intensive)",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3304",
+        "title": "Kingsford Legal Centre Community Law Clinic (Non-intensive)",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3305",
+        "title": "Kingsford Legal Centre Employment Law Clinic (Intensive)",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3309",
+        "title": "Human Rights Clinic (Intensive)",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3314",
+        "title": "Alternative Dispute Resolution in Practice",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3319",
+        "title": "Police Powers Clinic",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3321",
+        "title": "Introduction to the Australian Legal System",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3326",
+        "title": "Theories of Law and Justice",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3331",
+        "title": "Legal Theory",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3332",
+        "title": "Law and Social Theory",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3335",
+        "title": "Economic Analysis of Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3341",
+        "title": "Gender and Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3350",
+        "title": "Sport, Law and Society in Australia 1",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3354",
+        "title": "International Trade Remedies: Law and Practices",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3361",
+        "title": "Environmental Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3362",
+        "title": "Understanding Human Rights",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3368",
+        "title": "The Australian Legal System in Comparative Perspective",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3381",
+        "title": "Public International Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3382",
+        "title": "Conflict of Laws",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3384",
+        "title": "Legal Experimentalism",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3391",
+        "title": "Family Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3392",
+        "title": "Children and the Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3393",
+        "title": "Succession",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3402",
+        "title": "The Law of Politics",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3413",
+        "title": "Housing Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3423",
+        "title": "Research Thesis",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3425",
+        "title": "Research Thesis",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3427",
+        "title": "Drug Law and Policy",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3434",
+        "title": "Research Thesis: Extended",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3441",
+        "title": "Law Journal (Issue Editor)",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3445",
+        "title": "Women and Gender Law ILS Pune",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3510",
+        "title": "International Commercial Mediation Competition",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3524",
+        "title": "Indigenous Women and the Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3541",
+        "title": "Pacific Islands Laws (USP)",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3549",
+        "title": "Child Rights Comparative Clinical Program: India",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3555",
+        "title": "UNSW Law Internships",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3751",
+        "title": "Business Taxation",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS3901",
+        "title": "Honours Research Thesis",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS9801",
+        "title": "Aspects of Environmental Policy and Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8017",
+        "title": "Intellectual Property Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8028",
+        "title": "Corporate Governance",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8038",
+        "title": "Chinese Corporate and Securities Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8044",
+        "title": "Electronic Commerce Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8050",
+        "title": "Globalisation and Intellectual Property Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8052",
+        "title": "Human Rights Internship Program",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8069",
+        "title": "Natural Resources Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8071",
+        "title": "Development and Planning Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8075",
+        "title": "Gender, Race and Justice",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8078",
+        "title": "Mediation in Practice",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8079",
+        "title": "International Investment Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8080",
+        "title": "Insurance Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8085",
+        "title": "International Organisations",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8086",
+        "title": "Law of the Sea",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8099",
+        "title": "Funds Management, Superannuation and Insurance",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8103",
+        "title": "Crime Prevention Policy",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8104",
+        "title": "International Children's Rights Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8117",
+        "title": "Critical Issues in Restorative Justice",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8124",
+        "title": "Indigenous Women and the Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8135",
+        "title": "Chinese Legal System (SJTU)",
+        "subject": "LAWS"
+    }
+]

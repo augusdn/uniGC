@@ -89,4 +89,9 @@ if __name__ == '__main__':
         subject_areas.append({"code": names[0], "name": names[1]})
         courses += getCourses(url,names[0])
     saveJson(subject_areas, "subjects.json")
-    saveJson(courses, "courses.json")
+    # maximum document per transaction is limited to 500 from firestore
+    n = 490
+    x = [courses[i:i + n] for i in range(0, len(courses), n)]
+    for l in x:
+        saveJson(l, "courses" + str(x.index(l)) + ".json")
+    # saveJson(courses, "courses.json")

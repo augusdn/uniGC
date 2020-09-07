@@ -1,0 +1,2452 @@
+[
+    {
+        "code": "PSYC1024",
+        "title": "Clinical Perspectives on Anxiety, Mood and Stress",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC1025",
+        "title": "Psychology of Work",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC1027",
+        "title": "Forensic Psychology: Crime, Courts and Corrections",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC1029",
+        "title": "Psychobiology of Sex, Love and Attraction",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC1062",
+        "title": "Psychological Science of Wellbeing",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC1111",
+        "title": "Measuring Mind and Behaviour",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC2001",
+        "title": "Research Methods 2",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC2061",
+        "title": "Social and Developmental Psychology",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC2071",
+        "title": "Perception and Cognition",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC2081",
+        "title": "Learning and Physiological Psychology",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC2101",
+        "title": "Assessment, Personality and Psychopathology",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC3001",
+        "title": "Research Methods 3",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC3011",
+        "title": "Research and Applications of Psychology",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC3051",
+        "title": "Physiological Psychology",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC3121",
+        "title": "Social Psychology",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC3202",
+        "title": "Clinical and Cognitive Neuroscience",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC3211",
+        "title": "Cognitive Science",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC3221",
+        "title": "Vision and Brain",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC3241",
+        "title": "Psychobiology of Memory and Motivation",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC3301",
+        "title": "Psychology and Law",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC3311",
+        "title": "Language and Cognition",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC3331",
+        "title": "Health Psychology",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC3341",
+        "title": "Developmental Psychology",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC3361",
+        "title": "Psychology Research Internship",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC3371",
+        "title": "Multivariate Data Analysis for Psychology",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC4072",
+        "title": "Psychology Honours Research Project 6 Units of Credit",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC4073",
+        "title": "Psychology Honours Research Project 12 Units of Credit",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC4093",
+        "title": "Psychology 4A (12 UOC)",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC4103",
+        "title": "Psychology 4B (6 UOC)",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC5001",
+        "title": "Introduction to Psychology 1",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC5002",
+        "title": "Introduction to Psychology 2",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC5003",
+        "title": "Data Analysis and Methods of Psychological Inquiry",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC5004",
+        "title": "Advanced Data Analysis and Methods of Psychological Inquiry",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC5005",
+        "title": "Behavioural Neuroscience",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC5006",
+        "title": "Psychology Across the Lifespan",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC5007",
+        "title": "The Individual, Culture and Society",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC5008",
+        "title": "Perception and Cognition",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC5009",
+        "title": "Abnormal Psychology",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC5010",
+        "title": "Psychological Assessment, Ethics, and Professional Skills",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7000",
+        "title": "Research and Evaluation Methods",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7001",
+        "title": "Psychological Assessment 1",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7204",
+        "title": "Adult and Child Clinical Psychology 2",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7210",
+        "title": "Clinical Neuropsychology",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7212",
+        "title": "Adult and Child Clinical Psychology 1",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7220",
+        "title": "Psychology of Health and Illness",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7221",
+        "title": "Experimental and Clinical Psychology",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7222",
+        "title": "Advanced Topics in Clinical Psychology",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7223",
+        "title": "Professional and Ethical Practice (Clinical) 1",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7224",
+        "title": "Professional and Ethical Practice (Clinical) 2",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7225",
+        "title": "Professional and Ethical Practice (Clinical) 3",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7226",
+        "title": "Professional and Ethical Practice (Clinical) 4",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7227",
+        "title": "Research Thesis (Clinical) 1",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7228",
+        "title": "Research Thesis (Clinical) 2",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7230",
+        "title": "Research Thesis (Clinical)",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7400",
+        "title": "Interventions in Forensic Psychology 1",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7401",
+        "title": "Interventions in Forensic Psychology 2",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7402",
+        "title": "Applications of Forensic Psychology",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7403",
+        "title": "Experimental Psychology and Law",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7409",
+        "title": "Professional and Ethical Practice (Forensic) 1",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7410",
+        "title": "Professional and Ethical Practice (Forensic) 2",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7411",
+        "title": "Professional and Ethical Practice (Forensic) 3",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7412",
+        "title": "Professional and Ethical Practice (Forensic) 4",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7413",
+        "title": "Research Thesis (Forensic) 1",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7414",
+        "title": "Research Thesis (Forensic) 2",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7415",
+        "title": "Research Thesis (Forensic)",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7416",
+        "title": "Professional and Ethical Practice (Forensic) 2 (3 Units of Credit)",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7417",
+        "title": "Professional and Ethical Practice (Forensic) 3 (3 Units of Credit)",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC7418",
+        "title": "Professional and Ethical Practice (Forensic) 4 (3 Units of Credit)",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC8000",
+        "title": "Research Thesis Psychology Full-Time",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC8001",
+        "title": "Part-Time Research Thesis Psychology",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PTRL2010",
+        "title": "Business Practices in the Petroleum Industry",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL2019",
+        "title": "Reservoir Engineering A",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL2020",
+        "title": "Petrophysics",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL2030",
+        "title": "Field Development Geology",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL2114",
+        "title": "Petroleum Geophysics",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL3001",
+        "title": "Reservoir Engineering B",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL3015",
+        "title": "Well Drilling Equipment and Operations",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL3022",
+        "title": "Design Project for Petroleum Engineers",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL3025",
+        "title": "Petroleum Economics",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL3030",
+        "title": "Reservoir Characterisation",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL3040",
+        "title": "Numerical Reservoir Simulation",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL3050",
+        "title": "Well Pressure Testing",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL4010",
+        "title": "Integrated Oil and Gas Field Evaluation A",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL4011",
+        "title": "Integrated Oil and Gas Field Evaluation B (Thesis)",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL4012",
+        "title": "Enhanced Oil and Gas Recovery",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL4017",
+        "title": "Well Technology",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL4020",
+        "title": "Natural Gas Engineering",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL4021",
+        "title": "Petroleum Production Engineering",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL4024",
+        "title": "Drilling Fluids and Cementing",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL4951",
+        "title": "Research Thesis A",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL4952",
+        "title": "Research Thesis B",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL4953",
+        "title": "Research Thesis C",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL5003",
+        "title": "Well Pressure Testing",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL5004",
+        "title": "Numerical Reservoir Simulation",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL5005",
+        "title": "Design Project for Petroleum Engineers",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL5006",
+        "title": "Field Development Geology",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL5007",
+        "title": "Fundamentals of Reservoir Engineering B",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL5008",
+        "title": "Petroleum Production Economics",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL5009",
+        "title": "Well Drilling Equipment and Operations",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL5010",
+        "title": "Natural Gas Engineering",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL5011",
+        "title": "Petroleum Production Engineering",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL5012",
+        "title": "Enhanced Oil and Gas Recovery",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL5014",
+        "title": "Petroleum Geophysics",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL5016",
+        "title": "Well Completions and Stimulation",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL5019",
+        "title": "Fundamentals of Reservoir Engineering A",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL5021",
+        "title": "Reservoir Characterisation",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL5022",
+        "title": "Drilling Systems Design and Optimisation",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL5024",
+        "title": "Drilling Fluids and Cementing Techniques",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL5102",
+        "title": "Digital Core Analysis",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL5107",
+        "title": "Petrophysics",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL5119",
+        "title": "Geothermal Engineering",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL6001",
+        "title": "Reservoir Engineering 1",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL6003",
+        "title": "Well Pressure Testing",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL6004",
+        "title": "Numerical Reservoir Simulation",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL6006",
+        "title": "Introduction to Field Development Geology",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL6007",
+        "title": "Reservoir Engineering 2",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL6009",
+        "title": "Well Drilling Equipment and Operations",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL6012",
+        "title": "Drilling Mud - Formulation, Selection and Maintenance",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL6014",
+        "title": "Petroleum Geophysics",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL6016",
+        "title": "Well Completions and Stimulation",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL6021",
+        "title": "Reservoir Characterisation",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL6025",
+        "title": "Well Control and Blowout Prevention",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL6027",
+        "title": "Casing Design and Cementing",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL6028",
+        "title": "Practical Aspects of Well Planning and Drilling Cost Estimates",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL6029",
+        "title": "Directional Horizontal and Multilateral Drilling",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL6032",
+        "title": "Coal Seam Gas Engineering",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL6107",
+        "title": "Formation Evaluation",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL9451",
+        "title": "Masters Project A",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL9452",
+        "title": "Masters Project B",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL9453",
+        "title": "Masters Project C",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL6100",
+        "title": "Full-Time Research Thesis Petroleum Engineering Studies",
+        "subject": "PTRL"
+    },
+    {
+        "code": "PTRL6101",
+        "title": "Part-Time Research Thesis Petroleum Engineering Studies",
+        "subject": "PTRL"
+    },
+    {
+        "code": "REGZ9000",
+        "title": "University Orientation and Study Skills (UPP) 1",
+        "subject": "REGZ"
+    },
+    {
+        "code": "REGZ9070",
+        "title": "UPP Mathematics Skills",
+        "subject": "REGZ"
+    },
+    {
+        "code": "REGZ9072",
+        "title": "UPP Mathematics Skills 2",
+        "subject": "REGZ"
+    },
+    {
+        "code": "REGZ9073",
+        "title": "UPP Mathematics Skills 3",
+        "subject": "REGZ"
+    },
+    {
+        "code": "REGZ9075",
+        "title": "Academic Skills 1",
+        "subject": "REGZ"
+    },
+    {
+        "code": "REGZ9076",
+        "title": "Academic Skills 2",
+        "subject": "REGZ"
+    },
+    {
+        "code": "REGZ9077",
+        "title": "Social Science Skills 1",
+        "subject": "REGZ"
+    },
+    {
+        "code": "REGZ9078",
+        "title": "Social Science Skills 2",
+        "subject": "REGZ"
+    },
+    {
+        "code": "REGZ9255",
+        "title": "University Orientation and Study Skills (UPP) 2",
+        "subject": "REGZ"
+    },
+    {
+        "code": "REST0001",
+        "title": "Property Performance Analysis",
+        "subject": "REST"
+    },
+    {
+        "code": "REST0004",
+        "title": "Property Investment and Finance",
+        "subject": "REST"
+    },
+    {
+        "code": "REST0005",
+        "title": "Property Valuation",
+        "subject": "REST"
+    },
+    {
+        "code": "REST0006",
+        "title": "Property Development and Feasibility Analysis",
+        "subject": "REST"
+    },
+    {
+        "code": "REST0007",
+        "title": "Asset and Facilities Management",
+        "subject": "REST"
+    },
+    {
+        "code": "REST0010",
+        "title": "Property Industry Application",
+        "subject": "REST"
+    },
+    {
+        "code": "REST0018",
+        "title": "Research Project",
+        "subject": "REST"
+    },
+    {
+        "code": "REST0019",
+        "title": "Real Property Law",
+        "subject": "REST"
+    },
+    {
+        "code": "REST0022",
+        "title": "Building Analytics",
+        "subject": "REST"
+    },
+    {
+        "code": "RISK2001",
+        "title": "Fundamentals of Risk and Risk Management",
+        "subject": "RISK"
+    },
+    {
+        "code": "RISK2002",
+        "title": "Risk Analytics",
+        "subject": "RISK"
+    },
+    {
+        "code": "RISK3003",
+        "title": "Risk Decision Analytics",
+        "subject": "RISK"
+    },
+    {
+        "code": "RISK5001",
+        "title": "Fundamentals of Risk and Risk Management",
+        "subject": "RISK"
+    },
+    {
+        "code": "RISK5002",
+        "title": "Risk Tools",
+        "subject": "RISK"
+    },
+    {
+        "code": "RISK5003",
+        "title": "Risk Decisions",
+        "subject": "RISK"
+    },
+    {
+        "code": "SCIF1004",
+        "title": "Science and the Cinema",
+        "subject": "SCIF"
+    },
+    {
+        "code": "SCIF1111",
+        "title": "Perspectives in Medical Science",
+        "subject": "SCIF"
+    },
+    {
+        "code": "SCIF1131",
+        "title": "Introductory Skills for Science",
+        "subject": "SCIF"
+    },
+    {
+        "code": "SCIF2041",
+        "title": "Research Internship A",
+        "subject": "SCIF"
+    },
+    {
+        "code": "SCIF2199",
+        "title": "Science Work Placement",
+        "subject": "SCIF"
+    },
+    {
+        "code": "SCIF3041",
+        "title": "Research Internship B",
+        "subject": "SCIF"
+    },
+    {
+        "code": "SCIF3900",
+        "title": "Sustainable Tourism in Regional Australia",
+        "subject": "SCIF"
+    },
+    {
+        "code": "SCIF7000",
+        "title": "Advanced Communication Skills in Science",
+        "subject": "SCIF"
+    },
+    {
+        "code": "SENG2011",
+        "title": "Workshop on Reasoning about Programs",
+        "subject": "SENG"
+    },
+    {
+        "code": "SENG2021",
+        "title": "Requirements and Design Workshop",
+        "subject": "SENG"
+    },
+    {
+        "code": "SENG3011",
+        "title": "Software Engineering Workshop 3",
+        "subject": "SENG"
+    },
+    {
+        "code": "SENG4920",
+        "title": "Ethics and Management",
+        "subject": "SENG"
+    },
+    {
+        "code": "SLSP8301",
+        "title": "Masters Program by Coursework and Research Full-Time",
+        "subject": "SLSP"
+    },
+    {
+        "code": "SLSP8302",
+        "title": "Masters Program by Coursework and Research  Part-Time",
+        "subject": "SLSP"
+    },
+    {
+        "code": "SOCA8302",
+        "title": "Masters Program by Coursework and Research Part-Time",
+        "subject": "SOCA"
+    },
+    {
+        "code": "SOCF5102",
+        "title": "Selected Practice Frameworks",
+        "subject": "SOCF"
+    },
+    {
+        "code": "SOCF5103",
+        "title": "Research Issues in Counselling Social Work",
+        "subject": "SOCF"
+    },
+    {
+        "code": "SOCF5104",
+        "title": "Counselling Practice A",
+        "subject": "SOCF"
+    },
+    {
+        "code": "SOCF5108",
+        "title": "Therapeutic Contexts and Relationships",
+        "subject": "SOCF"
+    },
+    {
+        "code": "SOCF5109",
+        "title": "Family Inclusive Practice",
+        "subject": "SOCF"
+    },
+    {
+        "code": "SOCF5110",
+        "title": "Professional Practice Research Project",
+        "subject": "SOCF"
+    },
+    {
+        "code": "SOCF5112",
+        "title": "Complex Practice Issues",
+        "subject": "SOCF"
+    },
+    {
+        "code": "SOCW1001",
+        "title": "Introduction to Social Work",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW1004",
+        "title": "Lifespan, Health and Resilience",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW2003",
+        "title": "Introduction to Social Work Counselling and Assessment",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW2006",
+        "title": "Social Work Practice - Community Work",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW2008",
+        "title": "Culture, Identity and Diversity",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW2009",
+        "title": "Social Work Counselling with Individuals, Families and Groups",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW2100",
+        "title": "Aboriginal People and Social Work",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW3006",
+        "title": "Socio-Legal Practice in Social Work Settings",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW3009",
+        "title": "Ethics and Reflective Practice",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW3010",
+        "title": "Organisational Practice",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW3012",
+        "title": "Social Work Practice Level 3 Placement A",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW3013",
+        "title": "Social Work Practice Level 3 Placement B",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW4003",
+        "title": "Advanced Social Work Practice Methods",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW4011",
+        "title": "Evidence and Practice Based Research",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW4012",
+        "title": "Social Work Practice in Mental Health and Trauma",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW4013",
+        "title": "Child and Family Welfare Practice",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW4015",
+        "title": "Honours Research Thesis",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW4016",
+        "title": "Social Work Honours Advanced Practice Portfolio",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW4017",
+        "title": "Social Work Practice Level 4 Placement A",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW4018",
+        "title": "Social Work Practice Level 4 Placement B",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW7851",
+        "title": "Community Development",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW7852",
+        "title": "Politics of International Aid",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW7857",
+        "title": "Refugees and Forced Migration",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW9001",
+        "title": "DSW Thesis Full Time",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOCW9501",
+        "title": "DSW Thesis Part Time",
+        "subject": "SOCW"
+    },
+    {
+        "code": "SOLA1070",
+        "title": "Sustainable Energy",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA2051",
+        "title": "Project in Photovoltaics and Renewable Energy 1",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA2060",
+        "title": "Introduction to Electronic Devices",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA2540",
+        "title": "Applied Photovoltaics",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA3010",
+        "title": "Low Energy Buildings and Photovoltaics",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA3020",
+        "title": "Photovoltaic Technology and Manufacturing",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA3507",
+        "title": "Solar Cells",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA4012",
+        "title": "Photovoltaic Systems Design",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA4951",
+        "title": "Research Thesis A",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA4952",
+        "title": "Research Thesis B",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA4953",
+        "title": "Research Thesis C",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA5050",
+        "title": "Renewable Energy Policy",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA5051",
+        "title": "Life Cycle Assessment",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA5052",
+        "title": "Biomass",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA5053",
+        "title": "Wind Energy Converters",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA5056",
+        "title": "Sustainable Energy for Developing Countries",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA5057",
+        "title": "Energy Efficiency",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA3010",
+        "title": "Low Energy Buildings and Photovoltaics",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA3020",
+        "title": "Photovoltaic Technology and Manufacturing",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA3507",
+        "title": "Solar Cells",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA4012",
+        "title": "Photovoltaic Systems Design",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA5050",
+        "title": "Renewable Energy Policy",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA5052",
+        "title": "Biomass",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA5053",
+        "title": "Wind Energy Converters",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA5056",
+        "title": "Sustainable Energy for Developing Countries",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA5057",
+        "title": "Energy Efficiency",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA9001",
+        "title": "Photovoltaics",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA9101",
+        "title": "Advanced Photovoltaics",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA9103",
+        "title": "Renewable Energy System Modelling & Analysis",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA9104",
+        "title": "Hybrid Renewable Energy Systems",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA9120",
+        "title": "Advanced Photovoltaic Manufacturing",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA9451",
+        "title": "Masters Project A",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA9452",
+        "title": "Masters Project B",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOLA9453",
+        "title": "Masters Project C",
+        "subject": "SOLA"
+    },
+    {
+        "code": "SOMS1501",
+        "title": "Inside the Criminal Mind",
+        "subject": "SOMS"
+    },
+    {
+        "code": "SOMS3001",
+        "title": "School of Medical Sciences Research Internship",
+        "subject": "SOMS"
+    },
+    {
+        "code": "SOMS3232",
+        "title": "Cellular Mechanisms of Health and Disease",
+        "subject": "SOMS"
+    },
+    {
+        "code": "SOMS4884",
+        "title": "School of Medical Sciences Honours Part-Time",
+        "subject": "SOMS"
+    },
+    {
+        "code": "SOMS4888",
+        "title": "School of Medical Sciences Honours (Full Time) (UG)",
+        "subject": "SOMS"
+    },
+    {
+        "code": "SOSS1000",
+        "title": "Policy and Society",
+        "subject": "SOSS"
+    },
+    {
+        "code": "SOSS1001",
+        "title": "Social Research and Society",
+        "subject": "SOSS"
+    },
+    {
+        "code": "SOSS2001",
+        "title": "Qualitative Social Research",
+        "subject": "SOSS"
+    },
+    {
+        "code": "SOSS3001",
+        "title": "Quantitative Social Research",
+        "subject": "SOSS"
+    },
+    {
+        "code": "SOSS3002",
+        "title": "Social Research and Policy Project",
+        "subject": "SOSS"
+    },
+    {
+        "code": "SOSS3003",
+        "title": "Policy Analysis",
+        "subject": "SOSS"
+    },
+    {
+        "code": "SOSS3006",
+        "title": "Social Research and Policy in the Workplace",
+        "subject": "SOSS"
+    },
+    {
+        "code": "SOSS9000",
+        "title": "PhD Thesis Social Sciences Full Time",
+        "subject": "SOSS"
+    },
+    {
+        "code": "SOSS9050",
+        "title": "PhD Thesis Social Sciences Part Time",
+        "subject": "SOSS"
+    },
+    {
+        "code": "SPRC9000",
+        "title": "PhD Thesis SPRC Full-Time",
+        "subject": "SPRC"
+    },
+    {
+        "code": "SPRC9050",
+        "title": "PhD Thesis SPRC Part-Time",
+        "subject": "SPRC"
+    },
+    {
+        "code": "SRAP4051",
+        "title": "Social Research and Policy Honours",
+        "subject": "SRAP"
+    },
+    {
+        "code": "SRAP4052",
+        "title": "Social Research and Policy Honours",
+        "subject": "SRAP"
+    },
+    {
+        "code": "SRAP4053",
+        "title": "Social Research and Policy Honours",
+        "subject": "SRAP"
+    },
+    {
+        "code": "SRAP5001",
+        "title": "Policy Analysis",
+        "subject": "SRAP"
+    },
+    {
+        "code": "SRAP5018",
+        "title": "Power, Politics and Policy",
+        "subject": "SRAP"
+    },
+    {
+        "code": "SRAP5021",
+        "title": "Policy, Advocacy and Activism in the Digital Age",
+        "subject": "SRAP"
+    },
+    {
+        "code": "SRAP5101",
+        "title": "Research Methods and Project Design",
+        "subject": "SRAP"
+    },
+    {
+        "code": "SRAP5102",
+        "title": "Theory, Ethics and Research Impact",
+        "subject": "SRAP"
+    },
+    {
+        "code": "SRAP5103",
+        "title": "Research Report",
+        "subject": "SRAP"
+    },
+    {
+        "code": "SRAP5106",
+        "title": "Academic Writing in the Social Sciences",
+        "subject": "SRAP"
+    },
+    {
+        "code": "SRAP5107",
+        "title": "Research Project",
+        "subject": "SRAP"
+    },
+    {
+        "code": "SRAP9001",
+        "title": "DPPG Thesis Full Time",
+        "subject": "SRAP"
+    },
+    {
+        "code": "SRAP9501",
+        "title": "DPPG Thesis Part Time",
+        "subject": "SRAP"
+    },
+    {
+        "code": "STAM9000",
+        "title": "PhD Thesis Arts and Media Full Time",
+        "subject": "STAM"
+    },
+    {
+        "code": "STAM9050",
+        "title": "PhD Thesis Arts and Media Part Time",
+        "subject": "STAM"
+    },
+    {
+        "code": "SURG9005",
+        "title": "Postgraduate Program Surgery (St George)",
+        "subject": "SURG"
+    },
+    {
+        "code": "SURG9006",
+        "title": "Postgraduate Program Surgery Part-Time (St George)",
+        "subject": "SURG"
+    },
+    {
+        "code": "SURG9007",
+        "title": "Postgraduate Program Surgery Full-Time (St Vincents)",
+        "subject": "SURG"
+    },
+    {
+        "code": "SURG9008",
+        "title": "Postgraduate Program Surgery Part-Time (St Vincents)",
+        "subject": "SURG"
+    },
+    {
+        "code": "SUSD0001",
+        "title": "Sustainable Development and the Urban Environment",
+        "subject": "SUSD"
+    },
+    {
+        "code": "SUSD0002",
+        "title": "Building Ecology and Life Cycle Thinking",
+        "subject": "SUSD"
+    },
+    {
+        "code": "SUSD0003",
+        "title": "Energy and the Built Environment",
+        "subject": "SUSD"
+    },
+    {
+        "code": "SUSD0004",
+        "title": "Sustainability and Habitability",
+        "subject": "SUSD"
+    },
+    {
+        "code": "SUSD0007",
+        "title": "Integrated Design Studio",
+        "subject": "SUSD"
+    },
+    {
+        "code": "SUSD0010",
+        "title": "Managing the Sustainable Built Environment",
+        "subject": "SUSD"
+    },
+    {
+        "code": "SUSD0015",
+        "title": "Graduate Research Project",
+        "subject": "SUSD"
+    },
+    {
+        "code": "SUSD0016",
+        "title": "Sustainable Infrastructure",
+        "subject": "SUSD"
+    },
+    {
+        "code": "SWCH9001",
+        "title": "Basic Reproductive Physiology",
+        "subject": "SWCH"
+    },
+    {
+        "code": "SWCH9002",
+        "title": "Contraception",
+        "subject": "SWCH"
+    },
+    {
+        "code": "SWCH9003",
+        "title": "Clinical Reproductive Endocrinology",
+        "subject": "SWCH"
+    },
+    {
+        "code": "SWCH9004",
+        "title": "Clinical Reproductive Medicine 1",
+        "subject": "SWCH"
+    },
+    {
+        "code": "SWCH9005",
+        "title": "Clinical Reproductive Medicine 2",
+        "subject": "SWCH"
+    },
+    {
+        "code": "SWCH9006",
+        "title": "Laboratory Aspects of ART",
+        "subject": "SWCH"
+    },
+    {
+        "code": "SWCH9007",
+        "title": "Menopause",
+        "subject": "SWCH"
+    },
+    {
+        "code": "SWCH9009",
+        "title": "Ethics and Law In Reproductive Medicine",
+        "subject": "SWCH"
+    },
+    {
+        "code": "SWCH9011",
+        "title": "Reproductive, Perinatal Epidemiology and Biostatistics",
+        "subject": "SWCH"
+    },
+    {
+        "code": "SWCH9012",
+        "title": "The Impact of Infections on Reproductive Health",
+        "subject": "SWCH"
+    },
+    {
+        "code": "SWCH9013",
+        "title": "Common Gynaecological & Urogynaecological Conditions",
+        "subject": "SWCH"
+    },
+    {
+        "code": "SWCH9014",
+        "title": "Antenatal Care",
+        "subject": "SWCH"
+    },
+    {
+        "code": "SWCH9015",
+        "title": "Children's & Adolescent Gynaecology",
+        "subject": "SWCH"
+    },
+    {
+        "code": "SWCH9016",
+        "title": "Cancer in Women",
+        "subject": "SWCH"
+    },
+    {
+        "code": "SWCH9017",
+        "title": "Applied Reproductive Anatomy and Physiology",
+        "subject": "SWCH"
+    },
+    {
+        "code": "SWCH9018",
+        "title": "Male Fertility",
+        "subject": "SWCH"
+    },
+    {
+        "code": "SWCH9019",
+        "title": "Research Project in Reproductive or Women's Health",
+        "subject": "SWCH"
+    },
+    {
+        "code": "SWCH9031",
+        "title": "Postnatal Care of the Mother and Her Baby",
+        "subject": "SWCH"
+    },
+    {
+        "code": "SWCH9032",
+        "title": "Perinatal Psychology",
+        "subject": "SWCH"
+    },
+    {
+        "code": "TABL1710",
+        "title": "Business and the Law",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL2712",
+        "title": "Business Ethics and the Law",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL2731",
+        "title": "Marketing and Distribution Law",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL2741",
+        "title": "Business Entities",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL2751",
+        "title": "Business Taxation",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL2756",
+        "title": "International Business Tax",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL2792",
+        "title": "Real Property Law",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL3003",
+        "title": "Taxation of Corporations",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL3005",
+        "title": "Taxation of Trusts",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL3006",
+        "title": "Tax Litigation",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL3010",
+        "title": "Taxation of Superannuation",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL3016",
+        "title": "Critical Perspectives and Ethics",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL3020",
+        "title": "Principles of Australian International Taxation",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL3023",
+        "title": "Principles of Goods and Services Tax Law",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL3028",
+        "title": "International Tax: Design and Structure",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL3033",
+        "title": "Tax Clinic",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL3040",
+        "title": "Self Managed Superannuation Funds Law",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL3044",
+        "title": "Comparative Tax Systems",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL3732",
+        "title": "International Franchise Law",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL3741",
+        "title": "Insolvency Law",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL3752",
+        "title": "Capital Gains Tax",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL3757",
+        "title": "Corporate Tax Strategy",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL3761",
+        "title": "Law of Banking and Finance",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL3781",
+        "title": "Intellectual Property for Business",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL3791",
+        "title": "International Business Law",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL4600",
+        "title": "Thesis A",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL4601",
+        "title": "Thesis B",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL4602",
+        "title": "Thesis C",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL4721",
+        "title": "Special Topic in Business Law",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL4722",
+        "title": "Special Topic in Taxation",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5503",
+        "title": "Taxation of Corporations",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5504",
+        "title": "Asia Pacific Tax Regimes",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5505",
+        "title": "Taxation of Trusts",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5506",
+        "title": "Tax Litigation",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5508",
+        "title": "International Tax: Anti-Avoidance",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5510",
+        "title": "Taxation of Superannuation",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5511",
+        "title": "Legal Foundations of Business",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5512",
+        "title": "Legal Foundations for Accountants",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5515",
+        "title": "Taxation of Capital Gains",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5517",
+        "title": "Intellectual Property for Business",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5518",
+        "title": "Consolidations and Group Structures",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5520",
+        "title": "Principles of Australian International Taxation",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5523",
+        "title": "Principles of Goods and Services Tax Law",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5527",
+        "title": "Taxation Strategies in Financial Planning",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5528",
+        "title": "International Tax: Design and Structure",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5535",
+        "title": "Specific Tax Jurisdictions: North America",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5538",
+        "title": "Tax Planning and Anti Avoidance Provisions",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5540",
+        "title": "Self Managed Superannuation Funds Law",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5541",
+        "title": "Corporations and Business Associations Law",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5544",
+        "title": "Comparative Tax Systems",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5550",
+        "title": "Principles of Tax Transfer Pricing",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5551",
+        "title": "Taxation Law",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5552",
+        "title": "Capital Gains Tax",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5557",
+        "title": "Corporate Tax Strategy",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5562",
+        "title": "Business Law in a Global Economy",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5571",
+        "title": "Franchising",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5575",
+        "title": "Tax Policy",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5580",
+        "title": "Current Research Problems in Taxation",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5581",
+        "title": "International Tax Research",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5583",
+        "title": "International Business Taxation",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5584",
+        "title": "Special Topic in Business Law",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5741",
+        "title": "Insolvency Law",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5805",
+        "title": "Research Methods in Taxation and Business Law",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5901",
+        "title": "Principles of Australian Taxation Law",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5933",
+        "title": "Tax Clinic",
+        "subject": "TABL"
+    },
+    {
+        "code": "TABL5810",
+        "title": "Dissertation Proposal",
+        "subject": "TABL"
+    },
+    {
+        "code": "TELE3113",
+        "title": "Analogue and Digital Communications",
+        "subject": "TELE"
+    },
+    {
+        "code": "TELE3118",
+        "title": "Network Technologies",
+        "subject": "TELE"
+    },
+    {
+        "code": "TELE3119",
+        "title": "Trusted Networks",
+        "subject": "TELE"
+    },
+    {
+        "code": "TELE4642",
+        "title": "Network Performance",
+        "subject": "TELE"
+    },
+    {
+        "code": "TELE4651",
+        "title": "Wireless Communication Technologies",
+        "subject": "TELE"
+    },
+    {
+        "code": "TELE4652",
+        "title": "Mobile and Satellite Communications Systems",
+        "subject": "TELE"
+    },
+    {
+        "code": "TELE4653",
+        "title": "Digital Modulation and Coding",
+        "subject": "TELE"
+    },
+    {
+        "code": "TELE4642",
+        "title": "Network Performance",
+        "subject": "TELE"
+    },
+    {
+        "code": "TELE4651",
+        "title": "Wireless Communication Technologies",
+        "subject": "TELE"
+    },
+    {
+        "code": "TELE4652",
+        "title": "Mobile and Satellite Communications Systems",
+        "subject": "TELE"
+    },
+    {
+        "code": "TELE4653",
+        "title": "Digital Modulation and Coding",
+        "subject": "TELE"
+    },
+    {
+        "code": "TELE9751",
+        "title": "Switching Systems Architecture",
+        "subject": "TELE"
+    },
+    {
+        "code": "TELE9752",
+        "title": "Network Operations and Control",
+        "subject": "TELE"
+    },
+    {
+        "code": "TELE9753",
+        "title": "Advanced Wireless Communications",
+        "subject": "TELE"
+    },
+    {
+        "code": "TELE9754",
+        "title": "Coding and Information Theory",
+        "subject": "TELE"
+    },
+    {
+        "code": "TELE9755",
+        "title": "Microwave Circuits, Theory and Techniques",
+        "subject": "TELE"
+    },
+    {
+        "code": "TELE9756",
+        "title": "Advanced Networking",
+        "subject": "TELE"
+    },
+    {
+        "code": "TELE9757",
+        "title": "Quantum Communications",
+        "subject": "TELE"
+    },
+    {
+        "code": "TELE9782",
+        "title": "Special Topics in Telecommunications 2",
+        "subject": "TELE"
+    },
+    {
+        "code": "UDES0001",
+        "title": "Urban Design Studio 1",
+        "subject": "UDES"
+    },
+    {
+        "code": "UDES0002",
+        "title": "Urban Design Studio 2",
+        "subject": "UDES"
+    },
+    {
+        "code": "UDES0003",
+        "title": "Urban Design Studio 3",
+        "subject": "UDES"
+    },
+    {
+        "code": "UDES0004",
+        "title": "History and Theory of Urban Development and Design",
+        "subject": "UDES"
+    },
+    {
+        "code": "UDES0006",
+        "title": "Case Studies in Urban Development and Design",
+        "subject": "UDES"
+    },
+    {
+        "code": "UDES0008",
+        "title": "Planning and Urban Development",
+        "subject": "UDES"
+    },
+    {
+        "code": "UDES0009",
+        "title": "Urban Landscape and Heritage",
+        "subject": "UDES"
+    },
+    {
+        "code": "UDES0010",
+        "title": "Communication in Urban Design",
+        "subject": "UDES"
+    },
+    {
+        "code": "UDES0011",
+        "title": "Urban Design Research Project",
+        "subject": "UDES"
+    },
+    {
+        "code": "UDES0012",
+        "title": "Elements of Urban Design",
+        "subject": "UDES"
+    },
+    {
+        "code": "UDES0013",
+        "title": "Urban Design Graphics",
+        "subject": "UDES"
+    },
+    {
+        "code": "VISN1101",
+        "title": "Seeing the World: Perspectives from Vision Science",
+        "subject": "VISN"
+    },
+    {
+        "code": "VISN1111",
+        "title": "Geometrical and Physical Optics",
+        "subject": "VISN"
+    },
+    {
+        "code": "VISN1221",
+        "title": "Visual Optics",
+        "subject": "VISN"
+    },
+    {
+        "code": "VISN2111",
+        "title": "Ocular Anatomy and Physiology",
+        "subject": "VISN"
+    },
+    {
+        "code": "VISN2211",
+        "title": "Organisation and Function of the Visual System",
+        "subject": "VISN"
+    },
+    {
+        "code": "VISN3111",
+        "title": "Development and Aging of the Visual System",
+        "subject": "VISN"
+    },
+    {
+        "code": "VISN4016",
+        "title": "Vision Science Honours",
+        "subject": "VISN"
+    },
+    {
+        "code": "WOMS8301",
+        "title": "Masters Program by Coursework and Research Full-Time",
+        "subject": "WOMS"
+    },
+    {
+        "code": "WOMS8302",
+        "title": "Masters Program by Coursework and Research Part-Time",
+        "subject": "WOMS"
+    },
+    {
+        "code": "YENG5581",
+        "title": "Advanced Earth Systems Engineering and Management",
+        "subject": "YENG"
+    },
+    {
+        "code": "YENG5582",
+        "title": "Industrial Ecology, Sustainable Engineering, and Corporate Responsibility",
+        "subject": "YENG"
+    },
+    {
+        "code": "YENG5598",
+        "title": "Introduction to Sustainability of Energy Systems",
+        "subject": "YENG"
+    },
+    {
+        "code": "YENG9742",
+        "title": "Nuclear Reactor Theory and Design",
+        "subject": "YENG"
+    },
+    {
+        "code": "YMED1001",
+        "title": "Introduction to Population Health",
+        "subject": "YMED"
+    },
+    {
+        "code": "YMED1003",
+        "title": "General Biology",
+        "subject": "YMED"
+    },
+    {
+        "code": "YMED1005",
+        "title": "Introduction to Anatomy and Physiology",
+        "subject": "YMED"
+    },
+    {
+        "code": "YMED1008",
+        "title": "Introduction to Global Health",
+        "subject": "YMED"
+    },
+    {
+        "code": "YMED3004",
+        "title": "Behavioural and Mental Disorders",
+        "subject": "YMED"
+    },
+    {
+        "code": "YMED3005",
+        "title": "Economics for Health Majors",
+        "subject": "YMED"
+    },
+    {
+        "code": "YMED3006",
+        "title": "Comparative Health Systems",
+        "subject": "YMED"
+    },
+    {
+        "code": "YMED3007",
+        "title": "Environmental and Occupational Health",
+        "subject": "YMED"
+    },
+    {
+        "code": "YMED5000",
+        "title": "Integrated Emergency Management",
+        "subject": "YMED"
+    },
+    {
+        "code": "YMED5001",
+        "title": "Homeland Security",
+        "subject": "YMED"
+    },
+    {
+        "code": "YMED5002",
+        "title": "Hazards Governance",
+        "subject": "YMED"
+    },
+    {
+        "code": "YMED5003",
+        "title": "Public Management",
+        "subject": "YMED"
+    },
+    {
+        "code": "YMED5004",
+        "title": "IT in Emergency Management",
+        "subject": "YMED"
+    },
+    {
+        "code": "YMED5005",
+        "title": "Community Resilience and Recovery",
+        "subject": "YMED"
+    },
+    {
+        "code": "YMED5006",
+        "title": "Interoperability for Emergency Managers",
+        "subject": "YMED"
+    },
+    {
+        "code": "YMED5007",
+        "title": "Critical Incident Stress Management",
+        "subject": "YMED"
+    },
+    {
+        "code": "YMED5008",
+        "title": "Applied Data Analysis in Criminal Justice",
+        "subject": "YMED"
+    },
+    {
+        "code": "YMED5009",
+        "title": "Program Evaluation for Emergency Management and Homeland Security",
+        "subject": "YMED"
+    },
+    {
+        "code": "YMED9130",
+        "title": "Pharmaceutical Global Regulatory Affairs Leadership",
+        "subject": "YMED"
+    },
+    {
+        "code": "ZZBU5611",
+        "title": "Strategic Decision Making",
+        "subject": "ZZBU"
+    },
+    {
+        "code": "ZZBU6002",
+        "title": "Financial Management",
+        "subject": "ZZBU"
+    },
+    {
+        "code": "ZZBU6004",
+        "title": "Foundations of Marketing",
+        "subject": "ZZBU"
+    },
+    {
+        "code": "ZZBU6501",
+        "title": "Introductory Data Analysis",
+        "subject": "ZZBU"
+    },
+    {
+        "code": "ZZBU6502",
+        "title": "Analytics and Business",
+        "subject": "ZZBU"
+    },
+    {
+        "code": "ZZBU6503",
+        "title": "Managing People, Analytics and Change",
+        "subject": "ZZBU"
+    },
+    {
+        "code": "ZZBU6505",
+        "title": "Data and Ethics",
+        "subject": "ZZBU"
+    },
+    {
+        "code": "ZZBU6507",
+        "title": "Data Visualisation and Communication",
+        "subject": "ZZBU"
+    },
+    {
+        "code": "ZZBU6508",
+        "title": "Analytics and Consulting",
+        "subject": "ZZBU"
+    },
+    {
+        "code": "ZZBU6509",
+        "title": "Financial Modelling",
+        "subject": "ZZBU"
+    },
+    {
+        "code": "ZZBU6510",
+        "title": "Decision Making in Analytics",
+        "subject": "ZZBU"
+    },
+    {
+        "code": "ZZBU6511",
+        "title": "Predictive Analytics",
+        "subject": "ZZBU"
+    },
+    {
+        "code": "ZZBU6601",
+        "title": "General Analytics Capstone",
+        "subject": "ZZBU"
+    },
+    {
+        "code": "ZZBU8501",
+        "title": "FinTech Ecosystem and Industry Insights",
+        "subject": "ZZBU"
+    },
+    {
+        "code": "ZZBU8502",
+        "title": "Decentralised Finance",
+        "subject": "ZZBU"
+    },
+    {
+        "code": "ZZEN9021",
+        "title": "Principles of Programming",
+        "subject": "ZZEN"
+    },
+    {
+        "code": "ZZEN9201",
+        "title": "Foundations of Cyber Security",
+        "subject": "ZZEN"
+    },
+    {
+        "code": "ZZEN9311",
+        "title": "Database Systems",
+        "subject": "ZZEN"
+    },
+    {
+        "code": "ZZEN9313",
+        "title": "Big Data Management",
+        "subject": "ZZEN"
+    },
+    {
+        "code": "ZZSC5806",
+        "title": "Regression Analysis for Data Scientists",
+        "subject": "ZZSC"
+    },
+    {
+        "code": "ZZSC5836",
+        "title": "Data Mining and Machine Learning",
+        "subject": "ZZSC"
+    },
+    {
+        "code": "ZZSC5855",
+        "title": "Multivariate Analysis for Data Scientists",
+        "subject": "ZZSC"
+    },
+    {
+        "code": "ZZSC5905",
+        "title": "Statistical Inference for Data Scientists",
+        "subject": "ZZSC"
+    },
+    {
+        "code": "ZZSC9001",
+        "title": "Foundations of Data Science",
+        "subject": "ZZSC"
+    },
+    {
+        "code": "ADAD2610",
+        "title": "Art and Design for Environmental Challenges",
+        "subject": "ADAD"
+    },
+    {
+        "code": "ADAD3400",
+        "title": "Interactive Installation",
+        "subject": "ADAD"
+    },
+    {
+        "code": "ADAD3402",
+        "title": "Interactive Generative Visualisations",
+        "subject": "ADAD"
+    },
+    {
+        "code": "ADAD4000",
+        "title": "Professional Experience Project A",
+        "subject": "ADAD"
+    },
+    {
+        "code": "ADAD4001",
+        "title": "Professional Experience Project B",
+        "subject": "ADAD"
+    },
+    {
+        "code": "ADAD4100",
+        "title": "Honours Professional Experience Program",
+        "subject": "ADAD"
+    },
+    {
+        "code": "ADAD0901",
+        "title": "Graphics and Contemporary Society",
+        "subject": "ADAD"
+    },
+    {
+        "code": "ADAD9113",
+        "title": "Communication Skills for Creative Disciplines",
+        "subject": "ADAD"
+    },
+    {
+        "code": "ADAD9114",
+        "title": "Research Foundations in Art and Design",
+        "subject": "ADAD"
+    },
+    {
+        "code": "ADAD9211",
+        "title": "New Technologies, Traditional Techniques",
+        "subject": "ADAD"
+    },
+    {
+        "code": "ADAD9212",
+        "title": "Material Thinking",
+        "subject": "ADAD"
+    },
+    {
+        "code": "ADAD9311",
+        "title": "Designing the Experience: Exhibitions and Beyond",
+        "subject": "ADAD"
+    },
+    {
+        "code": "ADAD9312",
+        "title": "Leadership in the Cultural and Creative Industries",
+        "subject": "ADAD"
+    },
+    {
+        "code": "ADAD9406",
+        "title": "Creative Experimentation",
+        "subject": "ADAD"
+    },
+    {
+        "code": "ADAD8891",
+        "title": "Research Thesis FT",
+        "subject": "ADAD"
+    },
+    {
+        "code": "ADAD8892",
+        "title": "Research Thesis PT",
+        "subject": "ADAD"
+    },
+    {
+        "code": "ADAD9100",
+        "title": "Research Literature Review",
+        "subject": "ADAD"
+    },
+    {
+        "code": "ADAD9101",
+        "title": "Research Foundations in Art, Design and Media",
+        "subject": "ADAD"
+    },
+    {
+        "code": "DART1100",
+        "title": "Studio Art Practice 1",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1101",
+        "title": "Studio Art Practice 2",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1110",
+        "title": "Drawing 1: Foundations",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1111",
+        "title": "Life Drawing",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1120",
+        "title": "Painting 1: Foundations",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1121",
+        "title": "Painting and the Body",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1130",
+        "title": "Photography 1: Foundations",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1131",
+        "title": "Digital Fine Art Photography",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1140",
+        "title": "Printmaking 1: Foundations",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1141",
+        "title": "Custom Printing",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1142",
+        "title": "Printmaking: Lithography",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1150",
+        "title": "Sculpture 1: Foundations",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1191",
+        "title": "Ceramics: Method and Meaning",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1192",
+        "title": "Fine Arts Field Studies",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1200",
+        "title": "Media Arts Gateway 1",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1201",
+        "title": "Media Arts Gateway 2",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1210",
+        "title": "Animation 1",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1220",
+        "title": "Visual Effects 1",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1230",
+        "title": "Moving Image 1",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1240",
+        "title": "Sound 1",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1250",
+        "title": "Interactive Media 1",
+        "subject": "DART"
+    }
+]

@@ -1,0 +1,2452 @@
+[
+    {
+        "code": "EDST6706",
+        "title": "Geography Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6707",
+        "title": "German Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6710",
+        "title": "Indonesian Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6711",
+        "title": "Japanese Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6713",
+        "title": "Science Double Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6714",
+        "title": "Spanish Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6715",
+        "title": "Business Studies Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6716",
+        "title": "Economics Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6717",
+        "title": "Aboriginal Studies Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6718",
+        "title": "Korean Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6719",
+        "title": "Legal Studies Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6722",
+        "title": "Society and Culture Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6723",
+        "title": "Extension English Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6725",
+        "title": "Mathematics Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6726",
+        "title": "Extension Mathematics Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6727",
+        "title": "Music Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6728",
+        "title": "Extension Music Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6730",
+        "title": "Chinese Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6731",
+        "title": "Drama Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6732",
+        "title": "English Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6734",
+        "title": "English as an Additional Language or Dialect Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6735",
+        "title": "French Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6736",
+        "title": "Geography Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6737",
+        "title": "German Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6738",
+        "title": "History Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6740",
+        "title": "Indonesian Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6741",
+        "title": "Japanese Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6743",
+        "title": "Science Double Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6744",
+        "title": "Spanish Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6745",
+        "title": "Business Studies Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6746",
+        "title": "Economics Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6747",
+        "title": "Aboriginal Studies Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6748",
+        "title": "Korean Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6749",
+        "title": "Legal Studies Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6752",
+        "title": "Society and Culture Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6753",
+        "title": "Extension English Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6754",
+        "title": "Extension History Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6755",
+        "title": "Mathematics Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6756",
+        "title": "Extension Mathematics Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6757",
+        "title": "Music Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6758",
+        "title": "Extension Music Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6760",
+        "title": "Professional Experience 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6761",
+        "title": "Professional Experience 2/Internship",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6765",
+        "title": "Professional Experience 2/Internship",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6771",
+        "title": "Graphics and Multimedia Technology Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6772",
+        "title": "Graphics and Multimedia Technology Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6775",
+        "title": "Visual Arts Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6776",
+        "title": "Visual Arts Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6777",
+        "title": "Extension Visual Arts Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6778",
+        "title": "Extension Visual Arts Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6920",
+        "title": "Ancient History Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6921",
+        "title": "Modern History Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6922",
+        "title": "Science Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6923",
+        "title": "Physics Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6924",
+        "title": "Earth and Environmental Science Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6925",
+        "title": "Chemistry Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6926",
+        "title": "Biology Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6927",
+        "title": "Chemistry/Biology Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6950",
+        "title": "Ancient History Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6951",
+        "title": "Modern History Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6952",
+        "title": "Science Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6953",
+        "title": "Physics Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6954",
+        "title": "Earth and Environmental Science Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6955",
+        "title": "Chemistry Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6956",
+        "title": "Biology Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6957",
+        "title": "Chemistry/Biology Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5101",
+        "title": "Advanced Quantitative Research",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5106",
+        "title": "Behaviour Management of Exceptional Students",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5107",
+        "title": "Teaching Methods for High Incidence Disabilities",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5111",
+        "title": "Intellectual Disabilities",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5112",
+        "title": "Learning: Psychological and Social Perspectives",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5113",
+        "title": "Autism Spectrum Disorder: Educational Practices",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5114",
+        "title": "Curriculum and Assessment",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5115",
+        "title": "Indigenous and Sociocultural Contexts of Education",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5116",
+        "title": "Student Engagement",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5117",
+        "title": "Professional Inquiry",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5118",
+        "title": "Professional Practice for Special Education",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5120",
+        "title": "Advanced Qualitative Research",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5121",
+        "title": "Introduction to University Learning and Teaching",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5122",
+        "title": "Enhancing Student Learning in Higher Education",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5123",
+        "title": "Educational Design for Learning in Higher Education",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5126",
+        "title": "Issues in Higher Education: Purpose, Role and Organisation",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5127",
+        "title": "Coaching and Mentoring in Educational Leadership",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5129",
+        "title": "Transitions in the Lives of Students with Disabilities",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5131",
+        "title": "Oral Communication Across the Curriculum",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5133",
+        "title": "Creating Engaging Learning Environments",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5134",
+        "title": "Addressing Special Needs",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5138",
+        "title": "Inclusive Education: Policy, Planning and Pedagogy",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5139",
+        "title": "Language, Literacy and Numeracy",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5142",
+        "title": "Leading Educational Change",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5145",
+        "title": "Mentoring Practicum",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5147",
+        "title": "Thesis Writing and Presentation",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5150",
+        "title": "Teacher Language Awareness",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5151",
+        "title": "Child Development: Psychological & Social Perspectives",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5303",
+        "title": "Learning, Problem Solving, and the Development of Expertise",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5308",
+        "title": "Teacher Learning",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5314",
+        "title": "Building Resilience in the Workplace",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5320",
+        "title": "Individual Differences and Education",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5321",
+        "title": "Motivation in Educational Settings",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5325",
+        "title": "TESOL Advanced Professional Practice",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5433",
+        "title": "Organisation Theory in Education",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5436",
+        "title": "Evaluation of Educational Programs",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5438",
+        "title": "Leadership Theory, Research and Practice",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5440",
+        "title": "Advanced TESOL Methodology",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5441",
+        "title": "Advanced TESOL Curriculum Design and Assessment",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5442",
+        "title": "Advanced Professional Practice",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5443",
+        "title": "Assessment for Learning: From Theory to Practice",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5448",
+        "title": "Educational Research",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5451",
+        "title": "Educational Policy: Theory and Practice",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5452",
+        "title": "Contemporary Issues in Language Education",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5454",
+        "title": "Developing Literacies: From Kindergarten to University",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5457",
+        "title": "Literature Review in Education",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5458",
+        "title": "Researching Special Education",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5460",
+        "title": "Specialist Study in Education",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5462",
+        "title": "Teacher Leadership",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5608",
+        "title": "Instructional Leadership",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5802",
+        "title": "Identification of Gifted Students",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5803",
+        "title": "Developing Effective Programs for Gifted Students",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5805",
+        "title": "Curriculum Differentiation and Assessment in Gifted Education",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5806",
+        "title": "Creativity and Giftedness",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5807",
+        "title": "Social and Emotional Development of Intellectually Gifted Children",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5808",
+        "title": "Key Concepts and Issues in Gifted Education",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5888",
+        "title": "Project",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6700",
+        "title": "Chinese Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6701",
+        "title": "Drama Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6702",
+        "title": "English Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6704",
+        "title": "English as an Additional Language or Dialect Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6705",
+        "title": "French Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6706",
+        "title": "Geography Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6707",
+        "title": "German Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6710",
+        "title": "Indonesian Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6711",
+        "title": "Japanese Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6713",
+        "title": "Science Double Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6714",
+        "title": "Spanish Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6715",
+        "title": "Business Studies Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6716",
+        "title": "Economics Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6717",
+        "title": "Aboriginal Studies Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6718",
+        "title": "Korean Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6719",
+        "title": "Legal Studies Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6722",
+        "title": "Society and Culture Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6723",
+        "title": "Extension English Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6725",
+        "title": "Mathematics Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6726",
+        "title": "Extension Mathematics Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6727",
+        "title": "Music Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6728",
+        "title": "Extension Music Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6730",
+        "title": "Chinese Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6731",
+        "title": "Drama Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6732",
+        "title": "English Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6734",
+        "title": "English as an Additional Language or Dialect Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6735",
+        "title": "French Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6736",
+        "title": "Geography Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6737",
+        "title": "German Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6738",
+        "title": "History Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6740",
+        "title": "Indonesian Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6741",
+        "title": "Japanese Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6743",
+        "title": "Science Double Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6744",
+        "title": "Spanish Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6745",
+        "title": "Business Studies Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6746",
+        "title": "Economics Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6747",
+        "title": "Aboriginal Studies Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6748",
+        "title": "Korean Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6749",
+        "title": "Legal Studies Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6752",
+        "title": "Society and Culture Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6753",
+        "title": "Extension English Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6754",
+        "title": "Extension History Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6755",
+        "title": "Mathematics Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6756",
+        "title": "Extension Mathematics Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6757",
+        "title": "Music Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6758",
+        "title": "Extension Music Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6760",
+        "title": "Professional Experience 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6761",
+        "title": "Professional Experience 2/Internship",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6765",
+        "title": "Professional Experience 2/Internship",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6771",
+        "title": "Graphics and Multimedia Technology Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6772",
+        "title": "Graphics and Multimedia Technology Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6775",
+        "title": "Visual Arts Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6776",
+        "title": "Visual Arts Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6777",
+        "title": "Extension Visual Arts Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6778",
+        "title": "Extension Visual Arts Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6779",
+        "title": "Mathematics 1 (Years K-2)",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6780",
+        "title": "Mathematics 2 (3-6)",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6781",
+        "title": "English 1 (K-2)",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6782",
+        "title": "English 2 (Years 3-6)",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6783",
+        "title": "History and Geography (K-6)",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6784",
+        "title": "Science and Technology (K-6)",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6785",
+        "title": "Personal Development, Health and Physical Education (K-6)",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6786",
+        "title": "Creative Arts (K-6)",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6920",
+        "title": "Ancient History Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6921",
+        "title": "Modern History Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6922",
+        "title": "Science Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6923",
+        "title": "Physics Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6924",
+        "title": "Earth and Environmental Science Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6925",
+        "title": "Chemistry Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6926",
+        "title": "Biology Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6927",
+        "title": "Chemistry/Biology Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6950",
+        "title": "Ancient History Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6951",
+        "title": "Modern History Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6952",
+        "title": "Science Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6953",
+        "title": "Physics Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6954",
+        "title": "Earth and Environmental Science Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6955",
+        "title": "Chemistry Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6956",
+        "title": "Biology Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6957",
+        "title": "Chemistry/Biology Method 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5031",
+        "title": "Research Methods 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5033",
+        "title": "Research Methods 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5034",
+        "title": "Current Issues in Education 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5035",
+        "title": "Current Issues in Education 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5036",
+        "title": "Education Project 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5037",
+        "title": "Education Project 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5038",
+        "title": "Education Seminar 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5911",
+        "title": "Thesis 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST5912",
+        "title": "Thesis 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6901",
+        "title": "PhD Research Thesis Education Full-Time",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6911",
+        "title": "PhD Research Thesis Education Part-Time",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST8301",
+        "title": "Masters Program by Coursework and Research Full-Time",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST8302",
+        "title": "Masters Program by Coursework and Research Part-Time",
+        "subject": "EDST"
+    },
+    {
+        "code": "ELEC1111",
+        "title": "Electrical and Telecommunications Engineering",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC2117",
+        "title": "Electrical Systems Design",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC2133",
+        "title": "Analogue Electronics",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC2134",
+        "title": "Circuits and Signals",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC2141",
+        "title": "Digital Circuit Design",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC3104",
+        "title": "Digital Signal Processing",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC3105",
+        "title": "Electrical Energy",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC3106",
+        "title": "Electronics",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC3111",
+        "title": "Distributed Energy Generation",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC3114",
+        "title": "Control Systems",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC3115",
+        "title": "Electromagnetic Engineering",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC3117",
+        "title": "Electrical Engineering Design",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC3145",
+        "title": "Real Time Instrumentation",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC3705",
+        "title": "Fundamentals of Quantum Engineering",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4120",
+        "title": "Thesis - Part A (Electrical Engineering)",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4122",
+        "title": "Strategic Leadership and Ethics",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4123",
+        "title": "Electrical Design Proficiency",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4445",
+        "title": "Entrepreneurial Engineering",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4602",
+        "title": "Microelectronic Design and Technology",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4603",
+        "title": "Solid State Electronics",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4604",
+        "title": "Radio Frequency Electronics",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4605",
+        "title": "Quantum Devices and Computers",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4611",
+        "title": "Power System Equipment",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4612",
+        "title": "Power System Analysis",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4613",
+        "title": "Electrical Drive Systems",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4614",
+        "title": "Power Electronics",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4617",
+        "title": "Power System Protection",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4621",
+        "title": "Advanced Digital Signal Processing",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4622",
+        "title": "Multimedia Signal Processing",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4631",
+        "title": "Continuous - Time Control System Design",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4632",
+        "title": "Computer Control Systems",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4633",
+        "title": "Real-Time Engineering",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4951",
+        "title": "Research Thesis A",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4952",
+        "title": "Research Thesis B",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4953",
+        "title": "Research Thesis C",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4602",
+        "title": "Microelectronic Design and Technology",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4603",
+        "title": "Solid State Electronics",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4604",
+        "title": "Radio Frequency Electronics",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4605",
+        "title": "Quantum Devices and Computers",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4611",
+        "title": "Power System Equipment",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4612",
+        "title": "Power System Analysis",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4613",
+        "title": "Electrical Drive Systems",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4614",
+        "title": "Power Electronics",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4617",
+        "title": "Power System Protection",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4621",
+        "title": "Advanced Digital Signal Processing",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4622",
+        "title": "Multimedia Signal Processing",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4631",
+        "title": "Continuous - Time Control System Design",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4632",
+        "title": "Computer Control Systems",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC4633",
+        "title": "Real-Time Engineering",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9123",
+        "title": "Design Proficiency",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9451",
+        "title": "Masters Project A",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9452",
+        "title": "Masters Project B",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9453",
+        "title": "Masters Project C",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9701",
+        "title": "Mixed Signal Microelectronic Design",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9703",
+        "title": "Microsystems Design and Technology",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9711",
+        "title": "Power Electronics for Renewable and Distributed Generation",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9712",
+        "title": "High Voltage Systems",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9713",
+        "title": "Industrial and Commercial Power Systems",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9714",
+        "title": "Electricity Industry Planning and Economics",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9715",
+        "title": "Electricity Industry Operation and Control",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9716",
+        "title": "Electrical Safety",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9719",
+        "title": "Real-Time Digital Simulations",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9721",
+        "title": "Digital Signal Processing Theory and Applications",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9725",
+        "title": "Satellite Navigation: Systems, Signals and Receivers",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9731",
+        "title": "Robust and Linear Control Systems",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9732",
+        "title": "Analysis and Design of Non-linear Control",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9741",
+        "title": "Electrical Engineering Data Science",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9762",
+        "title": "Space Mission Development",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9764",
+        "title": "The Ground Segment and Space Operations",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9765",
+        "title": "Space Law and Radio Regulations",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9768",
+        "title": "Satellite Engineering Project A",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9771",
+        "title": "Project Report A",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9772",
+        "title": "Project Report B",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9901",
+        "title": "Part-Time Research Electrical Engineering",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ELEC9902",
+        "title": "Full-Time Research Thesis Electrical Engineering",
+        "subject": "ELEC"
+    },
+    {
+        "code": "ENGG0360",
+        "title": "Communicating in Engineering",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG1000",
+        "title": "Introduction to Engineering Design and Innovation",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG1100",
+        "title": "Grand Challenges for Engineering",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG1200",
+        "title": "Undergraduate Special Projects",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG1300",
+        "title": "Engineering Mechanics",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG1400",
+        "title": "Engineering Infrastructure Systems",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG1811",
+        "title": "Computing for Engineers",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG2400",
+        "title": "Mechanics of Solids 1",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG2500",
+        "title": "Fluid Mechanics for Engineers",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG2600",
+        "title": "Engineering Vertically Integrated Project",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG3001",
+        "title": "Fundamentals of Humanitarian Engineering",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG3060",
+        "title": "Maker Games",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG3600",
+        "title": "Engineering Vertically Integrated Project",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG4102",
+        "title": "Humanitarian Engineering Project",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG4600",
+        "title": "Engineering Vertically Integrated Project",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG4906",
+        "title": "Engineering Internship 1",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG4907",
+        "title": "Engineering Internship 2",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG4908",
+        "title": "Co-op Internship",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG4909",
+        "title": "Engineering Co-op IT 1",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG4999",
+        "title": "Industrial Training",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG3060",
+        "title": "Maker Games",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG4600",
+        "title": "Engineering Vertically Integrated Project",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG4998",
+        "title": "Engineering Industrial Training",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG4999",
+        "title": "Industrial Training",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG9741",
+        "title": "Introduction to Nuclear Engineering",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG9743",
+        "title": "Fuel Cycle, Waste and Life Cycle Management",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGG9744",
+        "title": "Nuclear Safety, Security and Safeguards",
+        "subject": "ENGG"
+    },
+    {
+        "code": "ENGL8301",
+        "title": "Masters Program by Coursework and Research Full-Time",
+        "subject": "ENGL"
+    },
+    {
+        "code": "ENGL8302",
+        "title": "Masters Program by Coursework and Research Part-Time",
+        "subject": "ENGL"
+    },
+    {
+        "code": "ENVS0001",
+        "title": "Research Thesis Environmental Management Full-Time",
+        "subject": "ENVS"
+    },
+    {
+        "code": "ENVS0002",
+        "title": "Research Thesis Environmental Management P/T",
+        "subject": "ENVS"
+    },
+    {
+        "code": "EXCH7055",
+        "title": "AGSM Exchange Program FT",
+        "subject": "EXCH"
+    },
+    {
+        "code": "FINS1612",
+        "title": "Capital Markets and Institutions",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS1613",
+        "title": "Business Finance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS2101",
+        "title": "Industry Placement 1",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS2622",
+        "title": "Asia-Pacific Capital Markets",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS2624",
+        "title": "Portfolio Management",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS2643",
+        "title": "Wealth Management",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3202",
+        "title": "Industry Placement 2",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3303",
+        "title": "Industry Placement 3",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3616",
+        "title": "International Business Finance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3623",
+        "title": "Venture Capital",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3625",
+        "title": "Applied Corporate Finance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3626",
+        "title": "International Corporate Governance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3630",
+        "title": "Bank Financial Management",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3631",
+        "title": "Risk and Insurance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3633",
+        "title": "Real Estate Finance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3635",
+        "title": "Options, Futures and Risk Management",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3636",
+        "title": "Interest Rate Risk Management",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3637",
+        "title": "Wealth Management Advice",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3639",
+        "title": "Estate Planning and Asset Protection",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3640",
+        "title": "Investment Management Modeling",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3641",
+        "title": "Security Analysis and Valuation",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3644",
+        "title": "Sustainable and Responsible Investing",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3645",
+        "title": "Financial Market Data Design and Analysis",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3646",
+        "title": "Toolkit for Finance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3647",
+        "title": "Bitcoin and Decentralised Finance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3648",
+        "title": "Banking, Finance and Technology",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3650",
+        "title": "International Banking",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3655",
+        "title": "Behavioural Finance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3666",
+        "title": "Trading and Market Making",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS3775",
+        "title": "Research Methods in Finance 1",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS4776",
+        "title": "Asset Pricing Theory",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS4777",
+        "title": "Empirical Corporate Finance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS4779",
+        "title": "Research Methods in Finance 2",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS4781",
+        "title": "Continuous-Time Finance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS4792",
+        "title": "Microstructure of Markets",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS4796",
+        "title": "Thesis (Finance) A",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS4797",
+        "title": "Thesis (Finance) B",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS4799",
+        "title": "Thesis (Finance) C",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5510",
+        "title": "Personal Financial Planning and Management",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5511",
+        "title": "Corporate Finance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5512",
+        "title": "Financial Markets and Institutions",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5513",
+        "title": "Investments and Portfolio Selection",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5514",
+        "title": "Capital Budgeting and Financial Decisions",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5516",
+        "title": "International Corporate Finance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5517",
+        "title": "Applied Portfolio Management and Modelling",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5523",
+        "title": "Alternative Asset Classes",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5526",
+        "title": "International Corporate Governance: Accounting and Finance Perspectives",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5530",
+        "title": "Financial Institution Management",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5531",
+        "title": "Risk and Insurance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5533",
+        "title": "Real Estate Finance and Investment",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5535",
+        "title": "Derivatives and Risk Management Techniques",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5536",
+        "title": "Fixed Income Securities and Interest Rate Derivatives",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5537",
+        "title": "Financial Planning Advice and Ethics",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5538",
+        "title": "Takeovers, Restructuring and Corporate Governance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5539",
+        "title": "Estate Planning, Succession and Asset Protection",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5541",
+        "title": "Advanced Investment and Advanced Funds Management",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5542",
+        "title": "Applied Funds Management",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5543",
+        "title": "Aged Care Planning",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5544",
+        "title": "Socially Responsible Investing",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5545",
+        "title": "Financial Market Data Literacy",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5546",
+        "title": "Toolkit for Financial Market Decisions",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5547",
+        "title": "Cryptocurrency and Decentralised Finance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5548",
+        "title": "Financial Technology",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5550",
+        "title": "International Banking Management",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5566",
+        "title": "Trading in Financial Securities",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5568",
+        "title": "Capstone - Portfolio Management Process",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5574",
+        "title": "Empirical Asset Pricing",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5576",
+        "title": "Asset Pricing Theory",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5577",
+        "title": "Empirical Corporate Finance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5579",
+        "title": "Research Methods in Finance 2",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5580",
+        "title": "Corporate Finance Theory",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5581",
+        "title": "Empirical Corporate Governance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5590",
+        "title": "Finance Research in Practice",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5591",
+        "title": "Continuous-Time Finance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5593",
+        "title": "Microstructure of Markets",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5595",
+        "title": "Research Workshop in Finance 1",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5596",
+        "title": "Research Workshop in Finance 2",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5000",
+        "title": "Research Banking and Finance Full-Time",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5001",
+        "title": "Research Finance and Banking Part-Time",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS5594",
+        "title": "Full-Time Masters Research Thesis Banking and Finance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FINS6001",
+        "title": "Part-Time Masters Research Thesis Banking and Finance",
+        "subject": "FINS"
+    },
+    {
+        "code": "FOOD1120",
+        "title": "Introduction to Food Science",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD1130",
+        "title": "Sustainable Food Product Manufacturing",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD2320",
+        "title": "Food Microbiology",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD3010",
+        "title": "Food Preservation",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD3020",
+        "title": "Food Science and Technology Laboratory",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD3030",
+        "title": "Food Safety and Quality Assurance",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD3220",
+        "title": "Nutrition",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD3801",
+        "title": "Unit Operations in Food Processing",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD4110",
+        "title": "Advanced Food Chemistry",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD4403",
+        "title": "Advanced Nutrition",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD1747",
+        "title": "Special Topics in Chemical Sciences & Engineering",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD8010",
+        "title": "Food Preservation",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD8020",
+        "title": "Food Science and Technology Laboratory",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD8030",
+        "title": "Food Safety and Quality Assurance",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD8110",
+        "title": "Advanced Food Chemistry",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD8220",
+        "title": "Nutrition",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD8320",
+        "title": "Food Microbiology",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD8403",
+        "title": "Advanced and Applied Nutrition",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD8450",
+        "title": "Advanced Food Engineering",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD8801",
+        "title": "Unit Operations in Food Processing",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD9100",
+        "title": "Advanced Processing Technologies",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD9102",
+        "title": "Sensory Analysis of Foods",
+        "subject": "FOOD"
+    },
+    {
+        "code": "FOOD9103",
+        "title": "Advanced Food Microbiology",
+        "subject": "FOOD"
+    },
+    {
+        "code": "GENC3004",
+        "title": "Personal Finance",
+        "subject": "GENC"
+    },
+    {
+        "code": "GENC5031",
+        "title": "Tax for Professionals",
+        "subject": "GENC"
+    },
+    {
+        "code": "GENC7002",
+        "title": "Getting Into Business",
+        "subject": "GENC"
+    },
+    {
+        "code": "GENE0050",
+        "title": "Space Mining",
+        "subject": "GENE"
+    },
+    {
+        "code": "GENL0250",
+        "title": "Sport, Law and Society in Australia",
+        "subject": "GENL"
+    },
+    {
+        "code": "GENL1021",
+        "title": "World Religions",
+        "subject": "GENL"
+    },
+    {
+        "code": "GENL1022",
+        "title": "Women and Religion",
+        "subject": "GENL"
+    },
+    {
+        "code": "GENL1062",
+        "title": "Understanding Human Rights",
+        "subject": "GENL"
+    },
+    {
+        "code": "GENL1063",
+        "title": "Terror and Religion",
+        "subject": "GENL"
+    },
+    {
+        "code": "GENL2021",
+        "title": "Introduction to the Australian Legal System",
+        "subject": "GENL"
+    },
+    {
+        "code": "GENM0295",
+        "title": "Personalised medicine",
+        "subject": "GENM"
+    },
+    {
+        "code": "GENM0703",
+        "title": "Concepts of Physical Activity, Exercise and Health",
+        "subject": "GENM"
+    },
+    {
+        "code": "GENM0709",
+        "title": "The Power of Sport: An Introduction to Sport for Social Change",
+        "subject": "GENM"
+    },
+    {
+        "code": "GENS0401",
+        "title": "Introduction to Climate Change",
+        "subject": "GENS"
+    },
+    {
+        "code": "GENS1111",
+        "title": "Big Fat Myths",
+        "subject": "GENS"
+    },
+    {
+        "code": "GENS2025",
+        "title": "Introduction to Airborne Drone Management",
+        "subject": "GENS"
+    },
+    {
+        "code": "GENS4008",
+        "title": "Nuclear Arms, Peace and Global Governance",
+        "subject": "GENS"
+    },
+    {
+        "code": "GENS4015",
+        "title": "Brave New World: Science Fiction, Science Fact and the Future",
+        "subject": "GENS"
+    },
+    {
+        "code": "GENS5013",
+        "title": "Workplace Safety",
+        "subject": "GENS"
+    },
+    {
+        "code": "GENY0001",
+        "title": "Academic Skills Plus",
+        "subject": "GENY"
+    },
+    {
+        "code": "GENY0002",
+        "title": "Academic Skills Plus",
+        "subject": "GENY"
+    },
+    {
+        "code": "GENY0003",
+        "title": "Academic Skills Plus",
+        "subject": "GENY"
+    },
+    {
+        "code": "GEOL0005",
+        "title": "Thesis Research Applied Geology Full-Time",
+        "subject": "GEOL"
+    },
+    {
+        "code": "GEOL0006",
+        "title": "Research Thesis Applied Geology Part-Time",
+        "subject": "GEOL"
+    },
+    {
+        "code": "GEOS1111",
+        "title": "Fundamentals of Geology",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS1211",
+        "title": "Earth and Environmental Science",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS1701",
+        "title": "Environmental Systems, Processes and Issues",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS2021",
+        "title": "Human Origins and Prehistory",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS2131",
+        "title": "Field Methods and Mapping",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS2181",
+        "title": "Earth Materials",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS2241",
+        "title": "Peak Carbon: Climate Change and Energy Policy",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS2291",
+        "title": "Earth's Interconnections",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS2711",
+        "title": "Australian Climate and Vegetation",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS2721",
+        "title": "Australian Surface Environments and Landforms",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS2821",
+        "title": "Introduction to GIS and Remote Sensing",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS3071",
+        "title": "Life on a Dynamic Earth",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS3141",
+        "title": "Mineral and Energy Resources",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS3171",
+        "title": "Earth Structures",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS3281",
+        "title": "Applied Geochemistry",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS3721",
+        "title": "Australian Soil Use and Management",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS3731",
+        "title": "Coastal Processes and Hazards",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS3761",
+        "title": "Environmental Change",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS3821",
+        "title": "Geographic Data Analysis",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS3911",
+        "title": "Environmental Impact Assessment",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS3921",
+        "title": "Coastal Resource Management",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS9011",
+        "title": "Environmental Impact Assessment",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS9016",
+        "title": "Principles of Geographic Information Systems and Science",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS9017",
+        "title": "Advanced Geographic Information Systems and Science",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS9001",
+        "title": "Research Thesis in Geography",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GEOS9005",
+        "title": "Part-Time Research Thesis in Geography",
+        "subject": "GEOS"
+    },
+    {
+        "code": "GMAT1110",
+        "title": "Surveying and Geospatial Engineering",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GMAT2120",
+        "title": "Surveying and Geospatial Technology",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GMAT2500",
+        "title": "Surveying Computations A",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GMAT2550",
+        "title": "Surveying Computations B",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GMAT2700",
+        "title": "Foundations of Geodesy and Spatial Reference Frames",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GMAT3100",
+        "title": "Surveying Applications and Design",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GMAT3150",
+        "title": "Surveying Field Projects",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GMAT3220",
+        "title": "Geospatial Information Systems",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GMAT3420",
+        "title": "Cadastral Surveying and Land Law",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GMAT3500",
+        "title": "Remote Sensing and Photogrammetry",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GMAT3700",
+        "title": "Geodetic Positioning and Applications",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GMAT4150",
+        "title": "Field Projects 2",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GMAT4220",
+        "title": "Geospatial Information Science",
+        "subject": "GMAT"
+    },
+    {
+        "code": "GMAT4400",
+        "title": "Land Management Project",
+        "subject": "GMAT"
+    }
+]
