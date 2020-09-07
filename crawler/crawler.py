@@ -1,77 +1,97 @@
-## crawler.py
 import requests
 from bs4 import BeautifulSoup
 import json
 import os
 
-def saveJson(data):
+def saveJson(data, file_name):
     ## base directory of python file
-    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-    
-    with open(os.path.join(BASE_DIR, 'result.json'), 'w+') as json_file:
-        json.dump(data, json_file)
+    # BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-def getURL():
-    BASE_URL = 'http://classutil.unsw.edu.au/'
+    with open(file_name, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+
+def crawlURL():
+    BASE_URL = 'http://timetable.unsw.edu.au/2020/'
     req = requests.get(BASE_URL)
     html = req.text
     soup = BeautifulSoup(html, 'html.parser')
     class_table = soup.select(
-        'table:nth-of-type(2) > tr'
+        '.data > a'
     )
-    data = {}
-    lists = []
-    
+    subjects = {}
+
     for row in class_table:
-        course = {}
-        if row.td['class'][0] != 'data':
+        if len(row['href']) != 13:
             continue
-        # code
-        code = row.contents[9].text
-        #data[code] = code
-        # if data[code] alreadt exist, load
-        #print(code)
-        if code in data:
-            course = data[code]
-            
-        # name
-        name = row.contents[11].text
-        course['name'] = name
+
+        url = BASE_URL + row['href']
+
+        #print(row.getText())
         
-        # t0, summer
-        t0 = row.contents[1].find('a', href=True)
-        if t0:
-            tempURL = BASE_URL + t0['href']
-            lists.append(tempURL)
-            course[t0.text] = tempURL
-        # t1
-        t1 = row.contents[3].find('a', href=True)
-        if t1:
-            tempURL = BASE_URL + t1['href']
-            lists.append(tempURL)
-            course[t1.text] = tempURL
-        # t2
-        t2 = row.contents[5].find('a', href=True)
-        if t2:
-            tempURL = BASE_URL + t2['href']
-            lists.append(tempURL)
-            course[t2.text] = tempURL
-        #t3
-        t3 = row.contents[7].find('a', href=True)
-        if t3:
-            tempURL = BASE_URL + t3['href']
-            lists.append(tempURL)
-            course[t3.text] = tempURL
-        #print(course)
-        data[code] = course
-    
-    saveJson(data)
-    return lists
-    
-def crawl(url):
-    print(url)
+        if url not in subjects:
+            subjects[url] = [row.getText()]
+        else:
+            subjects[url].append(row.getText())
+        #print(subjects[url])
+
+    return subjects
+
+def getCourses(url, area):
+    req = requests.get(url)
+    html = req.text
+    soup = BeautifulSoup(html, 'html.parser')
+    courseTable = soup.select('.data > a')
+    subject = soup.select(
+        "td.data"
+    )
+    subject = subject[7].text
+    courses = []
+    count = 0
+    courseCode = ''
+    courseName = ''
+
+    for row in courseTable:
+        flag = 0
+        course = {}
+
+        if len(row['href']) != 13:
+            continue
+        
+        if (count % 2) == 0:
+            courseCode = row.text
+        else:
+            courseName = row.text
+            flag = 1
+
+        if flag:
+            course['code'] = courseCode
+            course['title'] = courseName
+            course['subject'] = area
+            courses.append(course)
+            # print("adding "+courseCode)
+            # x = requests.post("https://asia-east2-unigc-eea69.cloudfunctions.net/api/addCourse", data=course)
+            # if not x.ok:
+            #     print(courseCode + " Failed.")
+            # else:
+            #     print(courseCode + " Success.")
+            flag = 0
+
+        count += 1
+    return courses
 
 if __name__ == '__main__':
-    url_list = getURL()
-    for url in url_list:
-        crawl(url)
+    subjects_data = crawlURL()
+    # print(subjects)
+    
+    subject_areas = []
+    courses = []
+    for url, names in subjects_data.items():
+        subject_areas.append({"code": names[0], "name": names[1]})
+        courses += getCourses(url,names[0])
+    saveJson(subject_areas, "subjects.json")
+    # maximum document per transaction is limited to 500 from firestore
+    n = 490
+    x = [courses[i:i + n] for i in range(0, len(courses), n)]
+    for l in x:
+        saveJson(l, "courses" + str(x.index(l)) + ".json")
+    # saveJson(courses, "courses.json")
