@@ -3,14 +3,14 @@ from bs4 import BeautifulSoup
 import json
 import os
 
-def saveJson(data):
+def saveJson(data, file_name):
     ## base directory of python file
-    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    # BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-    with open(os.path.join(BASE_DIR, 'result.json'), 'a+') as json_file:
-        json.dump(data, json_file)
+    with open(file_name, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
 
-def getURL():
+def crawlURL():
     BASE_URL = 'http://timetable.unsw.edu.au/2020/'
     req = requests.get(BASE_URL)
     html = req.text
@@ -18,7 +18,7 @@ def getURL():
     class_table = soup.select(
         '.data > a'
     )
-    lists = {}
+    subjects = {}
 
     for row in class_table:
         if len(row['href']) != 13:
@@ -28,12 +28,15 @@ def getURL():
 
         #print(row.getText())
         
-        if url not in lists:
-            lists[url] = row.getText()
+        if url not in subjects:
+            subjects[url] = [row.getText()]
+        else:
+            subjects[url].append(row.getText())
+        #print(subjects[url])
 
-    return lists
+    return subjects
 
-def getCourse(url, area):
+def getCourses(url, area):
     req = requests.get(url)
     html = req.text
     soup = BeautifulSoup(html, 'html.parser')
@@ -65,21 +68,25 @@ def getCourse(url, area):
             course['title'] = courseName
             course['subject'] = area
             courses.append(course)
-            print("adding "+courseCode)
-            x = requests.post("https://asia-east2-unigc-eea69.cloudfunctions.net/api/addCourse", data=course)
-            print(x.text)
+            # print("adding "+courseCode)
+            # x = requests.post("https://asia-east2-unigc-eea69.cloudfunctions.net/api/addCourse", data=course)
+            # if not x.ok:
+            #     print(courseCode + " Failed.")
+            # else:
+            #     print(courseCode + " Success.")
             flag = 0
 
         count += 1
-    #print(courses)
+    return courses
 
 if __name__ == '__main__':
-    url_list = getURL()
-    #print(url_list)
-
-    # for url, area in url_list.items():
-    #     getCourse(url,area)
-    getCourse("http://timetable.unsw.edu.au/2020/ACCTKENS.html","ACCT")
-
-    # for url in url_list:
-    #     getCourse(url)
+    subjects_data = crawlURL()
+    # print(subjects)
+    
+    subject_areas = []
+    courses = []
+    for url, names in subjects_data.items():
+        subject_areas.append({"code": names[0], "name": names[1]})
+        courses += getCourses(url,names[0])
+    saveJson(subject_areas, "subjects.json")
+    saveJson(courses, "courses.json")
