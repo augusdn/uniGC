@@ -1,0 +1,2452 @@
+[
+    {
+        "code": "DART1300",
+        "title": "Histories of Contemporary Art: Part 1",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1301",
+        "title": "Histories of Contemporary Art: Part 2",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1302",
+        "title": "Theories of Art History and Culture",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1303",
+        "title": "Theories and Practices of Cross-Disciplinary Art",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1310",
+        "title": "Australian Art",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1340",
+        "title": "Contexts for Art",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1350",
+        "title": "Media Arts Histories",
+        "subject": "DART"
+    },
+    {
+        "code": "DART1351",
+        "title": "Critical Discourses in Media Arts",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2100",
+        "title": "Studio Art Practice 3",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2101",
+        "title": "Studio Art Practice 4",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2110",
+        "title": "Drawing 2: Studio Processes",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2120",
+        "title": "Painting 2: Studio Processes",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2130",
+        "title": "Photography 2: Studio Processes",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2140",
+        "title": "Printmaking 2: Studio Processes",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2141",
+        "title": "Advanced Custom Printing",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2150",
+        "title": "Sculpture 2: Studio Processes",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2190",
+        "title": "Creative Experimentation",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2210",
+        "title": "Animation 2",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2211",
+        "title": "Animation 3",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2220",
+        "title": "Visual Effects 2",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2221",
+        "title": "Visual Effects 3",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2230",
+        "title": "Moving Image 2: Studio Processes",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2231",
+        "title": "Moving Image 3: Advanced Practice",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2240",
+        "title": "Sound 2",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2250",
+        "title": "Interactive Media 2",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2251",
+        "title": "Interactive Media 3",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2311",
+        "title": "East Asian Contemporary Art",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2320",
+        "title": "Art and the Body",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2321",
+        "title": "Sensing the Arts",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2330",
+        "title": "Ecomedia Art Practices",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2331",
+        "title": "Data Aesthetics",
+        "subject": "DART"
+    },
+    {
+        "code": "DART2341",
+        "title": "Art, Exhibitions, and Institutions",
+        "subject": "DART"
+    },
+    {
+        "code": "DART3310",
+        "title": "Art in the 21st Century",
+        "subject": "DART"
+    },
+    {
+        "code": "DART3320",
+        "title": "Art, Gender, and Sexuality",
+        "subject": "DART"
+    },
+    {
+        "code": "DART3321",
+        "title": "Affect in Art",
+        "subject": "DART"
+    },
+    {
+        "code": "DART3330",
+        "title": "Art and the Anthropocene",
+        "subject": "DART"
+    },
+    {
+        "code": "DART3331",
+        "title": "Peripheral Visions: The Ethnographic Camera",
+        "subject": "DART"
+    },
+    {
+        "code": "DART3340",
+        "title": "Socially Engaged Art",
+        "subject": "DART"
+    },
+    {
+        "code": "DART3341",
+        "title": "Writing as Practice",
+        "subject": "DART"
+    },
+    {
+        "code": "DART4101",
+        "title": "Fine Arts Honours Research Project 1",
+        "subject": "DART"
+    },
+    {
+        "code": "DART4102",
+        "title": "Fine Arts Honours Research Project 2",
+        "subject": "DART"
+    },
+    {
+        "code": "DART4103",
+        "title": "Fine Arts Honours Research Project 2",
+        "subject": "DART"
+    },
+    {
+        "code": "DART4201",
+        "title": "Media Arts Honours Research Project 1",
+        "subject": "DART"
+    },
+    {
+        "code": "DART4202",
+        "title": "Media Arts Honours Research Project 2",
+        "subject": "DART"
+    },
+    {
+        "code": "DART4203",
+        "title": "Media Arts Honours Research Project 2",
+        "subject": "DART"
+    },
+    {
+        "code": "DART4300",
+        "title": "Contemporary Art Theories and Methods",
+        "subject": "DART"
+    },
+    {
+        "code": "DART4301",
+        "title": "Art Theory Honours Research Project",
+        "subject": "DART"
+    },
+    {
+        "code": "DDES1100",
+        "title": "Design Studio 1 - Design Narratives",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES1101",
+        "title": "Design Studio 2 - Design Communication",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES1110",
+        "title": "3D Visualisation 1 - 3D Virtual Objects",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES1120",
+        "title": "Object 1 - Objects and the Hand",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES1130",
+        "title": "Experience 1 - Spaces and Senses",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES1140",
+        "title": "Graphics 1 - Image and Type",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES1150",
+        "title": "Interaction 1 - Principles and Practices",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES1160",
+        "title": "Textiles 1 - Concepts and Context",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES1200",
+        "title": "Design History and Theory 1",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES1201",
+        "title": "Design History and Theory 2",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES2100",
+        "title": "Design Studio 3 - Collaborative Industry/Stakeholder Project",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES2101",
+        "title": "Design Studio 4 - Interdisciplinary Project",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES2102",
+        "title": "Design Professional Practice",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES2110",
+        "title": "3D Visualisation 2: Virtual Worlds",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES2111",
+        "title": "3D Visualisation 3: Interactive Environments",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES2120",
+        "title": "Object 2: Objects and Place",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES2121",
+        "title": "Object 3: Objects and the World",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES2130",
+        "title": "Experience 2: Spaces of Exhibition",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES2131",
+        "title": "Experience 3: Spaces for Performance",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES2140",
+        "title": "Graphics 2: Identity and Form",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES2141",
+        "title": "Graphics 3: Place and Space",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES2150",
+        "title": "Interaction 2: Design Methodologies",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES2151",
+        "title": "Interaction 3: Emerging Applications",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES2160",
+        "title": "Textiles 2: Experimental Textiles",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES2161",
+        "title": "Textiles 3: Future Textiles",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES2200",
+        "title": "Design History and Theory 3",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES3190",
+        "title": "Mapping and Design Laboratory (mad.lab)",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES4101",
+        "title": "Design Honours Studio Research Project 1",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES4102",
+        "title": "Design Honours Studio Research Project 2",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES4103",
+        "title": "Design Honours Studio Research Project 2",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES4200",
+        "title": "Design Research Methods and Theory",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES9901",
+        "title": "Designing and Experiencing Immersion",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES9902",
+        "title": "Human Dimensions in Immersive Environments",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES9903",
+        "title": "Narrative and Sensemaking in Immersive Environments",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES9904",
+        "title": "Models, Systems and Solution Design",
+        "subject": "DDES"
+    },
+    {
+        "code": "DDES9914",
+        "title": "Managing Immersive Projects",
+        "subject": "DDES"
+    },
+    {
+        "code": "SAHT9110",
+        "title": "Australian Arts Ecology",
+        "subject": "SAHT"
+    },
+    {
+        "code": "SAHT9112",
+        "title": "Art Writing and Publishing",
+        "subject": "SAHT"
+    },
+    {
+        "code": "SAHT9113",
+        "title": "Cultural Heritage, Ethics and the Law",
+        "subject": "SAHT"
+    },
+    {
+        "code": "SAHT9116",
+        "title": "Research Paper",
+        "subject": "SAHT"
+    },
+    {
+        "code": "SAHT9117",
+        "title": "Contemporary Curating: Theories and Practices",
+        "subject": "SAHT"
+    },
+    {
+        "code": "SAHT9118",
+        "title": "Capstone Project",
+        "subject": "SAHT"
+    },
+    {
+        "code": "SAHT9122",
+        "title": "Audience Engagement",
+        "subject": "SAHT"
+    },
+    {
+        "code": "SAHT9124",
+        "title": "Cultural Management and Policy",
+        "subject": "SAHT"
+    },
+    {
+        "code": "SAHT9131",
+        "title": "Visual and Museum Cultures of the Asia-Pacific Region",
+        "subject": "SAHT"
+    },
+    {
+        "code": "SAHT9138",
+        "title": "Art in the 21st Century",
+        "subject": "SAHT"
+    },
+    {
+        "code": "SAHT9143",
+        "title": "Design History and Theory 1",
+        "subject": "SAHT"
+    },
+    {
+        "code": "SAHT9201",
+        "title": "Conservation, Registration and Handling",
+        "subject": "SAHT"
+    },
+    {
+        "code": "SAHT9204",
+        "title": "Histories of Contemporary Art",
+        "subject": "SAHT"
+    },
+    {
+        "code": "SAHT9310",
+        "title": "Exhibiting Cultures",
+        "subject": "SAHT"
+    },
+    {
+        "code": "SAHT9311",
+        "title": "Curatorial Studio: Social Space",
+        "subject": "SAHT"
+    },
+    {
+        "code": "SART3400",
+        "title": "Painting in the Expanded Field",
+        "subject": "SART"
+    },
+    {
+        "code": "SART3401",
+        "title": "Painting Futures Studio",
+        "subject": "SART"
+    },
+    {
+        "code": "SART3402",
+        "title": "Painting: Studio in Context",
+        "subject": "SART"
+    },
+    {
+        "code": "SART3403",
+        "title": "Painting: Studio Practice",
+        "subject": "SART"
+    },
+    {
+        "code": "SART3404",
+        "title": "Printmaking: Expanded Fields",
+        "subject": "SART"
+    },
+    {
+        "code": "SART3406",
+        "title": "Printmaking: Media and the Message",
+        "subject": "SART"
+    },
+    {
+        "code": "SART3408",
+        "title": "SPI: The Public Domain",
+        "subject": "SART"
+    },
+    {
+        "code": "SART3409",
+        "title": "SPI: Self Initiated Work",
+        "subject": "SART"
+    },
+    {
+        "code": "SART3410",
+        "title": "SPI: Relational Art",
+        "subject": "SART"
+    },
+    {
+        "code": "SART3411",
+        "title": "SPI: Studio Research",
+        "subject": "SART"
+    },
+    {
+        "code": "SART3412",
+        "title": "Experimental Drawing",
+        "subject": "SART"
+    },
+    {
+        "code": "SART3413",
+        "title": "Drawing: Studio practice",
+        "subject": "SART"
+    },
+    {
+        "code": "SART3414",
+        "title": "Photography: Place and the Everyday",
+        "subject": "SART"
+    },
+    {
+        "code": "SART3415",
+        "title": "Photography: Independent Studies",
+        "subject": "SART"
+    },
+    {
+        "code": "SART3416",
+        "title": "Photography: Public and Private",
+        "subject": "SART"
+    },
+    {
+        "code": "SART3800",
+        "title": "Professional Practice",
+        "subject": "SART"
+    },
+    {
+        "code": "SART9003",
+        "title": "The Consolidated Studio",
+        "subject": "SART"
+    },
+    {
+        "code": "SART9102",
+        "title": "Lens and Studio Craft",
+        "subject": "SART"
+    },
+    {
+        "code": "SART9106",
+        "title": "Temporal Approaches to Art",
+        "subject": "SART"
+    },
+    {
+        "code": "SART9115",
+        "title": "Fine Arts Professional Practice",
+        "subject": "SART"
+    },
+    {
+        "code": "SART9203",
+        "title": "Chromatic and Tonal Approaches to Contemporary Art",
+        "subject": "SART"
+    },
+    {
+        "code": "SART9204",
+        "title": "Capstone Project",
+        "subject": "SART"
+    },
+    {
+        "code": "SART9205",
+        "title": "Project Paper",
+        "subject": "SART"
+    },
+    {
+        "code": "SART9206",
+        "title": "The Serial Image: Making Prints",
+        "subject": "SART"
+    },
+    {
+        "code": "SART9207",
+        "title": "Line and Mark: Past & Futures",
+        "subject": "SART"
+    },
+    {
+        "code": "SART9744",
+        "title": "Fine Arts Field Trip",
+        "subject": "SART"
+    },
+    {
+        "code": "SART9745",
+        "title": "Custom Printing",
+        "subject": "SART"
+    },
+    {
+        "code": "SART9746",
+        "title": "Advanced Custom Printing",
+        "subject": "SART"
+    },
+    {
+        "code": "SDES2116",
+        "title": "Design Practice",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES2167",
+        "title": "Textiles for Fashion",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES2168",
+        "title": "Commercial Textile Design",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES2170",
+        "title": "Rendering and Illustration for Designers",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES2188",
+        "title": "Wheel Throwing in Contemporary Ceramic Practice",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES2203",
+        "title": "Drawing for Design",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES2414",
+        "title": "Sustainable Design: Theories and Practice",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES2463",
+        "title": "Graphics Media: Typography and Publication Design",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES2464",
+        "title": "Cultural Textiles: Field Trips",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES3166",
+        "title": "Jewellery Design for Fashion",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES3174",
+        "title": "Digital Design - Introduction to Web Design",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES3400",
+        "title": "Textile Industry and Forecasting",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES3401",
+        "title": "Smart Textiles and New Technologies",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES3402",
+        "title": "Second Skin: Textiles and the Body",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES3403",
+        "title": "Experimental Art Textiles",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES3404",
+        "title": "Ceramics: Form and Context",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES3405",
+        "title": "Ceramics: Interactive Artefacts",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES3406",
+        "title": "Graphics Media: Visual Identity",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES3407",
+        "title": "Graphics Media: Data Visualisation, Interactives and Wayfinding",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES3408",
+        "title": "Jewellery Installation and Jewellery for the Table",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES3409",
+        "title": "Jewellery: Contextual Issues through Bodyworks",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES3410",
+        "title": "Object Design: Industry Connections",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES3412",
+        "title": "Spatial Design: Visualising Virtual Spaces",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES3413",
+        "title": "Spatial Design and Documentation: Structures and Surfaces",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES3414",
+        "title": "Integrated Project",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES4205",
+        "title": "Information Graphics: Design and Visualising Data",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9203",
+        "title": "Entrepreneurship, Innovation and Creativity",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9204",
+        "title": "Design Studio: Insight, Processes and Communication",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9210",
+        "title": "Critical Approaches to Design Practice",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9211",
+        "title": "Integrated Studio: Culture and Identity",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9213",
+        "title": "Design Studio Project A",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9214",
+        "title": "Design Studio Project B",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9300",
+        "title": "Transforming the Everyday: Domestic Futures",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9305",
+        "title": "Participatory Design for Commercial Contexts",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9311",
+        "title": "Interaction Design Foundations",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9312",
+        "title": "Interaction Design: Human-Centred Design Methods",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9315",
+        "title": "Tangible Interfaces and Interactive Displays",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9316",
+        "title": "Wearable and Bio-Sensing Interactions",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9320",
+        "title": "Exploring 3D Visualisation",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9321",
+        "title": "3D Digital Aesthetics",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9350",
+        "title": "Urban Intervention: People Places and Cultural Contexts",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9352",
+        "title": "Imperatives for a Sustainable Future",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9464",
+        "title": "Cultural Textiles: Field Trips",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9746",
+        "title": "Textiles - Contemporary Studio",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9747",
+        "title": "Introduction to Furniture and Lighting",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9748",
+        "title": "Jewellery Studio",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9760",
+        "title": "Introduction to Graphics Media",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9761",
+        "title": "Contemporary Typography",
+        "subject": "SDES"
+    },
+    {
+        "code": "SDES9762",
+        "title": "Graphic Design for the Web",
+        "subject": "SDES"
+    },
+    {
+        "code": "SOMA2416",
+        "title": "Video Mapping into Sculptural Objects and 3D Spaces",
+        "subject": "SOMA"
+    },
+    {
+        "code": "SOMA2417",
+        "title": "Sound Installation and Soundscape",
+        "subject": "SOMA"
+    },
+    {
+        "code": "SOMA3408",
+        "title": "Animation Processes: Preproduction to Post",
+        "subject": "SOMA"
+    },
+    {
+        "code": "SOMA3409",
+        "title": "Deconstructed Animation Systems",
+        "subject": "SOMA"
+    },
+    {
+        "code": "SOMA3410",
+        "title": "Performative Animation and the Virtual Body",
+        "subject": "SOMA"
+    },
+    {
+        "code": "SOMA3411",
+        "title": "Visual Effects Project",
+        "subject": "SOMA"
+    },
+    {
+        "code": "SOMA3412",
+        "title": "Critiques of Narrative in Moving Image",
+        "subject": "SOMA"
+    },
+    {
+        "code": "SOMA3413",
+        "title": "Audiovisual Studio",
+        "subject": "SOMA"
+    },
+    {
+        "code": "SOMA3414",
+        "title": "Rethinking Sound and Music",
+        "subject": "SOMA"
+    },
+    {
+        "code": "SOMA3415",
+        "title": "Compositional Project",
+        "subject": "SOMA"
+    },
+    {
+        "code": "SOMA3416",
+        "title": "Imaging Effects Workshop",
+        "subject": "SOMA"
+    },
+    {
+        "code": "SOMA3417",
+        "title": "Virtual Control Systems and 3D Surfaces",
+        "subject": "SOMA"
+    },
+    {
+        "code": "SOMA3616",
+        "title": "Professional Practice",
+        "subject": "SOMA"
+    },
+    {
+        "code": "SOMA3801",
+        "title": "Special Project",
+        "subject": "SOMA"
+    },
+    {
+        "code": "YCAN8000",
+        "title": "US Cyber Policy and Information Security",
+        "subject": "YCAN"
+    },
+    {
+        "code": "ZBUS1101",
+        "title": "Organisational Behaviour",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS1102",
+        "title": "Business Economics",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS1103",
+        "title": "Introduction to Accounting",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS1104",
+        "title": "Foundations of Management",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS2101",
+        "title": "Business Law",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS2202",
+        "title": "Australia and the World Economy",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS2206",
+        "title": "Managing People Across Cultures",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS2207",
+        "title": "Governing Australia: Managing the Public Sector",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS2208",
+        "title": "Innovation and Organisation",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS2302",
+        "title": "Leadership",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS2304",
+        "title": "Management Accounting",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS2401",
+        "title": "Financial Management",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS2820",
+        "title": "International Business",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS2901",
+        "title": "Business Research",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS2902",
+        "title": "Research Project in Business 1",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS3102",
+        "title": "Project Management",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS3103",
+        "title": "Human Resource Management",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS3104",
+        "title": "Business Capstone",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS3107",
+        "title": "Illicit Business in the Modern World",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS3203",
+        "title": "The Making of Economic Policy",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS3207",
+        "title": "Management and Governance in Developing Countries",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS3208",
+        "title": "Marketing",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS3303",
+        "title": "Logistics Management",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS3901",
+        "title": "Research Project in Business 2",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS3902",
+        "title": "Research Project in Business 3",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS4001",
+        "title": "Literature Review (Honours)",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS4002",
+        "title": "Research Methods (Honours)",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS4101",
+        "title": "Business Research 1 (Honours)",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS4102",
+        "title": "Business Research 2 (Honours)",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8101",
+        "title": "Strategic Management",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8102",
+        "title": "Organisational Behaviour",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8103",
+        "title": "Strategic Human Resources",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8105",
+        "title": "Finance and Investment Appraisal",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8108",
+        "title": "Accounting and Financial Management",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8109",
+        "title": "Business Law",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8147",
+        "title": "The Business of Managing Projects",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8148",
+        "title": "Economic World View",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8149",
+        "title": "Introduction to Finance",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8201",
+        "title": "Leadership",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8203",
+        "title": "Change Management",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8204",
+        "title": "Marketing",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8205",
+        "title": "Business Ethics",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8208",
+        "title": "Humanitarian Logistics",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8210",
+        "title": "Critical Analysis in Business",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8302",
+        "title": "Logistics Management",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8303",
+        "title": "Strategic Procurement and Outsourcing",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8306",
+        "title": "Sustaining Capability (Capability and Technology Management College)",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8310",
+        "title": "Commercial Skills in the Public Sector",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8312",
+        "title": "Logistics Intelligence and Big Data Analysis",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8313",
+        "title": "Risk Management in Logistics",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8314",
+        "title": "People and Systems",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8315",
+        "title": "Driving Performance",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8316",
+        "title": "Developing Organisational Capability",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8317",
+        "title": "Workforce Planning",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8318",
+        "title": "Cross Cultural Management",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8501",
+        "title": "Research Project - Business",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8502",
+        "title": "Research Project - Business",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8911",
+        "title": "Asset Management",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8912",
+        "title": "Delivering Capability",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8913",
+        "title": "Leadership, Change and Innovation",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8998",
+        "title": "Professional Doctorate Dissertation Full-Time",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZBUS8999",
+        "title": "Professional Doctorate Dissertation Part-Time",
+        "subject": "ZBUS"
+    },
+    {
+        "code": "ZEIT1102",
+        "title": "Introduction to Programming",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT1110",
+        "title": "Computer Games",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT1190",
+        "title": "Computing and Cyber Security Research 1A",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT1206",
+        "title": "Design of Electronic Circuits 1",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT1208",
+        "title": "Introduction to Electrical Engineering",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT1290",
+        "title": "Electrical Engineering Research 1A",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT1501",
+        "title": "Engineering Practice and Design",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT1503",
+        "title": "Engineering Mechanics",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT1504",
+        "title": "Introduction to Mechanical and Aeronautical Engineering",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT1600",
+        "title": "Introduction to Civil Engineering",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT1690",
+        "title": "Civil Engineering Research 1A",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT1800",
+        "title": "Introduction to Aviation Technology",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT1901",
+        "title": "Engineering Research 1A",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2102",
+        "title": "Computer Technology",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2103",
+        "title": "Data Structures and Representation",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2104",
+        "title": "Computers and Security",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2105",
+        "title": "Systems Analysis and Design",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2106",
+        "title": "Digital Forensics",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2190",
+        "title": "Computing and Cyber Security Research 2",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2207",
+        "title": "Design of Electronic Circuits 2",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2208",
+        "title": "Programmable Digital Systems",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2209",
+        "title": "Principles of Electrical Engineering",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2500",
+        "title": "Thermofluids",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2501",
+        "title": "Mechanical and Electronic Design",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2502",
+        "title": "Fundamentals of Flight",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2503",
+        "title": "Fluid Mechanics",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2504",
+        "title": "Mechanics of Solids",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2601",
+        "title": "Soil Mechanics and Engineering Geology",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2602",
+        "title": "Hydraulic Engineering",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2603",
+        "title": "Civil Engineering Materials",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2700",
+        "title": "Mechanics of Machines",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2802",
+        "title": "Aircraft Systems for Aviators",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2803",
+        "title": "Aviation Safety",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2901",
+        "title": "Engineering Research 2A",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT2902",
+        "title": "Engineering Research 2B",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3101",
+        "title": "IT Project 2",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3102",
+        "title": "Cryptography",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3111",
+        "title": "Special Topic",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3112",
+        "title": "Special Topic 2",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3113",
+        "title": "Computer Languages and Algorithms",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3118",
+        "title": "IT Project 1",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3119",
+        "title": "Web Development and Security",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3120",
+        "title": "Programming for Security",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3121",
+        "title": "Securing Networks",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3190",
+        "title": "Computing and Cyber Security Research 3A",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3191",
+        "title": "Computing and Cyber Security Research 3B",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3215",
+        "title": "Signals and Systems",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3216",
+        "title": "Design of Electronic Circuits 3",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3218",
+        "title": "Communications Techniques",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3220",
+        "title": "Engineering Electromagnetics",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3221",
+        "title": "Digital Signal Processing and Control",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3222",
+        "title": "Control Engineering",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3404",
+        "title": "Simulation",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3500",
+        "title": "Engineering Structures",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3501",
+        "title": "Engineering Materials",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3502",
+        "title": "Vibration and Control Engineering",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3503",
+        "title": "Aerodynamics",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3504",
+        "title": "Aircraft and Systems Design 1",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3505",
+        "title": "Flight Dynamics and Aircraft Control",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3506",
+        "title": "Systems Engineering / Management",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3600",
+        "title": "Structural Analysis",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3601",
+        "title": "Environmental Engineering",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3602",
+        "title": "Geotechnical Design",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3603",
+        "title": "Design of Steel and Timber Structures",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3605",
+        "title": "Design of Concrete and Pre stressed Concrete  Structures",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3606",
+        "title": "Foundation and Pavement Engineering",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3607",
+        "title": "Transportation Engineering",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3700",
+        "title": "Mechanical Design 1",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3701",
+        "title": "Heat Transfer and Refrigeration",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3801",
+        "title": "Advanced Aviation Safety",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3802",
+        "title": "Project and Practical Experience",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3803",
+        "title": "Air Traffic Management",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3804",
+        "title": "Behavioural Science Project and Practical Experience",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3805",
+        "title": "Airport Operations and Systems",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3901",
+        "title": "Engineering Research 3A",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT3902",
+        "title": "Engineering Research 3B",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4003",
+        "title": "Computational Fluid Dynamics",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4004",
+        "title": "Geosynthetics and Ground Improvement",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4005",
+        "title": "Naval Architecture",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4006",
+        "title": "Structural Integrity Assessment",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4007",
+        "title": "Rotorcraft Engineering",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4014",
+        "title": "Impact Dynamics",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4016",
+        "title": "Airport Engineering",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4101",
+        "title": "Computer Science Honours Special Topic 1",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4102",
+        "title": "Computer Science Honours Special Topic 2",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4103",
+        "title": "Computer Science Honours Special Topic 3",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4104",
+        "title": "Computer Science Honours Special Topic 4",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4115",
+        "title": "Computing and Cyber Security Honours Research 1",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4116",
+        "title": "Computing and Cyber Security Honours Research 2",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4117",
+        "title": "Computing and Cyber Security Honours Special Topic 1",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4118",
+        "title": "Computing and Cyber Security Honours Special Topic 2",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4119",
+        "title": "Computing and Cyber Security Honours Special Topic 3",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4120",
+        "title": "Computing and Cyber Security Honours Special Topic 4",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4218",
+        "title": "Occasional Option 4",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4224",
+        "title": "Electrical Power, Machines and Power Electronics",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4225",
+        "title": "Satellite Communications",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4226",
+        "title": "Digital Image Processing and Enhancement",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4227",
+        "title": "Radar Techniques and Applications",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4230",
+        "title": "Electrical Engineering Design Practice",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4297",
+        "title": "Electrical Engineering Project Extension",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4500",
+        "title": "Engineering Project A",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4501",
+        "title": "Engineering Project B",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4502",
+        "title": "Aircraft and Systems Design 2",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4503",
+        "title": "Applied Thermodynamics and Propulsion",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4504",
+        "title": "Electrical and Mechanical Plant",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4506",
+        "title": "Orbital Mechanics",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4507",
+        "title": "Space Situational Awareness",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4600",
+        "title": "Civil Design Practice",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4601",
+        "title": "Civil Design Practice Extension",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4603",
+        "title": "Finite Element Methods",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4604",
+        "title": "Hydrology and Environmental Engineering Practice",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4700",
+        "title": "Mechanical Design 2",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4702",
+        "title": "Instrumentation",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4703",
+        "title": "Land Mobility and Weapons",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4705",
+        "title": "Marine Project",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4801",
+        "title": "Aviation Honours Special Topic 1",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4802",
+        "title": "Aviation Honours Special Topic 2",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4901",
+        "title": "Engineering Research 4A",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT4902",
+        "title": "Engineering Research 4B",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8001",
+        "title": "Special Elective 1: Project Management",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8007",
+        "title": "Space Operations",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8008",
+        "title": "Space Systems Design",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8009",
+        "title": "Global Navigation Satellite Systems (GNSS)",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8010",
+        "title": "Marine Technology",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8011",
+        "title": "Space Systems Technology",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8012",
+        "title": "Space Systems Engineering Management",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8016",
+        "title": "Capability Development",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8017",
+        "title": "Cyber Crime and Cyber Security",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8018",
+        "title": "Cyber Resilience: Management Governance and Acquisition",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8020",
+        "title": "Cyber Offence: Threats and Opportunities",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8021",
+        "title": "Information Assurance and Security",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8023",
+        "title": "Wireless, Mobile and Internet of Things Security",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8024",
+        "title": "Software Security Lifecycle",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8025",
+        "title": "Reverse Engineering",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8026",
+        "title": "Cyber Defence: Network Security Operations",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8027",
+        "title": "Critical Infrastructure and Control System Security",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8028",
+        "title": "Digital Forensics",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8029",
+        "title": "Network and Memory Forensics",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8030",
+        "title": "Big Data and Decision Analytics for Security",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8031",
+        "title": "Reliability Engineering Fundamentals",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8032",
+        "title": "Information Assurance Principles",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8034",
+        "title": "Advanced Test and Evaluation Techniques",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8035",
+        "title": "Cyber Terrorism",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8037",
+        "title": "Cyber Security Risk Management",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8039",
+        "title": "Reliability Engineering Assurance",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8042",
+        "title": "Introduction to Exploit Development",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8043",
+        "title": "Cyber and the Law",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8046",
+        "title": "Computer Network Operations Project",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8048",
+        "title": "Wireless, Mobile & Internet of Things Project",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8050",
+        "title": "Network Security Operations Project",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8052",
+        "title": "Digital Forensics Project",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8115",
+        "title": "Information Operations",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8119",
+        "title": "Internetworking",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8136",
+        "title": "Software Project Management",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8152",
+        "title": "Reliability Program Management",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8198",
+        "title": "Project - Information Technology (Part-Time)",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8205",
+        "title": "Fundamentals of Surveillance Technologies",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8213",
+        "title": "Communications and Information Systems",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8219",
+        "title": "Satellite Communications",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8221",
+        "title": "Spaceborne Imaging Technology",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8226",
+        "title": "Systems Engineering Practice",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8229",
+        "title": "Non-Communications Electronic Warfare",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8230",
+        "title": "Requirements Practice",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8231",
+        "title": "Test and Evaluation",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8233",
+        "title": "Explosive Ordnance Technology",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8236",
+        "title": "System Safety Engineering",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8239",
+        "title": "Systems Engineering Project",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8241",
+        "title": "Requirements Practice Project",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8243",
+        "title": "Satellite Communications Project",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8245",
+        "title": "Systems Thinking and Modelling Project",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8247",
+        "title": "Test and Evaluation Project",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8261",
+        "title": "Project Report - Cyber Security (Full Time)",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8270",
+        "title": "Project Report - Decision Analytics Part-Time",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8271",
+        "title": "Project Report - Decision Analytics Full-Time",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8280",
+        "title": "Project - Project Management F/T",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8281",
+        "title": "Project - Project Management P/T",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8296",
+        "title": "Project Report - Systems Engineering Part Time",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8297",
+        "title": "Project Report - Systems Engineering Full Time",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8298",
+        "title": "Project Report - Engineering Science Part-Time",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8302",
+        "title": "Project Administration",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8303",
+        "title": "Project Management Body of Knowledge",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8305",
+        "title": "Systems Thinking and Modelling",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8310",
+        "title": "Project Schedule and Budget Control",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8402",
+        "title": "Evidence-based Decision Making",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8403",
+        "title": "Capability Option Analysis",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8404",
+        "title": "Decision Making Analytics",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8412",
+        "title": "Simulation",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8413",
+        "title": "Simulation Applications",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8416",
+        "title": "Research Practices for Operations Analysis",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8503",
+        "title": "Aerospace Vehicle Technologies",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8506",
+        "title": "Weapons Engineering",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8704",
+        "title": "Vehicles and Mobility",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8900",
+        "title": "Professional Practice",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8998",
+        "title": "Professional Doctorate Dissertation (Full-Time)",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT8999",
+        "title": "Professional Doctorate Dissertation (Part-Time)",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT9300",
+        "title": "Project Management Research Full-Time",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT9301",
+        "title": "Project Management Research Part-Time",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT9400",
+        "title": "Cyber Security Research (Full-time)",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZEIT9401",
+        "title": "Cyber Security Research (Part-Time)",
+        "subject": "ZEIT"
+    },
+    {
+        "code": "ZGEN2215",
+        "title": "Law, Force and Legitimacy",
+        "subject": "ZGEN"
+    },
+    {
+        "code": "ZGEN2222",
+        "title": "Introduction to Strategic Studies",
+        "subject": "ZGEN"
+    },
+    {
+        "code": "ZGEN2240",
+        "title": "Introduction to Military Ethics",
+        "subject": "ZGEN"
+    },
+    {
+        "code": "ZGEN2801",
+        "title": "Strategy, Management and Leadership",
+        "subject": "ZGEN"
+    },
+    {
+        "code": "ZHSS1101",
+        "title": "English and Media Studies 1A: Culture and Communication",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS1102",
+        "title": "English and Media Studies 1B: Cultures of Conflict",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS1201",
+        "title": "History 1A: The Second World War 1937-1941",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS1202",
+        "title": "History 1B: The Second World War 1942-1949",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS1301",
+        "title": "Indonesian 1A",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS1302",
+        "title": "Indonesian 1B",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS1303",
+        "title": "Indonesian 1C",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS1304",
+        "title": "Indonesian 1D",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS1401",
+        "title": "International and Political Studies 1A: Ideals, Interests and Power",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS1402",
+        "title": "International and Political Studies 1B: World Politics",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS2120",
+        "title": "Heroism, Banditry and Manhood in Popular Culture",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS2224",
+        "title": "The Road to Ruin? Germany 1700-1933",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS2229",
+        "title": "Russian History: Medieval to Modern Times",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS2230",
+        "title": "Contemporary African History",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS2235",
+        "title": "Conflict in the Asia-Pacific",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS2301",
+        "title": "Indonesian 2A",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS2302",
+        "title": "Indonesian 2B",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS2303",
+        "title": "Indonesian 2C",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS2304",
+        "title": "Indonesian 2D",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS2423",
+        "title": "Key Political Thinkers",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS2427",
+        "title": "Politics of the Great Powers",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS2506",
+        "title": "Development Policy & Social Contexts in Indonesia",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS2600",
+        "title": "Practical Ethics for the 21st Century",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS2601",
+        "title": "Introductory Business Ethics",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS2901",
+        "title": "Humanities & Social Sciences Special Topic 1",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS2902",
+        "title": "Humanities and Social Sciences Research Project 1",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS3121",
+        "title": "Classic Literary Texts",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS3138",
+        "title": "War Literature and Film",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS3139",
+        "title": "Reading Theory",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS3201",
+        "title": "Preliminary Honours History",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS3202",
+        "title": "Preliminary Honours History: Methodology, Research and Writing",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS3212",
+        "title": "Australian Military History 1788 to the Present",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS3231",
+        "title": "First World War",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS3301",
+        "title": "Indonesian 3A",
+        "subject": "ZHSS"
+    },
+    {
+        "code": "ZHSS3302",
+        "title": "Indonesian 3B",
+        "subject": "ZHSS"
+    }
+]
