@@ -2,6 +2,11 @@
   text-align: center;
 } */
 
+.Section-header {
+  margin-top: 50px;
+  text-align: center;
+}
+
 .Search-container {
   background-color: #282c34;
   height: 50vh;
@@ -16,14 +21,13 @@
 }
 
 .Subject-list {
-  margin: 20px;
   display: grid;
   grid-template-columns: auto auto auto;
   place-items: center;
   grid-gap: 20px;
 }
 
-.Profile-container {
+.Marginal-container {
   margin: 20px;
 }
 
@@ -40,14 +44,16 @@
 }
 
 .Login-form {
-  /* width: 50vw; */
+  width: 30vw;
+  margin: auto;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .Signup-form {
-  /* width: 50vw; */
+  width: 30vw;
+  margin: auto;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -60,5 +66,21 @@
     grid-template-columns: auto;
     place-items: center;
     grid-gap: 20px;
+  }
+
+  .Login-form {
+    width: 80vw;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .Signup-form {
+    width: 80vw;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
 }

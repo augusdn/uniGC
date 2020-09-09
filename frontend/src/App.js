@@ -8,8 +8,17 @@ import { faSignInAlt } from '@fortawesome/free-solid-svg-icons';
 import Home from './pages/Home';
 import Profile from './pages/Profile';
 import Login from './pages/Login';
-import Signup from './pages/Signup';
 import './App.css';
+
+// Firebase
+// import * as firebase from 'firebase/app';
+// import { firebaseConfig } from './config/firebaseConfig';
+// import 'firebase/auth';
+
+// Initialize Firebase
+// firebase.initializeApp(firebaseConfig);
+//
+// var provider = new firebase.auth.FacebookAuthProvider();
 
 function App() {
   return (
@@ -32,16 +41,12 @@ function App() {
               <li className="nav-item">
                 <Link className="nav-link" to="/login">Login <FontAwesomeIcon icon={faSignInAlt}/></Link>
               </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="/signup">Signup <FontAwesomeIcon icon={faUserPlus}/></Link>
-              </li>
             </ul>
           </div>
         </nav>
         <Route exact path="/" component={Home} />
         <Route path="/profile" component={Profile} />
         <Route path="/login" component={Login} />
-        <Route path="/signup" component={Signup} />
       </div>
     </Router>
   );
