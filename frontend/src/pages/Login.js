@@ -4,41 +4,53 @@ import { faUser } from '@fortawesome/free-solid-svg-icons';
 import { faFacebook } from '@fortawesome/free-brands-svg-icons';
 
 // Firebase
-import * as firebase from 'firebase/app';
-import { firebaseConfig } from '../config/firebaseConfig';
-import 'firebase/auth';
+import firebase from "../components/Firebase/FirebaseConfig.js";
 
-// Initialize Firebase
-firebase.initializeApp(firebaseConfig);
+const provider = new firebase.auth.FacebookAuthProvider();
 
-var provider = new firebase.auth.FacebookAuthProvider();
+var user = firebase.auth().currentUser;
 
-function Login() {
-  return (
-    <div className="card Login-form">
-      <div className="card-body">
-        <h2 style={{textAlign: "center"}}>Welcome to uniGC!</h2>
-        <button type="submit" className="btn btn-primary btn-block" onClick={() => firebase.auth().signInWithRedirect(provider)}>
-          Login using Facebook <FontAwesomeIcon icon={faFacebook} />
-        </button>
-      </div>
-    </div>
-  );
+const fbSignIn = () => {
+  firebase.auth().signInWithPopup(provider).then(function(result) {
+    var token = result.credential.accessToken;
+    var user = result.user;
+    console.log(user);
+  })
+  .catch(function(error) {
+    var errorCode = error.code;
+    var errorMessage = error.message;
+    // The email of the user's account used.
+    var email = error.email;
+    // The firebase.auth.AuthCredential type that was used.
+    var credential = error.credential;
+  });
 }
 
-firebase.auth().getRedirectResult().then(function(result) {
-  // console.log(result);
-  if (result.credential) {
-    let token = result.credential.accessToken;
+function Login() {
+  if(user){
+    console.log(user);
+    console.log("asdasdasdasdsad");
+    return (
+      <div className="card Login-form">
+        <div className="card-body">
+          <h2 style={{textAlign: "center"}}>Successfully logged in!</h2>
+        </div>
+      </div>
+    );
+  } else {
+    console.log("asdasdasdasd123sad");
+    return (
+      <div className="card Login-form">
+        <div className="card-body">
+          <h2 style={{textAlign: "center"}}>Welcome to uniGC!</h2>
+          <button type="submit" className="btn btn-primary btn-block" onClick={fbSignIn}>
+            Login using Facebook <FontAwesomeIcon icon={faFacebook} />
+          </button>
+        </div>
+      </div>
+    );
   }
-
-  let user = result.user;
-  let userEmail = result.user.email;
-}).catch(function(error) {
-  // console.log(error)
-  let errorCode = error.code;
-  let errorMessage = error.message;
-  console.log(errorCode + ': ' + errorMessage);
-})
+  
+}
 
 export default Login;
