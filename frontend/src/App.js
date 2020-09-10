@@ -7,6 +7,9 @@ import Home from './pages/Home';
 import Profile from './pages/Profile';
 import Login from './pages/Login';
 import './App.css';
+import firebase from "./components/firebase/firebase"
+
+firebase.analytics().logEvent('notification_received');
 
 // Firebase
 // import * as firebase from 'firebase/app';
