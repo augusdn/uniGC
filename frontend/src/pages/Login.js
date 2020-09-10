@@ -4,7 +4,7 @@ import { faUser } from '@fortawesome/free-solid-svg-icons';
 import { faFacebook } from '@fortawesome/free-brands-svg-icons';
 
 // Firebase
-import firebase from "../components/Firebase/FirebaseConfig.js";
+import firebase from "../components/firebase/firebase.js";
 
 const provider = new firebase.auth.FacebookAuthProvider();
 

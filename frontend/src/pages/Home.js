@@ -7,7 +7,7 @@ function Home() {
     <main>
       <form className="Search-container">
         <div className="form-group Search-chat">
-          <label for="exampleInputEmail1">Group Chat Search</label>
+          <label form="exampleInputEmail1">Group Chat Search</label>
           <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"/>
           <small id="emailHelp" className="form-text text-muted">Maybe the group chat you're interested in already exists?</small>
         </div>
