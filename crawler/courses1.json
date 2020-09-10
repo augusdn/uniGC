@@ -1,0 +1,2452 @@
+[
+    {
+        "code": "ARTS4925",
+        "title": "Politics and International Relations Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4926",
+        "title": "Politics and International Relations Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS5100",
+        "title": "Research Methods",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS5503",
+        "title": "Academic Writing for the Humanities",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS5505",
+        "title": "Personalised English Language Enhancement",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS5200",
+        "title": "Intellectual Foundations and Methods of Research",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS5201",
+        "title": "Knowledges and Ethical Practices",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS5202",
+        "title": "Social Approaches to Researching Health and Well-Being",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS5203",
+        "title": "Global and First Nations Studies",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS5204",
+        "title": "Research and the Creative Arts",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS5206",
+        "title": "Research Specialisation",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS8100",
+        "title": "Master of Philosophy Thesis A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS8101",
+        "title": "Master of Philosophy Thesis B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS8200",
+        "title": "Master of Arts by Research Thesis A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS8201",
+        "title": "Master of Arts by Research Thesis B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ASIA8301",
+        "title": "Masters Program by Coursework and Research Full-Time",
+        "subject": "ASIA"
+    },
+    {
+        "code": "ASIA8302",
+        "title": "Masters Program by Coursework and Research Part-Time",
+        "subject": "ASIA"
+    },
+    {
+        "code": "ATSI0001",
+        "title": "Enabling Skills 1",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI0002",
+        "title": "Enabling Skills 2",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI1011",
+        "title": "Indigenous Australia",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI1012",
+        "title": "Aboriginal Sydney",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI2004",
+        "title": "Popular Culture of Indigenous Australia",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI2011",
+        "title": "Indigenous Australian Political History",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI2015",
+        "title": "The Science of Indigenous Knowledges",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI3002",
+        "title": "Gendered Identities in Indigenous Australia",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI3005",
+        "title": "Race, Colonialism and Whiteness",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI3008",
+        "title": "Indigenous Studies Capstone",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI3017",
+        "title": "Indigenous Histories and the Colonial World",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI4001",
+        "title": "Advanced Indigenous Studies: Issues and Debates",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI4003",
+        "title": "Research Design in Indigenous Studies",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI4101",
+        "title": "Indigenous Studies Honours I",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI4102",
+        "title": "Indigenous Studies Honours II",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI4103",
+        "title": "Indigenous Studies Honours III",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI4104",
+        "title": "Indigenous Studies Honours IV",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI7001",
+        "title": "Pre-Business Program (Indigenous)",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI7002",
+        "title": "Pre-Law Program (Indigenous)",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI7003",
+        "title": "Pre-Medicine Program (Indigenous)",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI7004",
+        "title": "Pre-Social Work Program (Indigenous)",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI7006",
+        "title": "Pre-Teacher Education Program (Secondary) (Indigenous)",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI7007",
+        "title": "Pre-Science and Engineering Program (Indigenous)",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI9000",
+        "title": "Research Thesis Indigenous Studies Full-Time",
+        "subject": "ATSI"
+    },
+    {
+        "code": "ATSI9001",
+        "title": "Research Thesis Indigenous Studies Part-Time",
+        "subject": "ATSI"
+    },
+    {
+        "code": "AUST8301",
+        "title": "Masters Program by Coursework and Research Full-Time",
+        "subject": "AUST"
+    },
+    {
+        "code": "AVEN1920",
+        "title": "Introduction to Aircraft Engineering",
+        "subject": "AVEN"
+    },
+    {
+        "code": "AVIA1111",
+        "title": "Basic Aeronautical Knowledge",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA1321",
+        "title": "Fundamentals of Aviation",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA1401",
+        "title": "Introduction to Human Factors",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA1901",
+        "title": "Aviation Transport Economics",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA1902",
+        "title": "Airline Financial Analysis and Decision Support",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA2025",
+        "title": "Introduction to Airborne Drone Management",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA2101",
+        "title": "Baggage Handling System Design, Technology & Operations",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA2111",
+        "title": "Commercial Navigation",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA2112",
+        "title": "Commercial Meteorology",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA2113",
+        "title": "Commercial Human Factors, Flight Rules and Air Law",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA2114",
+        "title": "Commercial Aircraft General Knowledge",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA2115",
+        "title": "Commercial Aerodynamics",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA2116",
+        "title": "Commercial Operation, Performance and Planning",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA2117",
+        "title": "Instrument Rating",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA2401",
+        "title": "Aviation Law and Regulations",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA2501",
+        "title": "Airline Marketing Strategies",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA2601",
+        "title": "Aviation Operations Research",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA2701",
+        "title": "Aviation Security and Airport Management",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA2801",
+        "title": "Regional and General Aviation",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA2910",
+        "title": "Air Transport: Economics and the Environment",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA3013",
+        "title": "Workplace Safety",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA3101",
+        "title": "Airline Management",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA3111",
+        "title": "Air Transport Flight Planning",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA3112",
+        "title": "Air Transport Aerodynamics and Aircraft Systems",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA3113",
+        "title": "Air Transport Performance and Navigation",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA3114",
+        "title": "Air Transport Air Law, Meteorology and Human Factors",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA3201",
+        "title": "Airline Resource Management",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA3301",
+        "title": "Simulation Application and Air Traffic Management",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA3401",
+        "title": "Aviation Safety and Resource Management",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA3410",
+        "title": "Advanced Law and Regulation in Aviation",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA3710",
+        "title": "Aviation Research Methods",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA3851",
+        "title": "Airport Management 2",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA3900",
+        "title": "Sustainable aviation and tourism",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA4003",
+        "title": "Aviation Honours - Full Time",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA4004",
+        "title": "Aviation Honours - Part Time",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA5001",
+        "title": "Law and Regulation in Aviation",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA5003",
+        "title": "Aviation and Security",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA5004",
+        "title": "Aviation Safety and Accident Prevention",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA5005",
+        "title": "Airline Operational Management",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA5006",
+        "title": "Airport Planning",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA5007",
+        "title": "Airport Operations Management",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA5008",
+        "title": "Air Traffic Management",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA5009",
+        "title": "Airline Corporate Management",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA5015",
+        "title": "Safety Management Systems",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA5017",
+        "title": "Human Factors in Transportation Safety",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA5018",
+        "title": "Aviation Human Factors",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA5020",
+        "title": "Aviation Research Project",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA5022",
+        "title": "Aircraft Accident Investigation Techniques",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA5024",
+        "title": "Flight Deck Operations for Advanced Transport-Aircraft",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA5030",
+        "title": "Aviation, Tourism and Sustainable Development",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA5032",
+        "title": "Quantitative Analysis in Aviation Economics",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA5035",
+        "title": "Airport Economics, Management and Policy",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA5037",
+        "title": "Airline Operations and Delay Management",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA5039",
+        "title": "Airworthiness for Transport Category Aircraft",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA9101",
+        "title": "Safety Risk Management: Human Performance",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA9201",
+        "title": "Safety Risk Management: Physical Hazards",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA9000",
+        "title": "F/T Research Thesis",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIA9050",
+        "title": "P/T Research Thesis",
+        "subject": "AVIA"
+    },
+    {
+        "code": "AVIF5915",
+        "title": "Airline Pilot Multi-Crew Coordination",
+        "subject": "AVIF"
+    },
+    {
+        "code": "AVIF5916",
+        "title": "Aeroplane Systems for Airline Pilots",
+        "subject": "AVIF"
+    },
+    {
+        "code": "AVIG5911",
+        "title": "Flying Operations 1",
+        "subject": "AVIG"
+    },
+    {
+        "code": "AVIG5912",
+        "title": "Flying Operations 2",
+        "subject": "AVIG"
+    },
+    {
+        "code": "AVIG5913",
+        "title": "Flying Operations 3",
+        "subject": "AVIG"
+    },
+    {
+        "code": "AVIG5914",
+        "title": "Flying Operations 4",
+        "subject": "AVIG"
+    },
+    {
+        "code": "BABS1111",
+        "title": "Big Fat Myths",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS1201",
+        "title": "Molecules, Cells and Genes",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS1202",
+        "title": "Applied Biomolecular Sciences",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS2011",
+        "title": "Current Trends in Biotechnology",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS2202",
+        "title": "Molecular Cell Biology 1",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS2204",
+        "title": "Genetics",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS2264",
+        "title": "Genetics (Advanced Level)",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS3021",
+        "title": "Microbial Genetics",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS3031",
+        "title": "Biotechnology and Bioengineering",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS3041",
+        "title": "Immunology",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS3061",
+        "title": "Medical Biotechnology",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS3071",
+        "title": "Commercial Biotechnology",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS3081",
+        "title": "Bacteria and Disease",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS3121",
+        "title": "Molecular Biology of Nucleic Acids",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS3151",
+        "title": "Human Molecular Genetics and Disease",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS3200",
+        "title": "Synthetic Biology",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS3281",
+        "title": "Molecular Frontiers",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS3291",
+        "title": "Genes, Genomes and Evolution",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS3301",
+        "title": "Biomolecular Science Laboratory Project (Advanced)",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS3631",
+        "title": "Biotechnology & Bioengineering Advanced",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS4516",
+        "title": "Biotechnology and Biomolecular Sciences Honours",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS7010",
+        "title": "Introduction to Biotechnology Commercialisation",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS5019",
+        "title": "Research Project (6 Units of Credit)",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS5029",
+        "title": "Research Project (12 Units of Credit)",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS5039",
+        "title": "Research Project (18 Units of Credit)",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS7010",
+        "title": "Introduction to Biotechnology Commercialisation",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS7020",
+        "title": "Biotechnology Commercialisation Strategy in Australia and Asia",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS7180",
+        "title": "Research Techniques",
+        "subject": "BABS"
+    },
+    {
+        "code": "BABS8010",
+        "title": "Advanced Topics in Biotechnology and Biomolecular",
+        "subject": "BABS"
+    },
+    {
+        "code": "BEES0006",
+        "title": "Special Program in Biological, Earth and Environmental Sciences - Undergraduate 6 units of credit",
+        "subject": "BEES"
+    },
+    {
+        "code": "BEES2041",
+        "title": "Data Analysis for Life and Earth Sciences",
+        "subject": "BEES"
+    },
+    {
+        "code": "BEES2680",
+        "title": "Introduction to science communication",
+        "subject": "BEES"
+    },
+    {
+        "code": "BEES2741",
+        "title": "Introduction to Astrobiology: Life in the Universe",
+        "subject": "BEES"
+    },
+    {
+        "code": "BEES3041",
+        "title": "Big Data in the Biological, Earth and Environmental Sciences",
+        "subject": "BEES"
+    },
+    {
+        "code": "BEES4516",
+        "title": "Biological, Earth and Environmental Sciences Honours",
+        "subject": "BEES"
+    },
+    {
+        "code": "BEES4517",
+        "title": "Biological, Earth and Environmental Sciences Honours",
+        "subject": "BEES"
+    },
+    {
+        "code": "BEES6601",
+        "title": "An Introduction to the Sydney Environment",
+        "subject": "BEES"
+    },
+    {
+        "code": "BEES6741",
+        "title": "Astrobiology: Life in the Universe",
+        "subject": "BEES"
+    },
+    {
+        "code": "BEES6800",
+        "title": "The Science of Science Communication",
+        "subject": "BEES"
+    },
+    {
+        "code": "BEES5041",
+        "title": "Data Analysis: Environmental Science and Management",
+        "subject": "BEES"
+    },
+    {
+        "code": "BEES6601",
+        "title": "An Introduction to the Sydney Environment",
+        "subject": "BEES"
+    },
+    {
+        "code": "BEES6741",
+        "title": "Astrobiology: Life in the Universe",
+        "subject": "BEES"
+    },
+    {
+        "code": "BEES9011",
+        "title": "Essential Skills for Research Students (Post-Graduate Students Only)",
+        "subject": "BEES"
+    },
+    {
+        "code": "BEIL0001",
+        "title": "Graphic Design for the Built Environment",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL0003",
+        "title": "Built Environment Annual Design Competition",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL0005",
+        "title": "People, Place and Design",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL0006",
+        "title": "BE OutThere Elective",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL0007",
+        "title": "Sustainable Design Thinking",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL0008",
+        "title": "Design Project Management - Vision to Reality",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL0009",
+        "title": "Exhibition Design: Transforming Temporary Space",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL0010",
+        "title": "Creating Value for Built Environment Clients",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL0011",
+        "title": "Healthy Planning",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL0014",
+        "title": "Digital Making",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL0017",
+        "title": "Business Start Up",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL0020",
+        "title": "International Construction Study Trip",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6000",
+        "title": "Mapping Social Justice in the City",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6001",
+        "title": "International Planning",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6002",
+        "title": "Urban and Regional Design",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6003",
+        "title": "Cinematic Space",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6005",
+        "title": "Researching Art, Architecture and Design",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6006",
+        "title": "Heritage Planning",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6007",
+        "title": "International Study Tour",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6008",
+        "title": "International Design Studio",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6009",
+        "title": "Integrated Building Design Case Studies",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6010",
+        "title": "Sydney Urban Lab",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6011",
+        "title": "Street Life Studies: Sydney Phnom Penh",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6012",
+        "title": "Asian Urbanism Laboratory",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6000",
+        "title": "Mapping Social Justice in the City",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6001",
+        "title": "International Planning",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6002",
+        "title": "Urban and Regional Design",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6003",
+        "title": "Cinematic Space",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6005",
+        "title": "Researching Art, Architecture and Design",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6006",
+        "title": "Heritage Planning",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6007",
+        "title": "International Study Tour",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6008",
+        "title": "International Design Studio",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6009",
+        "title": "Integrated Building Design Case Studies",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6010",
+        "title": "Sydney Urban Lab",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6011",
+        "title": "Street Life Studies: Sydney Phnom Penh",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BEIL6012",
+        "title": "Asian Urbanism Laboratory",
+        "subject": "BEIL"
+    },
+    {
+        "code": "BENV0001",
+        "title": "Fabrication Fundamentals",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV1010",
+        "title": "Communication in the Built Environment",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV1012",
+        "title": "Parametric Design and Digital Fabrication",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV1015",
+        "title": "History of Design Thinking",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV1043",
+        "title": "Multimedia in Design Presentation",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV1072",
+        "title": "Design for Energy Efficiency",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV2000",
+        "title": "Re-enchanting the City: Designing the Human Habitat",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV2001",
+        "title": "Emerging Digital Technologies",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV2112",
+        "title": "Landscape Design for Well Being",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV2220",
+        "title": "The Culture of Nature",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV2255",
+        "title": "Architecture in Sydney",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV2409",
+        "title": "Immersive Digital Environments",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV2708",
+        "title": "Interior Detailing",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV2930",
+        "title": "Living Architecture: Green Roofs and Green Walls",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV2938",
+        "title": "Transport Planning",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV2942",
+        "title": "Rural Planning",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV4000",
+        "title": "Research Methods in the Built Environment",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV6713",
+        "title": "Architectural Spatialisation",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV6800",
+        "title": "Professional Placement",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV0001",
+        "title": "Fabrication Fundamentals",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV6713",
+        "title": "Architectural Spatialisation",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV6800",
+        "title": "Professional Placement",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV7020",
+        "title": "Research Seminar",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV7307",
+        "title": "Writing the City",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV7500",
+        "title": "Programmable Cities",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV7501",
+        "title": "Urban Data Visualisation",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV7502",
+        "title": "Geodesign",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV7503",
+        "title": "Geocomputation",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV7504",
+        "title": "Digital Cities",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV7550",
+        "title": "Smart Cities and Urban Informatics Major Project",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV7712",
+        "title": "Healthy Built Environments",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV7728",
+        "title": "Geographical Information Systems and Urban Informatics",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV7800",
+        "title": "Documentation Techniques for Major Buildings",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV7806",
+        "title": "Design and Technology-Timber",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV7811",
+        "title": "Urban Renewal",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV7812",
+        "title": "Critical Spatial Thinkers",
+        "subject": "BENV"
+    },
+    {
+        "code": "BENV7020",
+        "title": "Research Seminar",
+        "subject": "BENV"
+    },
+    {
+        "code": "BINF2010",
+        "title": "Introduction to Bioinformatics",
+        "subject": "BINF"
+    },
+    {
+        "code": "BINF3010",
+        "title": "Applied Bioinformatics",
+        "subject": "BINF"
+    },
+    {
+        "code": "BINF6111",
+        "title": "Genome Informatics Engineering Design Workshop",
+        "subject": "BINF"
+    },
+    {
+        "code": "BINF6112",
+        "title": "Computational Biology Engineering Design Workshop",
+        "subject": "BINF"
+    },
+    {
+        "code": "BINF6111",
+        "title": "Genome Informatics Engineering Design Workshop",
+        "subject": "BINF"
+    },
+    {
+        "code": "BINF6112",
+        "title": "Computational Biology Engineering Design Workshop",
+        "subject": "BINF"
+    },
+    {
+        "code": "BINF9010",
+        "title": "Applied Bioinformatics",
+        "subject": "BINF"
+    },
+    {
+        "code": "BIOC2101",
+        "title": "Principles of Biochemistry (Advanced)",
+        "subject": "BIOC"
+    },
+    {
+        "code": "BIOC2181",
+        "title": "Fundamentals of Biochemistry",
+        "subject": "BIOC"
+    },
+    {
+        "code": "BIOC2201",
+        "title": "Principles of Molecular Biology (Advanced)",
+        "subject": "BIOC"
+    },
+    {
+        "code": "BIOC3111",
+        "title": "Molecular Biology of Proteins",
+        "subject": "BIOC"
+    },
+    {
+        "code": "BIOC3261",
+        "title": "Human Biochemistry",
+        "subject": "BIOC"
+    },
+    {
+        "code": "BIOC3271",
+        "title": "Molecular Cell Biology 2",
+        "subject": "BIOC"
+    },
+    {
+        "code": "BIOC3671",
+        "title": "Molecular Cell Biology 2 (Advanced)",
+        "subject": "BIOC"
+    },
+    {
+        "code": "BIOC8608",
+        "title": "Biochemistry Research Thesis Full-Time",
+        "subject": "BIOC"
+    },
+    {
+        "code": "BIOC8618",
+        "title": "Part-Time Research Thesis Biochemistry",
+        "subject": "BIOC"
+    },
+    {
+        "code": "BIOM1010",
+        "title": "Engineering in Medicine and Biology",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM2451",
+        "title": "Biomechanics for Sports Scientists",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM4951",
+        "title": "Research Thesis A",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM4952",
+        "title": "Research Thesis B",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM4953",
+        "title": "Research Thesis C",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM5951",
+        "title": "Thesis Part B (Computer Science Engineering)",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9020",
+        "title": "Masters Project A",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9021",
+        "title": "Masters Project B",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9027",
+        "title": "Medical Imaging",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9311",
+        "title": "Mass Transfer in Medicine",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9332",
+        "title": "Biocompatibility",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9333",
+        "title": "Cellular and Tissue Engineering",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9410",
+        "title": "Regulatory Requirements of Biomedical Technology",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9420",
+        "title": "Clinical Laboratory Science",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9450",
+        "title": "Biomedical and Health Informatics",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9541",
+        "title": "Mechanics of the Human Body",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9551",
+        "title": "Biomechanics of Physical Rehabilitation",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9561",
+        "title": "Mechanical Properties of Biomaterials",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9621",
+        "title": "Biological Signal Analysis",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9640",
+        "title": "Biomedical instrumentation",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9650",
+        "title": "Biosensors and Transducers",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9660",
+        "title": "Bionics and Neuromodulation",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9701",
+        "title": "Dynamics of the Cardiovascular System",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9711",
+        "title": "Modelling Organs, Tissues and Devices",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9914",
+        "title": "Masters Project",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9020",
+        "title": "Masters Project A",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9021",
+        "title": "Masters Project B",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9027",
+        "title": "Medical Imaging",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9311",
+        "title": "Mass Transfer in Medicine",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9332",
+        "title": "Biocompatibility",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9333",
+        "title": "Cellular and Tissue Engineering",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9410",
+        "title": "Regulatory Requirements of Biomedical Technology",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9420",
+        "title": "Clinical Laboratory Science",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9450",
+        "title": "Biomedical and Health Informatics",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9541",
+        "title": "Mechanics of the Human Body",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9551",
+        "title": "Biomechanics of Physical Rehabilitation",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9561",
+        "title": "Mechanical Properties of Biomaterials",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9621",
+        "title": "Biological Signal Analysis",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9640",
+        "title": "Biomedical instrumentation",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9650",
+        "title": "Biosensors and Transducers",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9660",
+        "title": "Bionics and Neuromodulation",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9701",
+        "title": "Dynamics of the Cardiovascular System",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9711",
+        "title": "Modelling Organs, Tissues and Devices",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9914",
+        "title": "Masters Project",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9001",
+        "title": "Biomedical Engineering Research Thesis Full-Time",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOM9002",
+        "title": "Research Thesis Biomedical Engineering Part-Time",
+        "subject": "BIOM"
+    },
+    {
+        "code": "BIOS1101",
+        "title": "Evolutionary and Functional Biology",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOS1301",
+        "title": "Ecology, Sustainability and Environmental Science",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOS2011",
+        "title": "Evolutionary and Physiological Ecology",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOS2031",
+        "title": "Biology of Invertebrates",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOS2051",
+        "title": "Flowering Plants",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOS2061",
+        "title": "Vertebrate Zoology",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOS2500",
+        "title": "Evolution and the Modern World",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOS3011",
+        "title": "Animal Behaviour",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOS3061",
+        "title": "Plant Ecology",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOS3081",
+        "title": "Ocean to Estuarine Ecosystems",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOS3091",
+        "title": "Marine and Aquatic Ecology",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOS3161",
+        "title": "Life in Arid Lands",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOS3171",
+        "title": "Evolution",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOS3221",
+        "title": "Assembling the Tree of Life",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOS3601",
+        "title": "Advanced Field Biology",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOS3681",
+        "title": "Ocean to Estuarine Ecosystems (Advanced)",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOS6671",
+        "title": "Biodiversity and Conservation of Natural Resources",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOS6671",
+        "title": "Biodiversity and Conservation of Natural Resources",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOS9231",
+        "title": "Research Internship in Marine Terrestrial Conservation",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOS0001",
+        "title": "Full-Time Biological Sciences Research",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOS0002",
+        "title": "Part-Time Biological Sciences Research",
+        "subject": "BIOS"
+    },
+    {
+        "code": "BIOT8023",
+        "title": "Full-Time Research Thesis Biotechnology",
+        "subject": "BIOT"
+    },
+    {
+        "code": "BIOT8033",
+        "title": "(P/T) Research Thesis Biotechnology",
+        "subject": "BIOT"
+    },
+    {
+        "code": "BLDG0007",
+        "title": "International Construction Study Trip",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG1011",
+        "title": "Low Rise Building Construction",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG1012",
+        "title": "Construction Materials",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG1013",
+        "title": "Introduction to Construction Management and Property",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG1014",
+        "title": "Building Measurement",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG1021",
+        "title": "Industrial and Infrastructure Construction",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG1022",
+        "title": "Building Structures",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG1023",
+        "title": "Construction Project Management Theory",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG1024",
+        "title": "Construction and Property Economics",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG2011",
+        "title": "Building Services",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG2012",
+        "title": "Construction and Property Law",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG2013",
+        "title": "Construction Estimating",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG2021",
+        "title": "High Rise Building Construction",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG2022",
+        "title": "Procurement and Contract Administration",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG2023",
+        "title": "Construction Planning",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG3011",
+        "title": "Organisational and People Management in Construction",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG3012",
+        "title": "Risk, Health and Safety Management",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG3013",
+        "title": "Digital Construction",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG3021",
+        "title": "Property Development",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG3022",
+        "title": "Construction Project Management Practice Capstone",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG3023",
+        "title": "Construction Business Strategy and Entrepreneurship",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG4018",
+        "title": "Building Appraisal and Land Economics",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG4019",
+        "title": "Property and Asset Management",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG4023",
+        "title": "Construction Value Management",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG4024",
+        "title": "Business Intelligence and Data Analytics",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG4501",
+        "title": "Thesis Foundation",
+        "subject": "BLDG"
+    },
+    {
+        "code": "BLDG4504",
+        "title": "Thesis",
+        "subject": "BLDG"
+    },
+    {
+        "code": "CDEV1112",
+        "title": "Creating Your Career: Employability for the Future",
+        "subject": "CDEV"
+    },
+    {
+        "code": "CDEV3000",
+        "title": "Practice of Work",
+        "subject": "CDEV"
+    },
+    {
+        "code": "CDEV3000",
+        "title": "Work Placement",
+        "subject": "CDEV"
+    },
+    {
+        "code": "CEIC1000",
+        "title": "Sustainable Product Engineering and Design",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC2000",
+        "title": "Material and Energy Systems",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC2001",
+        "title": "Fluid and Particle Mechanics",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC2002",
+        "title": "Heat and Mass Transfer",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC2005",
+        "title": "Chemical Reaction Engineering",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC2007",
+        "title": "Chemical Engineering Lab A",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC2009",
+        "title": "Material and Energy Balances in the Chemical Process Industry",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC3000",
+        "title": "Process Modelling and Analysis",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC3001",
+        "title": "Advanced Thermodynamics and Separation",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC3004",
+        "title": "Process Equipment Design",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC3005",
+        "title": "Process Plant Design",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC3006",
+        "title": "Process Dynamics and Control",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC4000",
+        "title": "Environment and Sustainability",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC4001",
+        "title": "Process Design Project",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC4003",
+        "title": "Thesis B",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC4005",
+        "title": "Thesis",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC4007",
+        "title": "Product Design Project Thesis A",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC4008",
+        "title": "Product Design Project Thesis B",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC4951",
+        "title": "Research Thesis A",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC4952",
+        "title": "Research Thesis B",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC4953",
+        "title": "Research Thesis C",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC4954",
+        "title": "Research Thesis Extension",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC6005",
+        "title": "Fuel and Energy",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC6711",
+        "title": "Complex Fluids Microstructure and Rheology",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC6712",
+        "title": "Pharmaceutical Design and Engineering",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC6789",
+        "title": "Data-driven Decision Making in Chemical Engineering and Food Science",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC8102",
+        "title": "Advanced Process Control",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC8204",
+        "title": "Topics in Business Management in Chemical Engineering",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC8341",
+        "title": "Membrane Processes",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC6711",
+        "title": "Complex Fluids Microstructure and Rheology",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC6712",
+        "title": "Pharmaceutical Design and Engineering",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC6789",
+        "title": "Data-driven Decision Making in Chemical Engineering and Food Science",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC8102",
+        "title": "Advanced Process Control",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC8104",
+        "title": "Topics in Polymer Technology",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC8105",
+        "title": "Advanced Polymer Science and Research",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC8204",
+        "title": "Topics in Business Management in Chemical Engineering",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC8205",
+        "title": "Fuel and Energy Engineering",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC8330",
+        "title": "Process Engineering in the Petroleum Industry",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC8341",
+        "title": "Membrane Processes",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC9003",
+        "title": "Advanced Thesis B",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC9005",
+        "title": "Advanced Thesis",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC9951",
+        "title": "Advanced Research Thesis A",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC9952",
+        "title": "Advanced Research Thesis B",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC9953",
+        "title": "Advanced Research Thesis C",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC5001",
+        "title": "Research Thesis Chemical Engineering and Industrial Chemistry Full-Time",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CEIC5002",
+        "title": "Research Thesis Chemical Engineering and Industrial Chemistry Part-Time",
+        "subject": "CEIC"
+    },
+    {
+        "code": "CHEM1001",
+        "title": "Introductory Chemistry",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM1011",
+        "title": "Chemistry 1A: Atoms, Molecules and Energy",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM1021",
+        "title": "Chemistry 1B: Elements, Compounds and Life",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM1031",
+        "title": "Higher Chemistry 1A: Atoms, Molecules and Energy",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM1041",
+        "title": "Higher Chemistry 1B: Elements, Compounds and Life",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM1051",
+        "title": "Higher Chemistry 1A (Medicinal): Atoms, Molecules and Energy",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM1061",
+        "title": "Higher Chemistry 1B (Medicinal): Elements, Compounds and Life",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM1151",
+        "title": "Introductory Medicinal Chemistry",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM1811",
+        "title": "Engineering Chemistry 1A",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM1821",
+        "title": "Engineering Chemistry 1B",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM1829",
+        "title": "Biological Chemistry for Optometry Students",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM1831",
+        "title": "Chemistry for Exercise Physiology",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM2011",
+        "title": "Physical Chemistry: Molecules, Energy and Change",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM2021",
+        "title": "Organic Chemistry: Mechanisms and Biomolecules",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM2031",
+        "title": "Inorganic Chemistry: The Elements",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM2041",
+        "title": "Analytical Chemistry: Essential Methods",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM2921",
+        "title": "Food Chemistry",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM2999",
+        "title": "Special Project in Chemistry",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM3011",
+        "title": "Quantum Nature of Molecules - from Earth to Space",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM3021",
+        "title": "Organic Chemistry: Modern Synthetic Strategies",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM3031",
+        "title": "Inorganic Chemistry: Transition Metals and Complexes",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM3051",
+        "title": "Medicinal Organic Chemistry",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM3061",
+        "title": "Chemistry of Materials",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM3071",
+        "title": "The Chemistry of Catalysis, Systems and Biology",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM3901",
+        "title": "Environmental Toxicology",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM3998",
+        "title": "Advanced Special Project in Chemistry",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM4501",
+        "title": "Chemistry Project Proposal and Research Skills",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM4502",
+        "title": "Chemistry Honours Coursework",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM4503",
+        "title": "Medicinal Chemistry Honours Coursework",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM4506",
+        "title": "Chemistry Honours Project",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM4512",
+        "title": "Chemistry Honours Project",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM4518",
+        "title": "Chemistry Honours Project 18 Units of Credit",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM6041",
+        "title": "Advanced Instrumental Analysis",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM6041",
+        "title": "Advanced Instrumental Analysis",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM7001",
+        "title": "Chemical Safety & Legislation",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM7119",
+        "title": "Research Skills",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM7998",
+        "title": "Special Project in Chemistry",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM9003",
+        "title": "Research Thesis Chemistry Full-Time",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEM9103",
+        "title": "Research Thesis Chemistry Part-Time",
+        "subject": "CHEM"
+    },
+    {
+        "code": "CHEN6701",
+        "title": "Advanced Reaction Engineering",
+        "subject": "CHEN"
+    },
+    {
+        "code": "CHEN6703",
+        "title": "Advanced Particle Systems Engineering",
+        "subject": "CHEN"
+    },
+    {
+        "code": "CHEN6706",
+        "title": "Advanced Transport Phenomena",
+        "subject": "CHEN"
+    },
+    {
+        "code": "CHEN6701",
+        "title": "Advanced Reaction Engineering",
+        "subject": "CHEN"
+    },
+    {
+        "code": "CHEN6703",
+        "title": "Advanced Particle Systems Engineering",
+        "subject": "CHEN"
+    },
+    {
+        "code": "CHEN6706",
+        "title": "Advanced Transport Phenomena",
+        "subject": "CHEN"
+    },
+    {
+        "code": "CLIM1001",
+        "title": "Introduction to Climate Change",
+        "subject": "CLIM"
+    },
+    {
+        "code": "CLIM2001",
+        "title": "Fundamentals of Atmospheric Science",
+        "subject": "CLIM"
+    },
+    {
+        "code": "CLIM3001",
+        "title": "Climate Systems Science",
+        "subject": "CLIM"
+    },
+    {
+        "code": "CLIM0001",
+        "title": "Full-Time Climate Science Research",
+        "subject": "CLIM"
+    },
+    {
+        "code": "CLIM0002",
+        "title": "Part-Time Climate Science Research",
+        "subject": "CLIM"
+    },
+    {
+        "code": "CODE1110",
+        "title": "Computational Design Theory 1",
+        "subject": "CODE"
+    },
+    {
+        "code": "CODE1161",
+        "title": "Design Computing",
+        "subject": "CODE"
+    },
+    {
+        "code": "CODE1210",
+        "title": "Computational Design Theory 2",
+        "subject": "CODE"
+    },
+    {
+        "code": "CODE1231",
+        "title": "Ubiquitous Cities",
+        "subject": "CODE"
+    },
+    {
+        "code": "CODE1234",
+        "title": "Urban Data",
+        "subject": "CODE"
+    },
+    {
+        "code": "CODE1240",
+        "title": "Computational Design 2 (Intermediate)",
+        "subject": "CODE"
+    },
+    {
+        "code": "CODE2120",
+        "title": "Building Data",
+        "subject": "CODE"
+    },
+    {
+        "code": "CODE2121",
+        "title": "Computational Design 3 (Advanced)",
+        "subject": "CODE"
+    },
+    {
+        "code": "CODE2132",
+        "title": "Computational Design Studio IV (Proficiency)",
+        "subject": "CODE"
+    },
+    {
+        "code": "CODE2170",
+        "title": "Building Information Modelling",
+        "subject": "CODE"
+    },
+    {
+        "code": "CODE2210",
+        "title": "Philosophy of Technology",
+        "subject": "CODE"
+    },
+    {
+        "code": "CODE2230",
+        "title": "Human Machine Interaction",
+        "subject": "CODE"
+    },
+    {
+        "code": "CODE2250",
+        "title": "Advanced Digital Fabrication",
+        "subject": "CODE"
+    },
+    {
+        "code": "CODE2270",
+        "title": "Design Information Management",
+        "subject": "CODE"
+    },
+    {
+        "code": "CODE3100",
+        "title": "Digital Collaboration Studio",
+        "subject": "CODE"
+    },
+    {
+        "code": "CODE3201",
+        "title": "Graduation Project: Theory",
+        "subject": "CODE"
+    },
+    {
+        "code": "CODE3202",
+        "title": "Graduation Project: Practice",
+        "subject": "CODE"
+    },
+    {
+        "code": "CODE4100",
+        "title": "Critical Review of the Literature",
+        "subject": "CODE"
+    },
+    {
+        "code": "CODE4200",
+        "title": "Honours Thesis",
+        "subject": "CODE"
+    },
+    {
+        "code": "COMD5000",
+        "title": "NGOs, Civil Society and Development",
+        "subject": "COMD"
+    },
+    {
+        "code": "COMD5001",
+        "title": "International Development Policy",
+        "subject": "COMD"
+    },
+    {
+        "code": "COMD5002",
+        "title": "Development, Human Rights and Global Health",
+        "subject": "COMD"
+    },
+    {
+        "code": "COMD5004",
+        "title": "Climate Change Adaptation & Development",
+        "subject": "COMD"
+    },
+    {
+        "code": "COMM1000",
+        "title": "Creating Social Change: From Innovation to Impact",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM1040",
+        "title": "Entrepreneurial Ecosystems",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM1822",
+        "title": "Introduction to Databases for Business Analytics",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM2222",
+        "title": "Industry Experience Program",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM2233",
+        "title": "Industry Consulting Project",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM2501",
+        "title": "Data Visualisation and Communication",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM3020",
+        "title": "Global Business Practicum",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM3030",
+        "title": "Social Entrepreneurship Practicum",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM3101",
+        "title": "Industry Experience Placement 1",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM3202",
+        "title": "Industry Experience Placement 2",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM3303",
+        "title": "Industry Experience Placement 3",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5005",
+        "title": "Quantitative Methods for Business",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5008",
+        "title": "Enterprise Skills",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5010",
+        "title": "Strategy, Marketing and Management",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5011",
+        "title": "Data Analysis for Business",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5020",
+        "title": "Global Business Practicum",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5030",
+        "title": "Social Entrepreneurship Practicum",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5040",
+        "title": "Entrepreneurial Ecosystems",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5201",
+        "title": "Social Enterprise: Doing Business for Social Good",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5202",
+        "title": "Social and Environmental Sustainability",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5203",
+        "title": "Social and Environmental Outcomes Measurement",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5204",
+        "title": "Investing for Local and Global Impact",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5205",
+        "title": "Leading Change for Sustainability",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5615",
+        "title": "Systems Thinking and Business Dynamics",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5701",
+        "title": "Social Impact",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5703",
+        "title": "Social Impact Investment",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5704",
+        "title": "Demonstrating Social Impact",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5706",
+        "title": "Design for Social Innovation",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5707",
+        "title": "Social Impact Field Project",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5709",
+        "title": "Corporate Responsibility and Accountability",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5710",
+        "title": "Creating Shared Value",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5713",
+        "title": "Collaboration for Social Impact",
+        "subject": "COMM"
+    }
+]

@@ -1,0 +1,2452 @@
+[
+    {
+        "code": "LAWS8139",
+        "title": "Law and the Culture Industries",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8141",
+        "title": "Censorship, Contempt and the Media",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8146",
+        "title": "Human Rights Law (New York)",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8162",
+        "title": "Media and Human Rights",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8165",
+        "title": "Skills in Dispute Management",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8168",
+        "title": "The Australian Legal System in Comparative Perspective",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8173",
+        "title": "UNSW Law Postgraduate Internships",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8174",
+        "title": "Financial Law and Regulation in the Age of FinTech",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8180",
+        "title": "Principles of International Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8181",
+        "title": "International Human Rights",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8183",
+        "title": "International Commercial Arbitration",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8188",
+        "title": "Law of Armed Conflict",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8189",
+        "title": "Business and Human Rights",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8213",
+        "title": "Legal Concepts, Research and Writing",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8214",
+        "title": "Global Common Law Systems",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8219",
+        "title": "Competition Law and Policy",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8241",
+        "title": "Pacific Islands Laws (USP)",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8319",
+        "title": "International Environmental Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8328",
+        "title": "Migration and Citizenship Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8349",
+        "title": "Child Rights Comparative Clinical Program: India",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8366",
+        "title": "Environmental Markets",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8395",
+        "title": "Intellectual Property & Tech Commercialisation: Strategic Management of the Lifecycle of Innovation",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8422",
+        "title": "Research Thesis: Extended",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8423",
+        "title": "Research Thesis: 6 Units of Credit",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8425",
+        "title": "Research Thesis: 4 Units of Credit",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8845",
+        "title": "Women and Gender Law ILS Pune",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8980",
+        "title": "Principled (Interest Based) Negotiation",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8989",
+        "title": "World Trade Law: Contemporary Issues and Concerns",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8991",
+        "title": "International Criminal Law",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8993",
+        "title": "International Business Transactions",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS8994",
+        "title": "White Collar Crime",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS9800",
+        "title": "Law for Psychologists 1",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS0001",
+        "title": "Research Thesis Law Full-Time",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS0002",
+        "title": "Research Thesis Law Part-Time",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS0007",
+        "title": "Introduction to Higher Degree Research in LAW",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS0008",
+        "title": "Methods, methodologies and critical perspectives",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LAWS0009",
+        "title": "Writing and Disseminating Legal Research",
+        "subject": "LAWS"
+    },
+    {
+        "code": "LING5000",
+        "title": "Special Project in Applied Linguistics",
+        "subject": "LING"
+    },
+    {
+        "code": "LING5001",
+        "title": "Second Language Acquisition",
+        "subject": "LING"
+    },
+    {
+        "code": "LING5005",
+        "title": "The Grammar of English",
+        "subject": "LING"
+    },
+    {
+        "code": "LING5006",
+        "title": "Current Issues in Bilingualism",
+        "subject": "LING"
+    },
+    {
+        "code": "LING5015",
+        "title": "Discourse Analysis",
+        "subject": "LING"
+    },
+    {
+        "code": "LING5022",
+        "title": "Cross-cultural Pragmatics",
+        "subject": "LING"
+    },
+    {
+        "code": "LING5024",
+        "title": "The Sound System of English",
+        "subject": "LING"
+    },
+    {
+        "code": "LING5026",
+        "title": "The Structure of Language",
+        "subject": "LING"
+    },
+    {
+        "code": "LING5027",
+        "title": "Research Methods in Linguistics",
+        "subject": "LING"
+    },
+    {
+        "code": "LING5029",
+        "title": "The Psychology of Language",
+        "subject": "LING"
+    },
+    {
+        "code": "LING5032",
+        "title": "Thesis Writing 1",
+        "subject": "LING"
+    },
+    {
+        "code": "LING5033",
+        "title": "Thesis Writing 2",
+        "subject": "LING"
+    },
+    {
+        "code": "LING5035",
+        "title": "Semantics and Pragmatics",
+        "subject": "LING"
+    },
+    {
+        "code": "LING5037",
+        "title": "The Use of Language",
+        "subject": "LING"
+    },
+    {
+        "code": "MANF3100",
+        "title": "Product and Manufacturing Design",
+        "subject": "MANF"
+    },
+    {
+        "code": "MANF3510",
+        "title": "Process Technology and Automation",
+        "subject": "MANF"
+    },
+    {
+        "code": "MANF4100",
+        "title": "Design and Analysis of Product-Process Systems",
+        "subject": "MANF"
+    },
+    {
+        "code": "MANF4430",
+        "title": "Reliability and Maintenance Engineering",
+        "subject": "MANF"
+    },
+    {
+        "code": "MANF4611",
+        "title": "Process Modelling and Simulation",
+        "subject": "MANF"
+    },
+    {
+        "code": "MANF6860",
+        "title": "Strategic Manufacturing Management",
+        "subject": "MANF"
+    },
+    {
+        "code": "MANF4100",
+        "title": "Design and Analysis of Product-Process Systems",
+        "subject": "MANF"
+    },
+    {
+        "code": "MANF4430",
+        "title": "Reliability and Maintenance Engineering",
+        "subject": "MANF"
+    },
+    {
+        "code": "MANF4611",
+        "title": "Process Modelling and Simulation",
+        "subject": "MANF"
+    },
+    {
+        "code": "MANF6860",
+        "title": "Strategic Manufacturing Management",
+        "subject": "MANF"
+    },
+    {
+        "code": "MANF9400",
+        "title": "Industrial Management",
+        "subject": "MANF"
+    },
+    {
+        "code": "MANF9420",
+        "title": "Operations and Supply Chain Management in Engineering",
+        "subject": "MANF"
+    },
+    {
+        "code": "MANF9472",
+        "title": "Production Planning and Control",
+        "subject": "MANF"
+    },
+    {
+        "code": "MANF9543",
+        "title": "Computer Aided Design / Computer Aided Manufacture",
+        "subject": "MANF"
+    },
+    {
+        "code": "MANF9544",
+        "title": "Concurrent Product and Process Design",
+        "subject": "MANF"
+    },
+    {
+        "code": "MANF9000",
+        "title": "Research Thesis Manufacturing Engineering and Management (Full-Time)",
+        "subject": "MANF"
+    },
+    {
+        "code": "MANF9001",
+        "title": "Research Thesis Manufacturing Engineering and Management (Part-Time)",
+        "subject": "MANF"
+    },
+    {
+        "code": "MARK1012",
+        "title": "Marketing Fundamentals",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK2051",
+        "title": "Consumer Behaviour",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK2052",
+        "title": "Marketing Research",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK2053",
+        "title": "Marketing Communications and Promotions Management",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK2055",
+        "title": "Service Marketing and Management",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK2060",
+        "title": "Event Management and Marketing",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK2071",
+        "title": "International and Global Marketing",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK2085",
+        "title": "Consumer Centric Innovation",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK2101",
+        "title": "Industry Placement 1",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK3054",
+        "title": "Marketing Analytics and Big Data",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK3081",
+        "title": "Distribution Strategy and Retail Channels",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK3082",
+        "title": "Strategic Marketing",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK3085",
+        "title": "Digital Marketing and Web Analytics",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK3087",
+        "title": "Customer Analytics",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK3090",
+        "title": "Marketing Decision Analysis",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK3091",
+        "title": "New Product and New Service Development",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK3092",
+        "title": "Brand Management",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK3202",
+        "title": "Industry Placement 2",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK3303",
+        "title": "Industry Placement 3",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK4210",
+        "title": "Business Research Methods in Marketing",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK4211",
+        "title": "Research Seminar in Marketing",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK4212",
+        "title": "Quantitative Methods and Models in Marketing",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK4300",
+        "title": "Thesis (Marketing) A",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK4301",
+        "title": "Thesis (Marketing) B",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK4302",
+        "title": "Thesis (Marketing) C",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK5700",
+        "title": "Elements of Marketing",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK5800",
+        "title": "Consumer Behaviour",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK5810",
+        "title": "Marketing Communication and Promotion",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK5811",
+        "title": "Applied Marketing Research",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK5812",
+        "title": "Distribution, Retail Channels and Logistics",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK5813",
+        "title": "New Product and Service Development",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK5814",
+        "title": "Digital Marketing",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK5816",
+        "title": "Services Marketing",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK5820",
+        "title": "Events Management and Marketing",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK5821",
+        "title": "Brand Management",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK5822",
+        "title": "Marketing Analytics in a Big Data World",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK5824",
+        "title": "Sales Strategy and Implementation",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK5826",
+        "title": "Product Analytics",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK5827",
+        "title": "Customer Analytics",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK5828",
+        "title": "Advertising Analytics",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK5832",
+        "title": "Creativity, Innovation and Change in Marketing",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK8995",
+        "title": "Business Research Methods in Marketing",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK8996",
+        "title": "Research Seminar in Marketing",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK5000",
+        "title": "Research Marketing Full-Time",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK5001",
+        "title": "Research Marketing Part-Time",
+        "subject": "MARK"
+    },
+    {
+        "code": "MARK8997",
+        "title": "Quantitative Methods and Models in Marketing",
+        "subject": "MARK"
+    },
+    {
+        "code": "MATH1011",
+        "title": "Fundamentals of Mathematics B",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH1031",
+        "title": "Mathematics for Life Sciences",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH1041",
+        "title": "Statistics for Life and Social Sciences",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH1081",
+        "title": "Discrete Mathematics",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH1099",
+        "title": "Industrial Placement 1 (Co-Op)",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH1131",
+        "title": "Mathematics 1A",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH1141",
+        "title": "Higher Mathematics 1A",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH1151",
+        "title": "Mathematics for Actuarial Studies and Finance 1A",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH1231",
+        "title": "Mathematics 1B",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH1241",
+        "title": "Higher Mathematics 1B",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH1251",
+        "title": "Mathematics for Actuarial Studies and Finance 1B",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2011",
+        "title": "Several Variable Calculus",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2018",
+        "title": "Engineering Mathematics 2D",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2019",
+        "title": "Engineering Mathematics 2E",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2069",
+        "title": "Mathematics 2A",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2089",
+        "title": "Numerical Methods and Statistics",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2099",
+        "title": "Mathematics 2B",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2111",
+        "title": "Higher Several Variable Calculus",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2121",
+        "title": "Theory and Applications of Differential Equations",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2221",
+        "title": "Higher Theory and Applications of Differential Equations",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2241",
+        "title": "Introduction to Atmosphere and Ocean Dynamics",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2301",
+        "title": "Mathematical Computing",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2399",
+        "title": "Advanced Mathematics Internship 2 (Co-Op)",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2400",
+        "title": "Finite Mathematics",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2501",
+        "title": "Linear Algebra",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2521",
+        "title": "Complex Analysis",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2601",
+        "title": "Higher Linear Algebra",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2621",
+        "title": "Higher Complex Analysis",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2701",
+        "title": "Abstract Algebra and Fundamental Analysis",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2801",
+        "title": "Theory of Statistics",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2831",
+        "title": "Linear Models",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2859",
+        "title": "Probability, Statistics and Information",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2871",
+        "title": "Data Management for Statistical Analysis",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2901",
+        "title": "Higher Theory of Statistics",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH2931",
+        "title": "Higher Linear Models",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3000",
+        "title": "Mathematics/Statistics Project",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3001",
+        "title": "Mathematics/Statistics Project",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3002",
+        "title": "Mathematics/Statistics Project",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3041",
+        "title": "Mathematical Modelling for Real World Systems",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3101",
+        "title": "Computational Mathematics for Science and Engineering",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3121",
+        "title": "Mathematical Methods and Partial Differential Equations",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3161",
+        "title": "Optimization",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3171",
+        "title": "Linear and Discrete Optimization Modelling",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3201",
+        "title": "Dynamical Systems and Chaos",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3261",
+        "title": "Fluids, Oceans and Climate",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3311",
+        "title": "Mathematical Computing for Finance",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3361",
+        "title": "Stochastic Differential Equations: Theory, Applications, and Numerical Methods",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3399",
+        "title": "Advanced Mathematics Internship 3 (Co-Op)",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3411",
+        "title": "Information, Codes and Ciphers",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3521",
+        "title": "Algebraic Techniques in Number Theory",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3531",
+        "title": "Topology and Differential Geometry",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3560",
+        "title": "History of Mathematics",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3570",
+        "title": "Foundations of Calculus",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3611",
+        "title": "Higher Analysis",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3701",
+        "title": "Higher Topology and Differential Geometry",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3711",
+        "title": "Higher Algebra",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3801",
+        "title": "Probability and Stochastic Processes",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3811",
+        "title": "Statistical Inference",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3821",
+        "title": "Statistical Modelling and Computing",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3831",
+        "title": "Statistical Methods in Social and Market Research",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3851",
+        "title": "Experimental Design and Categorical Data",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3871",
+        "title": "Bayesian Inference and Computation",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3901",
+        "title": "Higher Probability and Stochastic Processes",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH3911",
+        "title": "Higher Statistical Inference",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH4001",
+        "title": "Mathematics and Statistics Honours Thesis",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH6781",
+        "title": "Biomathematics",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5025",
+        "title": "AMSI B",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5165",
+        "title": "Optimization",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5171",
+        "title": "Linear and Discrete Optimization Modelling",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5175",
+        "title": "Special Topics in Applied Mathematics A",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5285",
+        "title": "Fluids, Oceans and Climate",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5295",
+        "title": "Special Topics in Applied Mathematics D",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5305",
+        "title": "Computational Mathematics for Science and Engineering",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5335",
+        "title": "Computational Methods for Finance",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5361",
+        "title": "Stochastic Differential Equations: Theory, Applications, and Numerical Methods",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5505",
+        "title": "Combinatorics",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5515",
+        "title": "Special Topics in Pure Mathematics A",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5535",
+        "title": "Special Topics in Pure Mathematics C",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5605",
+        "title": "Functional Analysis",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5700",
+        "title": "Modern Differential Geometry and Topology",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5705",
+        "title": "Modern Analysis",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5706",
+        "title": "Modern Algebra",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5725",
+        "title": "Galois Theory",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5735",
+        "title": "Modules and Representation Theory",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5806",
+        "title": "Applied Regression Analysis",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5816",
+        "title": "Continuous Time Financial Modelling",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5825",
+        "title": "Measure, Integration and Probability",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5835",
+        "title": "Stochastic Processes",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5836",
+        "title": "Data Mining and its Business Applications",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5845",
+        "title": "Time Series",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5846",
+        "title": "Introduction to Probability and Stochastic Processes",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5855",
+        "title": "Multivariate Analysis",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5856",
+        "title": "Introduction to Statistics and Statistical Computations",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5885",
+        "title": "Longitudinal Data Analysis",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5895",
+        "title": "Nonparametric Statistics",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5905",
+        "title": "Statistical Inference",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5916",
+        "title": "Survival Analysis",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5925",
+        "title": "Project",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5935",
+        "title": "Statistical Consultancy",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5945",
+        "title": "Categorical Data Analysis",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5960",
+        "title": "Bayesian Inference and Computation",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5965",
+        "title": "Discrete Time Financial Modelling",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5975",
+        "title": "Introduction to Stochastic Analysis",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH6781",
+        "title": "Biomathematics",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5003",
+        "title": "Mathematics Research Thesis Full-Time",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATH5004",
+        "title": "Mathematics Research Thesis Part-Time",
+        "subject": "MATH"
+    },
+    {
+        "code": "MATS1101",
+        "title": "Engineering Materials and Chemistry",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS1110",
+        "title": "Introduction to Materials for Engineering Applications",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS1192",
+        "title": "Design and Application of Materials in Science and Engineering",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS2001",
+        "title": "Physical Properties of Materials",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS2003",
+        "title": "Materials Characterisation",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS2004",
+        "title": "Mechanical Behaviour of Materials",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS2005",
+        "title": "Introduction to Fluid Flow and Heat Transfer",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS2006",
+        "title": "Diffusion and Kinetics",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS2007",
+        "title": "Sustainable Materials Processing",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS2008",
+        "title": "Thermodynamics and Phase Equilibria",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS3001",
+        "title": "Micromechanisms of Mechanical Behaviour of Metals",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS3002",
+        "title": "Fundamentals of Ceramic Processing",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS3003",
+        "title": "Engineering in Process Metallurgy",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS3004",
+        "title": "Polymer Science and Engineering 1",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS3005",
+        "title": "Phase Transformations",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS3006",
+        "title": "Design and Application of Materials in Science and Engineering 3",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS3007",
+        "title": "Materials Industry Management",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS4001",
+        "title": "Secondary Processing of Metals",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS4002",
+        "title": "Design and Advanced Ceramics",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS4004",
+        "title": "Fracture Mechanics and Failure Analysis",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS4005",
+        "title": "Composites and Functional Materials",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS4006",
+        "title": "Polymer Science and Engineering 2",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS4007",
+        "title": "Engineered Surfaces to Resist Corrosion and Wear",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS4008",
+        "title": "Materials Engineering Project",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS4100",
+        "title": "Materials Engineering Project",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS4503",
+        "title": "Professional Skills",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS4504",
+        "title": "Research Training",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS4505",
+        "title": "Materials Science Honours Project",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS5001",
+        "title": "Thesis A",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS5002",
+        "title": "Thesis B",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS5003",
+        "title": "Advanced Thesis",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS6001",
+        "title": "Fundamentals of Materials Processing",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS6002",
+        "title": "Fundamentals of Materials Design",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS6003",
+        "title": "Presentation Skills for Materials Technology",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS6004",
+        "title": "Materials Industry Management",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS6006",
+        "title": "Recycling of Materials",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS6007",
+        "title": "Sustainable Materials Engineering",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS6008",
+        "title": "Advanced Functional Materials",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS6101",
+        "title": "Thermodynamics and Phase Equilibria",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS6102",
+        "title": "Kinetics and Phase Transformations",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS6104",
+        "title": "Physical Properties of Materials",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS6105",
+        "title": "Chemical Properties of Materials",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS6106",
+        "title": "Mechanical Properties of Materials",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS6107",
+        "title": "Thermal Properties of Ceramics",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS6109",
+        "title": "Polymer Materials Science",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS6110",
+        "title": "Computational Materials Science",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS6111",
+        "title": "Processes in Materials Engineering",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS6112",
+        "title": "Characterisation of Materials",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS6113",
+        "title": "Research Project",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS6114",
+        "title": "Research Project A",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS0100",
+        "title": "Research Thesis Materials Science and Engineering Full-Time",
+        "subject": "MATS"
+    },
+    {
+        "code": "MATS0200",
+        "title": "Research Thesis Materials Science and Engineering Part-Time",
+        "subject": "MATS"
+    },
+    {
+        "code": "MBAX6271",
+        "title": "Approaches to Change",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX6272",
+        "title": "Change Skills",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX6274",
+        "title": "Systems for Change",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9101",
+        "title": "Project Management",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9114",
+        "title": "Marketing Management",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9120",
+        "title": "Accounting and Financial Management",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9122",
+        "title": "Economics in Management Practice",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9123",
+        "title": "Corporate Finance",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9125",
+        "title": "Managing People & Organisations",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9127",
+        "title": "Supply Chain Management",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9130",
+        "title": "Enterprise Risk Management",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9131",
+        "title": "Leadership",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9132",
+        "title": "Intrapreneurship",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9135",
+        "title": "Business Analytics",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9136",
+        "title": "Silicon Valley Study Tour",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9137",
+        "title": "Advanced Finance",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9138",
+        "title": "Financial Analysis",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9140",
+        "title": "Global Finance",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9141",
+        "title": "Mergers and Acquisitions",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9142",
+        "title": "Financial Modelling",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9143",
+        "title": "Strategic Management",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9150",
+        "title": "Digital Innovation",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9151",
+        "title": "Law, Regulation & Ethics",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9152",
+        "title": "Digital Strategy",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9153",
+        "title": "Implementing Strategy",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9154",
+        "title": "Managing with Digital Technology",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9155",
+        "title": "Strategic Consulting Project",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MBAX9202",
+        "title": "Individual Research Project",
+        "subject": "MBAX"
+    },
+    {
+        "code": "MDCN7007",
+        "title": "BSc (Med) Hons",
+        "subject": "MDCN"
+    },
+    {
+        "code": "MDCN8001",
+        "title": "Medicine Honours",
+        "subject": "MDCN"
+    },
+    {
+        "code": "MDCN9001",
+        "title": "Postgraduate Program Medicine Full-Time (Prince of Wales)",
+        "subject": "MDCN"
+    },
+    {
+        "code": "MDCN9002",
+        "title": "Postgraduate Program Medicine Part-Time (Prince of Wales)",
+        "subject": "MDCN"
+    },
+    {
+        "code": "MDCN9003",
+        "title": "Postgraduate Program Medicine Full-Time (Swsahs)",
+        "subject": "MDCN"
+    },
+    {
+        "code": "MDCN9004",
+        "title": "Postgraduate Program Medicine Part-Time (Swsahs)",
+        "subject": "MDCN"
+    },
+    {
+        "code": "MDCN9005",
+        "title": "Postgraduate Program Medicine Full-Time (St George)",
+        "subject": "MDCN"
+    },
+    {
+        "code": "MDCN9006",
+        "title": "Postgraduate Program Medicine Part-Time (St George)",
+        "subject": "MDCN"
+    },
+    {
+        "code": "MDCN9007",
+        "title": "Postgraduate Program Medicine Full-Time (St Vincents)",
+        "subject": "MDCN"
+    },
+    {
+        "code": "MDCN9008",
+        "title": "Postgraduate Program Medicine Part-Time (St Vincents)",
+        "subject": "MDCN"
+    },
+    {
+        "code": "MDCN9009",
+        "title": "Research Thesis (Rural) Full-time",
+        "subject": "MDCN"
+    },
+    {
+        "code": "MDCN9010",
+        "title": "Research Thesis (Rural) Part-time",
+        "subject": "MDCN"
+    },
+    {
+        "code": "MDCN9011",
+        "title": "Research Thesis (Kirby Institute) Full-Time",
+        "subject": "MDCN"
+    },
+    {
+        "code": "MDCN9012",
+        "title": "Research Thesis (Kirby Institute) Part Time",
+        "subject": "MDCN"
+    },
+    {
+        "code": "MDCN9015",
+        "title": "Research Thesis (The George Inst) Full-Time",
+        "subject": "MDCN"
+    },
+    {
+        "code": "MDCN9016",
+        "title": "Research Thesis (The George Inst) Part-Time",
+        "subject": "MDCN"
+    },
+    {
+        "code": "MDIA1000",
+        "title": "Working with Time, Space and Experience",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA1002",
+        "title": "Media and Communication Contexts",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA1003",
+        "title": "Public Relations and Advertising Foundations",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA1004",
+        "title": "News Fundamentals",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA1005",
+        "title": "Creative Sound Technologies",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA1007",
+        "title": "Media Entrepreneurship",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA2000",
+        "title": "Animating Media",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA2002",
+        "title": "Analysing Media Communication",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA2003",
+        "title": "Media Content Creation",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA2005",
+        "title": "Advertising: The Creative Dimensions",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA2006",
+        "title": "Communication Strategies",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA2008",
+        "title": "Broadcast Media Practices",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA2010",
+        "title": "Serious Games",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA2011",
+        "title": "Media Design for Change",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA2012",
+        "title": "Promotional Cultures",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA2013",
+        "title": "Making Virtual Reality Documentaries",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA3000",
+        "title": "Discourse and Promotion",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA3002",
+        "title": "Multiplatform Media",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA3003",
+        "title": "Professional Portfolio",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA3004",
+        "title": "Festivals and Exhibitions",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA3005",
+        "title": "Social Innovation and Engagement",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA3006",
+        "title": "Production Studio",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA3007",
+        "title": "Media and Arts Internship",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA3008",
+        "title": "Issues and Crisis Communication",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA3009",
+        "title": "Brand Communications and Cultures",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA3010",
+        "title": "Professional Media Practices: Creating, Publishing and Publicising Digital Journalism",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA3011",
+        "title": "Communication Design: Multimodality, Meaning and Media",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA3012",
+        "title": "Communication Project",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA4000",
+        "title": "Media Honours",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA4001",
+        "title": "Media Honours",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA4002",
+        "title": "Media Honours",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA5000",
+        "title": "Understanding Contemporary Media",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA5001",
+        "title": "Writing for Media",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA5002",
+        "title": "Broadcast Journalism",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA5003",
+        "title": "Online and Mobile Media",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA5004",
+        "title": "Media and Public Relations",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA5005",
+        "title": "Sports, Media and Culture",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA5006",
+        "title": "Feature Writing",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA5007",
+        "title": "Media Ethics and Law",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA5008",
+        "title": "Media Research Project",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA5010",
+        "title": "Literary and Narrative Journalism Practice",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA5011",
+        "title": "Professional Media Practices: Creating, Publishing and Publicising Digital Journalism",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA5021",
+        "title": "Advertising and Creativity",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA5022",
+        "title": "Organisational Communication",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA5023",
+        "title": "Public Relations Theory and Practice",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA5024",
+        "title": "Advertising Strategy",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA5027",
+        "title": "Understanding Digital Cultures",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA5028",
+        "title": "Critical Perspectives in Communication",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA5030",
+        "title": "Brand Cultures",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MDIA5100",
+        "title": "Industry Internship",
+        "subject": "MDIA"
+    },
+    {
+        "code": "MECH3110",
+        "title": "Mechanical Design 1",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH3610",
+        "title": "Advanced Thermofluids",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH4100",
+        "title": "Mechanical Design 2",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH4305",
+        "title": "Fundamental and Advanced Vibration Analysis",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH4620",
+        "title": "Computational Fluid Dynamics",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH4880",
+        "title": "Refrigeration and Air Conditioning 1",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH4900",
+        "title": "Mechanics of Fracture and Fatigue",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH9325",
+        "title": "Fundamentals of Acoustics and Noise",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH9420",
+        "title": "Composite Materials and Mechanics",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH9650",
+        "title": "Micro and Biofluidics",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH9720",
+        "title": "Solar Thermal Energy Design",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH9761",
+        "title": "Automobile Engine Technology",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH4100",
+        "title": "Mechanical Design 2",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH4305",
+        "title": "Fundamental and Advanced Vibration Analysis",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH4620",
+        "title": "Computational Fluid Dynamics",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH4880",
+        "title": "Refrigeration and Air Conditioning 1",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH4900",
+        "title": "Mechanics of Fracture and Fatigue",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH9325",
+        "title": "Fundamentals of Acoustics and Noise",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH9420",
+        "title": "Composite Materials and Mechanics",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH9650",
+        "title": "Micro and Biofluidics",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH9720",
+        "title": "Solar Thermal Energy Design",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH9761",
+        "title": "Automobile Engine Technology",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH9000",
+        "title": "Research Thesis Mechanical Engineering  (Full-Time)",
+        "subject": "MECH"
+    },
+    {
+        "code": "MECH9001",
+        "title": "Research Thesis Mechanical Engineering  (Part-Time)",
+        "subject": "MECH"
+    },
+    {
+        "code": "MFAC1501",
+        "title": "Foundations",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC1521",
+        "title": "Beginnings, Growth and Development A",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC1522",
+        "title": "Beginnings, Growth and Development B",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC1523",
+        "title": "Health Maintenance A",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC1526",
+        "title": "Ageing and Endings B",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC1527",
+        "title": "Society and Health",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC1601",
+        "title": "Introductory Clinical and Communication Skills",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC2505",
+        "title": "Integrated Clinical Studies A",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC2506",
+        "title": "Integrated Clinical Studies B",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC2507",
+        "title": "Clinical Transition",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC2509",
+        "title": "Clinical Skills Refresher",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC2510",
+        "title": "Graduate Entry Bridging",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC2511",
+        "title": "Phase 2 Portfolio Examination",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC2512",
+        "title": "Phase 2 Integrated Clinical Assessment",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC2514",
+        "title": "Integrated Clinical Studies 1",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC2515",
+        "title": "Integrated Clinical Studies 2",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC2516",
+        "title": "Integrated Clinical Studies 3",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC3501",
+        "title": "Medicine",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC3502",
+        "title": "Surgery",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC3503",
+        "title": "Psychiatry",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC3504",
+        "title": "Primary Care",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC3505",
+        "title": "Obstetrics and Gynaecology",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC3506",
+        "title": "Children's Health (Paediatrics)",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC3507",
+        "title": "Elective",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC3508",
+        "title": "Emergency / Selective",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC3509",
+        "title": "Selective",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC3510",
+        "title": "Preparation for Internship (PRINT)",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC3512",
+        "title": "Phase 3 Biomedical Sciences Viva",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC3514",
+        "title": "Elective",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC3515",
+        "title": "Preparation for Internship (PRINT)",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC3522",
+        "title": "Phase 3 Portfolio Examination",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC3523",
+        "title": "Phase 3 Integrated Clinical Examination",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC4521",
+        "title": "Independent Learning Project 1",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC4522",
+        "title": "Independent Learning Project 2",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC4523",
+        "title": "Independent Learning Project 3",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFAC4888",
+        "title": "Independent Learning Project",
+        "subject": "MFAC"
+    },
+    {
+        "code": "MFIN6201",
+        "title": "Empirical Techniques and Applications in Finance",
+        "subject": "MFIN"
+    },
+    {
+        "code": "MFIN6205",
+        "title": "Financial Risk Management for Financial Institutions",
+        "subject": "MFIN"
+    },
+    {
+        "code": "MFIN6210",
+        "title": "Empirical Studies in Finance",
+        "subject": "MFIN"
+    },
+    {
+        "code": "MFIN6214",
+        "title": "Financial Theory and Policy",
+        "subject": "MFIN"
+    },
+    {
+        "code": "MGMT1001",
+        "title": "Managing Organisations and People",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT1002",
+        "title": "Managing Organisational Behaviour",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT1101",
+        "title": "Global Business Environment",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT2001",
+        "title": "Managing Innovation and Organisational Change",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT2002",
+        "title": "Managing Business Communication",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT2010",
+        "title": "Innovation and Entrepreneurship",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT2101",
+        "title": "International Business and Multinational Operations",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT2102",
+        "title": "Managing Across Cultures",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT2105",
+        "title": "East Asian Business Enterprise",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT2106",
+        "title": "Comparative Management Systems",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT2705",
+        "title": "Industrial Relations",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT2718",
+        "title": "Human Resource Management",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT2721",
+        "title": "Managing People",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT2725",
+        "title": "Career Management",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT2726",
+        "title": "Business Ethics and Sustainability",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT3001",
+        "title": "Business and Corporate Strategy",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT3003",
+        "title": "Global Entrepreneurship",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT3101",
+        "title": "International Business Strategy",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT3102",
+        "title": "Asia-Pacific Business",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT3110",
+        "title": "Integrative Seminar in Global Business",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT3701",
+        "title": "Legal Aspects of Employment",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT3702",
+        "title": "International Human Resource Management",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT3721",
+        "title": "Negotiation Skills",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT3724",
+        "title": "Strategic Human Resource Management",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT3728",
+        "title": "Managing Pay and Performance",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT3729",
+        "title": "Managing Workplace Training",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT3730",
+        "title": "Human Resource Analytics",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5050",
+        "title": "Professional Skills and Ethics",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5601",
+        "title": "Global Business and Multinational Enterprise",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5602",
+        "title": "Cross-Cultural Management",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5603",
+        "title": "Global Business Strategy and Management",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5604",
+        "title": "Asia-Pacific Business and Management",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5610",
+        "title": "Integrative Cases in International Business",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5611",
+        "title": "Entrepreneurship and New Venture Management",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5701",
+        "title": "Global Employment Relations",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5710",
+        "title": "Managing and Leading People",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5711",
+        "title": "Employment and Industrial Law",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5800",
+        "title": "Technology, Management and Innovation",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5904",
+        "title": "Managing Organisational Change",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5906",
+        "title": "Organisations and People in Context",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5907",
+        "title": "Human Resource Management",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5908",
+        "title": "Strategic Human Resource Management",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5912",
+        "title": "Negotiating in Global Context",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5930",
+        "title": "Human Resource Analytics",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5940",
+        "title": "Career Management Skills",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5947",
+        "title": "Remuneration and Performance Management",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5949",
+        "title": "International Human Resource Management",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT6005",
+        "title": "Managing Organisational Risk in Global Context",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5000",
+        "title": "Full Time PhD Thesis Organisation and Management",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5001",
+        "title": "Part-Time PhD Thesis Organisation and Management",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5950",
+        "title": "PT Masters thesis Org Behaviour",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5951",
+        "title": "Masters Thesis (Organisational Behaviour) Full-Time",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5955",
+        "title": "FT Masters Thesis International Business",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MGMT5982",
+        "title": "Management Theory - Micro Perspectives",
+        "subject": "MGMT"
+    },
+    {
+        "code": "MICR2011",
+        "title": "Microbiology 1",
+        "subject": "MICR"
+    },
+    {
+        "code": "MICR3061",
+        "title": "Viruses and Disease",
+        "subject": "MICR"
+    },
+    {
+        "code": "MICR3071",
+        "title": "Environmental Microbiology",
+        "subject": "MICR"
+    },
+    {
+        "code": "MICR3621",
+        "title": "Microbial Genetics (Advanced)",
+        "subject": "MICR"
+    },
+    {
+        "code": "MICR9071",
+        "title": "Marine Microbiology",
+        "subject": "MICR"
+    },
+    {
+        "code": "MICR8013",
+        "title": "Research Thesis Microbiology Full-Time",
+        "subject": "MICR"
+    }
+]
