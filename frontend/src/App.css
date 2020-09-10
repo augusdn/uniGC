@@ -16,7 +16,7 @@
   justify-content: center;
 }
 
-.Search-chat {
+.Search-group-chat {
   width: 50vw;
 }
 
@@ -40,6 +40,12 @@
 }
 
 .Profile-pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.Placeholder-pic {
   font-size: 100px;
 }
 

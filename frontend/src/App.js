@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Link, HashRouter } from 'react-router-dom';
 
 import Nav from './components/Navigation/Nav.js';
+import NavIn from './components/Navigation/NavIn.js';
 
 import Home from './pages/Home';
 import Profile from './pages/Profile';
@@ -11,27 +12,52 @@ import firebase from "./components/firebase/firebase"
 
 firebase.analytics().logEvent('notification_received');
 
-// Firebase
-// import * as firebase from 'firebase/app';
-// import { firebaseConfig } from './config/firebaseConfig';
-// import 'firebase/auth';
+class App extends React.Component {
+  constructor() {
+    super();
+    this.state = {
+      currentUser: [],
+    }
+  }
 
-// Initialize Firebase
-// firebase.initializeApp(firebaseConfig);
-//
-// var provider = new firebase.auth.FacebookAuthProvider();
+  componentDidMount() {
+    firebase.auth().onAuthStateChanged(user => {
+      this.setState({ currentUser: user });
+    });
+  }
 
-function App() {
-  return (
-    <HashRouter>
-      <div className="App">
-        <Nav />
-        <Route exact path="/" component={Home} />
-        <Route path="/profile" component={Profile} />
-        <Route path="/login" component={Login} />
-      </div>
-    </HashRouter>
-  );
+  render() {
+    if (this.state.currentUser) {
+      return (
+        <HashRouter>
+          <div className="App">
+            <NavIn />
+            <Route path="/" exact component={Home} />
+            <Route path="/login" exact component = {Login} />
+            <Route path="/profile" render={(props) =>
+                <Profile
+                  uid={this.state.currentUser.uid}
+                  email={this.state.currentUser.email}
+                  fullName={this.state.currentUser.displayName}
+                  profilePic={this.state.currentUser.photoURL}
+                />
+              }
+            />
+          </div>
+        </HashRouter>
+      );
+    } else {
+      return (
+        <HashRouter>
+          <div className="App">
+            <Nav />
+            <Route path="/" exact component={Home} />
+            <Route path="/login" exact component = {Login} />
+          </div>
+        </HashRouter>
+      );
+    }
+  }
 }
 
 export default App;

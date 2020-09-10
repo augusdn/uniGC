@@ -6,10 +6,10 @@ function Home() {
   return (
     <main>
       <form className="Search-container">
-        <div className="form-group Search-chat">
-          <label form="exampleInputEmail1">Group Chat Search</label>
-          <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp"/>
-          <small id="emailHelp" className="form-text text-muted">Maybe the group chat you're interested in already exists?</small>
+        <div className="form-group Search-group-chat">
+          <label form="search-group-chat">Group Chat Search</label>
+          <input type="search" className="form-control" id="search-group-chat" aria-describedby="searchHelp"/>
+          <small id="searchHelp" className="form-text text-muted">Maybe the group chat you're interested in already exists?</small>
         </div>
       </form>
       <h2 className="Section-header">Subject Areas</h2>

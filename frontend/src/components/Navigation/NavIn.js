@@ -3,10 +3,13 @@ import {Link} from 'react-router-dom'
 
 import { faUserPlus } from '@fortawesome/free-solid-svg-icons';
 import { faHome } from '@fortawesome/free-solid-svg-icons';
-import { faSignInAlt } from '@fortawesome/free-solid-svg-icons';
+import { faSignOutAlt } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUserAstronaut } from '@fortawesome/free-solid-svg-icons';
 
+
+// Firebase
+import firebase from "../firebase/firebase.js";
 
 
 const Nav = ({}) =>(
@@ -18,11 +21,24 @@ const Nav = ({}) =>(
 
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav mr-auto">
-                <li className="nav-item active">
-                    <Link className="nav-link" to="/">Home <FontAwesomeIcon icon={faHome}/><span className="sr-only">(current)</span></Link>
+                <li className="nav-item">
+                    <Link className="nav-link" to="/">
+                      Home <FontAwesomeIcon icon={faHome}/>
+                    </Link>
                 </li>
                 <li className="nav-item">
-                    <Link className="nav-link" to="/login">Login <FontAwesomeIcon icon={faSignInAlt}/></Link>
+                    <Link className="nav-link" to="/profile">
+                      Profile <FontAwesomeIcon icon={faUserAstronaut}/>
+                    </Link>
+                </li>
+                <li className="nav-item">
+                    <Link
+                    to="/"
+                    className="nav-link btn btn-outline-secondary"
+                    onClick={() => firebase.auth().signOut()}
+                    >
+                      Sign Out <FontAwesomeIcon icon={faSignOutAlt}/>
+                    </Link>
                 </li>
             </ul>
         </div>

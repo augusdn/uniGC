@@ -4,12 +4,16 @@ import { faUserAstronaut } from '@fortawesome/free-solid-svg-icons';
 
 const listofSubjects = ["COMP3141", "DESN2000"];
 
-function Profile() {
+function Profile({ uid, email, fullName, profilePic }) {
   return (
     <div className="Marginal-container">
       <div className="Profile">
-        <FontAwesomeIcon icon={faUserAstronaut} className="Profile-pic" />
-        <h1>Profile</h1>
+        {
+          profilePic
+          ? <img src={profilePic} className="Profile-pic" />
+          : <FontAwesomeIcon icon={faUserAstronaut} className="Placeholder-pic" />
+        }
+        <h1>{fullName}</h1>
       </div>
 
       <h2>My Courses</h2>
