@@ -1,0 +1,92 @@
+/* .App {
+  text-align: center;
+} */
+
+.Section-header {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.Search-container {
+  background-color: #282c34;
+  height: 50vh;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Search-group-chat {
+  width: 50vw;
+}
+
+.Subject-list {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  place-items: center;
+  grid-gap: 20px;
+}
+
+.Marginal-container {
+  margin: 20px;
+}
+
+.Profile {
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Profile-pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.Placeholder-pic {
+  font-size: 100px;
+}
+
+.Login-form {
+  width: 30vw;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Signup-form {
+  width: 30vw;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media screen and (max-width: 1000px) {
+  .Subject-list {
+    margin: 20px;
+    display: grid;
+    grid-template-columns: auto;
+    place-items: center;
+    grid-gap: 20px;
+  }
+
+  .Login-form {
+    width: 80vw;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .Signup-form {
+    width: 80vw;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}

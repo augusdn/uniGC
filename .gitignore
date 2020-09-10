@@ -1,4 +1,6 @@
-.vscode
-node_modules
+settings.json
 FirebaseConfig.js
 ServiceAccountKey.json
+node_modules
+.vscode
+ 
