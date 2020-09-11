@@ -44,6 +44,7 @@ const db = admin.firestore();
 app.get("/courses", (request, response) => {
   db.collection("courses")
     .orderBy("code")
+    .limit(5)
     .get()
     .then((data) => {
       let courses = new Array();
@@ -51,6 +52,22 @@ app.get("/courses", (request, response) => {
         courses.push(doc.data());
       });
       return response.json({ courses });
+    })
+    .catch((err) => {
+        response.status(500).json({ status: "failed", error: err.code })
+    });
+});
+
+app.get("/subjects", (request, response) => {
+  db.collection("subjects")
+    .orderBy("code")
+    .get()
+    .then((data) => {
+      let subjects = new Array();
+      data.forEach((doc) => {
+        subjects.push(doc.data());
+      });
+      return response.json({ subjects });
     })
     .catch((err) => {
         response.status(500).json({ status: "failed", error: err.code })
@@ -110,8 +127,26 @@ app.get("/course/:courseID", (request, response) => {
     );
 });
 
+app.get("/subject/:subjectID", (request, response) => {
+  const id = request.params.subjectID;
+  db.collection("courses")
+    .where("subject", "==", id)
+    .orderBy("code")
+    .get()
+    .then((data) => {
+      let courses = new Array();
+      data.forEach((doc) => {
+        courses.push(doc.data());
+      });
+      return response.json({ courses });
+    })
+    .catch((err) => {
+        response.status(500).json({ status: "failed", error: err.code })
+    });
+});
+
 app.get("/search/:courseID", (request, response) => {
-  const id = request.params.courseID;
+  const id = request.params.courseID.toUpperCase();
   db.collection("courses")
     .where("code", ">=", id)
     .where("code", "<=", id+"\uf8ff")
