@@ -41,6 +41,9 @@ admin.initializeApp({
 
 const db = admin.firestore();
 
+const cors = require('cors');
+app.use(cors({origin: true}));
+
 app.get("/courses", (request, response) => {
   db.collection("courses")
     .orderBy("code")
