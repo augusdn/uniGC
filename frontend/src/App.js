@@ -7,6 +7,7 @@ import NavIn from './components/Navigation/NavIn.js';
 import Home from './pages/Home';
 import Profile from './pages/Profile';
 import Login from './pages/Login';
+import SearchResults from './pages/SearchResults';
 import './App.css';
 import firebase from "./components/firebase/firebase"
 
@@ -33,7 +34,8 @@ class App extends React.Component {
           <div className="App">
             <NavIn />
             <Route path="/" exact component={Home} />
-            <Route path="/login" exact component = {Login} />
+            <Route path="/login" component = {Login} />
+            <Route path="/search" render={(props) => <SearchResults {...props} />} />
             <Route path="/profile" render={(props) =>
                 <Profile
                   uid={this.state.currentUser.uid}
@@ -52,7 +54,8 @@ class App extends React.Component {
           <div className="App">
             <Nav />
             <Route path="/" exact component={Home} />
-            <Route path="/login" exact component = {Login} />
+            <Route path="/login" component = {Login} />
+            <Route path="/search" component = {SearchResults} />
           </div>
         </HashRouter>
       );

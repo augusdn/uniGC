@@ -3,28 +3,44 @@ import { Redirect } from 'react-router-dom';
 
 const listofSubjects = ["ACCT","BABS","CDEV","DATA","ECON","FINS","GBAT","HDAT","IDES","JURD","LAND"];
 
-class Home extends React.Component {
-  constructor() {
-    super();
+class SearchResults extends React.PureComponent {
+  constructor(props) {
+    super(props)
     this.state = {
-      searchTerm: "",
+      searchTerm: this.props.location.state.searchTerm,
       redirect: false,
-      subjects: []
+      searchResults: []
     }
   }
 
   componentDidMount() {
-    // try {
-      // fetch("https://asia-east2-unigc-eea69.cloudfunctions.net/api/subjects")
-      //   .then(resp => resp.json())
-      //   .then(data => {
-      //     this.setState({
-      //       subjects: data.subjects
-      //     })
-      //   })
-    // } catch (err) {
-    //   console.log(err)
-    // }
+    try {
+      fetch("https://asia-east2-unigc-eea69.cloudfunctions.net/api/search/" + this.state.searchTerm)
+        .then(resp => resp.json())
+        .then(data => {
+          this.setState({
+            searchResults: data
+          })
+        })
+    } catch (err) {
+      console.log(err)
+    }
+  }
+
+  componentDidUpdate(prevProps) {
+    if (this.state.searchTerm !== this.props.location.state.searchTerm) {
+      try {
+        fetch("https://asia-east2-unigc-eea69.cloudfunctions.net/api/search/" + this.state.searchTerm)
+          .then(resp => resp.json())
+          .then(data => {
+            this.setState({
+              searchResults: data
+            })
+          })
+      } catch (err) {
+        console.log(err)
+      }
+    }
   }
 
   updateInputValue(e) {
@@ -53,6 +69,8 @@ class Home extends React.Component {
   }
 
   render() {
+    console.log(this.state.searchTerm)
+    console.log(this.state.redirect)
     return (
       <main>
         <form className="Search-container" onSubmit={this.setRedirect}>
@@ -70,13 +88,13 @@ class Home extends React.Component {
             <small id="searchHelp" className="form-text text-muted">Maybe the group chat you're interested in already exists?</small>
           </div>
         </form>
-        <h2 className="Section-header">Subject Areas</h2>
+        <h2 className="Section-header">Group Chats</h2>
         <div className="Subject-list Marginal-container">
-          { this.state.subjects.map(subj => {
+          { this.state.searchResults.map(subj => {
             return (
               <div className="card">
                 <div className="card-body">
-                  <h5 className="card-title">{ subj.code }: { subj.name }</h5>
+                  <h5 className="card-title">{ subj.code }: {subj.title}</h5>
                   <a href="#" className="btn btn-primary">Go somewhere</a>
                 </div>
               </div>
@@ -88,4 +106,4 @@ class Home extends React.Component {
   }
 }
 
-export default Home;
+export default SearchResults;
