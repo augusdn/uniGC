@@ -1,0 +1,2452 @@
+[
+    {
+        "code": "MICR8023",
+        "title": "Research Thesis Microbiology Part-Time",
+        "subject": "MICR"
+    },
+    {
+        "code": "MINE1010",
+        "title": "Mineral Resources Engineering",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE2010",
+        "title": "Mining Project Development",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE2610",
+        "title": "Mining Services",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE2810",
+        "title": "Minerals and Processing",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE3220",
+        "title": "Resource Estimation",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE3230",
+        "title": "Mine Planning",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE3310",
+        "title": "Mining Geomechanics",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE3430",
+        "title": "Mining Systems",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE3510",
+        "title": "Mine Ventilation",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE3630",
+        "title": "Rock Breakage",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE3910",
+        "title": "Socio-Environmental Aspects of Mining",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE4250",
+        "title": "Hardrock Mine Design and Feasibility Project",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE4260",
+        "title": "Coal Mine Design and Feasibility Project",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE4310",
+        "title": "Mine Geotechnical Engineering",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE4710",
+        "title": "Mine Management",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE4910",
+        "title": "Mining in a Global Environment",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE4951",
+        "title": "Research Thesis A",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE4952",
+        "title": "Research Thesis B",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE4953",
+        "title": "Research Thesis C",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE5010",
+        "title": "Fundamentals of Rock Behaviour for Underground Mining",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE5020",
+        "title": "Geotechnical Assessment for Underground Mining",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE5030",
+        "title": "Mining Excavations in Rock",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE5040",
+        "title": "Coal Mining Methods, Mine Planning and Applied Geomechanics",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE5050",
+        "title": "Ground Control Principles and Practice in Underground Coal Mining",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE8101",
+        "title": "Fundamentals of Mining Engineering",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE8115",
+        "title": "Mine Processes, Systems and Analysis",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE8120",
+        "title": "Hazard Identification, Risk and Safety Management in Mining",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE8130",
+        "title": "Technology Management in Mining",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE8140",
+        "title": "Mining Geomechanics",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE8210",
+        "title": "Management Systems - Projects, Processes, Contracts, Contractors",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE8440",
+        "title": "Mining Industry Research Project 1",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE8445",
+        "title": "Mining Industry Research Project 2",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE8680",
+        "title": "Geotechnical Data Collection and Analysis",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE8690",
+        "title": "Mining Geotechnical Project",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE8710",
+        "title": "Mine Slope Stability",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE8720",
+        "title": "Numerical Methods in Mine Geomechanics",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE8760",
+        "title": "Mine Geology and Geophysics for Mining Operations",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE8780",
+        "title": "Environmental Management for the Mining Industry",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE8790",
+        "title": "Advanced Mineral Economics and Project Evaluation",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE8820",
+        "title": "Mineral Processing",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE8850",
+        "title": "Mine Design and Feasibility",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE8860",
+        "title": "Drilling, Blasting and Machine Excavation",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE8910",
+        "title": "Mine Water and Waste Management",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE9910",
+        "title": "Mine Ventilation",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE0008",
+        "title": "Research Thesis Full-Time",
+        "subject": "MINE"
+    },
+    {
+        "code": "MINE0009",
+        "title": "Research Thesis Part-Time",
+        "subject": "MINE"
+    },
+    {
+        "code": "MMAN2130",
+        "title": "Design and Manufacturing",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN2300",
+        "title": "Engineering Mechanics 2",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN2700",
+        "title": "Thermodynamics",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN3000",
+        "title": "Professional Engineering and Communication",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN3200",
+        "title": "Linear Systems and Control",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN3400",
+        "title": "Mechanics of Solids 2",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN4010",
+        "title": "Thesis A",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN4020",
+        "title": "Thesis B",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN4200",
+        "title": "Additive Manufacturing",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN4400",
+        "title": "Engineering Management",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN4410",
+        "title": "Finite Element Methods",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN4951",
+        "title": "Research Thesis A",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN4952",
+        "title": "Research Thesis B",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN4953",
+        "title": "Research Thesis C",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN4200",
+        "title": "Additive Manufacturing",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN4400",
+        "title": "Engineering Management",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN4410",
+        "title": "Finite Element Methods",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN9001",
+        "title": "Master of Engineering Science Project A",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN9002",
+        "title": "Master of Engineering Science Project B",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN9451",
+        "title": "Masters Project A",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN9452",
+        "title": "Masters Project B",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMAN9453",
+        "title": "Masters Project C",
+        "subject": "MMAN"
+    },
+    {
+        "code": "MMGT6001",
+        "title": "Managing Yourself and Others",
+        "subject": "MMGT"
+    },
+    {
+        "code": "MMGT6005",
+        "title": "Law, Regulation and Ethics",
+        "subject": "MMGT"
+    },
+    {
+        "code": "MNGT5095",
+        "title": "Foundations of Management",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5180",
+        "title": "Operationalising Strategy",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5201",
+        "title": "Economics in Management Practice",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5202",
+        "title": "Entrepreneurship and Innovation",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5203",
+        "title": "Entrepreneurship from the Inside",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5211",
+        "title": "Accounting",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5221",
+        "title": "Corporate Finance",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5232",
+        "title": "Data Analysis and Statistical Modelling for Business",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5251",
+        "title": "Marketing Management",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5272",
+        "title": "Managing People and Organisations",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5282",
+        "title": "Strategy",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5312",
+        "title": "Financial Statement Analysis",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5321",
+        "title": "Advanced Managerial Finance",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5322",
+        "title": "Venture Capital Finance",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5325",
+        "title": "International Finance",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5374",
+        "title": "Managerial Decision Making",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5388",
+        "title": "Negotiations and Strategy",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5395",
+        "title": "Strategies for Growth",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5520",
+        "title": "Quantitative Business Modelling for Managers",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5521",
+        "title": "Financial Strategy",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5541",
+        "title": "Advanced Topics in Management",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5583",
+        "title": "Doing Business in Australia",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5585",
+        "title": "Individual Study in Management",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT5589",
+        "title": "Strategic Consulting Projects",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT6210",
+        "title": "Accounting and Financial Management",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT6211",
+        "title": "The Executive Blueprint",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT6251",
+        "title": "Marketing Management",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT6275",
+        "title": "Managing People and Organisations",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT6321",
+        "title": "Corporate Finance",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT6582",
+        "title": "International Business",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT6583",
+        "title": "International Business Experience",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT7495",
+        "title": "Strategic Leadership",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT7496",
+        "title": "Innovation",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT7497",
+        "title": "Growth",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNGT7498",
+        "title": "Transformation",
+        "subject": "MNGT"
+    },
+    {
+        "code": "MNNG9901",
+        "title": "Ventilation and Mine Services",
+        "subject": "MNNG"
+    },
+    {
+        "code": "MNNG9902",
+        "title": "Environmental Contaminants",
+        "subject": "MNNG"
+    },
+    {
+        "code": "MNNG9903",
+        "title": "Heat in Underground Mines",
+        "subject": "MNNG"
+    },
+    {
+        "code": "MODL5100",
+        "title": "Research and Theories of Translation and Interpreting",
+        "subject": "MODL"
+    },
+    {
+        "code": "MODL5101",
+        "title": "Interpreting in Legal Settings",
+        "subject": "MODL"
+    },
+    {
+        "code": "MODL5102",
+        "title": "Interpreting in Community Settings",
+        "subject": "MODL"
+    },
+    {
+        "code": "MODL5103",
+        "title": "Multimedia Translation",
+        "subject": "MODL"
+    },
+    {
+        "code": "MODL5104",
+        "title": "Specialised Translation",
+        "subject": "MODL"
+    },
+    {
+        "code": "MODL5105",
+        "title": "Conference Interpreting",
+        "subject": "MODL"
+    },
+    {
+        "code": "MODL5107",
+        "title": "Translation Technology",
+        "subject": "MODL"
+    },
+    {
+        "code": "MODL5108",
+        "title": "Translation Certification Preparation",
+        "subject": "MODL"
+    },
+    {
+        "code": "MODL5111",
+        "title": "Translation and Interpreting Practicum A",
+        "subject": "MODL"
+    },
+    {
+        "code": "MODL5112",
+        "title": "Translation and Interpreting Practicum B",
+        "subject": "MODL"
+    },
+    {
+        "code": "MODL5113",
+        "title": "Interpreting Certification Preparation",
+        "subject": "MODL"
+    },
+    {
+        "code": "MODL5116",
+        "title": "Advanced Conference Interpreting",
+        "subject": "MODL"
+    },
+    {
+        "code": "MODL5117",
+        "title": "Interpreting in International Settings",
+        "subject": "MODL"
+    },
+    {
+        "code": "MODL8301",
+        "title": "Masters Program by Coursework and Research Full-Time",
+        "subject": "MODL"
+    },
+    {
+        "code": "MODL8302",
+        "title": "Masters Program by Coursework and Research Part-Time",
+        "subject": "MODL"
+    },
+    {
+        "code": "MSCI0501",
+        "title": "The Marine Environment",
+        "subject": "MSCI"
+    },
+    {
+        "code": "MSCI2001",
+        "title": "Introductory Marine Science",
+        "subject": "MSCI"
+    },
+    {
+        "code": "MSCI3001",
+        "title": "Physical Oceanography",
+        "subject": "MSCI"
+    },
+    {
+        "code": "MSCI6681",
+        "title": "Topics in Australian Marine Science",
+        "subject": "MSCI"
+    },
+    {
+        "code": "MSCI5004",
+        "title": "Oceanographic Processes",
+        "subject": "MSCI"
+    },
+    {
+        "code": "MSCI5005",
+        "title": "Topics in Marine Biology and Ecology",
+        "subject": "MSCI"
+    },
+    {
+        "code": "MSCI6681",
+        "title": "Topics in Australian Marine Science",
+        "subject": "MSCI"
+    },
+    {
+        "code": "MSCI9001",
+        "title": "Conservation in Aquatic Ecosystems",
+        "subject": "MSCI"
+    },
+    {
+        "code": "MTRN2500",
+        "title": "Computing for Mechatronic Engineers",
+        "subject": "MTRN"
+    },
+    {
+        "code": "MTRN3020",
+        "title": "Modelling and Control of Mechatronic Systems",
+        "subject": "MTRN"
+    },
+    {
+        "code": "MTRN3500",
+        "title": "Computing Applications in Mechatronics Systems",
+        "subject": "MTRN"
+    },
+    {
+        "code": "MTRN4010",
+        "title": "Advanced Autonomous Systems",
+        "subject": "MTRN"
+    },
+    {
+        "code": "MTRN4110",
+        "title": "Robot Design",
+        "subject": "MTRN"
+    },
+    {
+        "code": "MTRN4230",
+        "title": "Robotics",
+        "subject": "MTRN"
+    },
+    {
+        "code": "MTRN9400",
+        "title": "Control of Robotic Systems",
+        "subject": "MTRN"
+    },
+    {
+        "code": "MTRN4110",
+        "title": "Robot Design",
+        "subject": "MTRN"
+    },
+    {
+        "code": "MTRN4230",
+        "title": "Robotics",
+        "subject": "MTRN"
+    },
+    {
+        "code": "MTRN9400",
+        "title": "Control of Robotic Systems",
+        "subject": "MTRN"
+    },
+    {
+        "code": "MTRN9000",
+        "title": "Research Thesis Mechatronic Engineering  (Full-Time)",
+        "subject": "MTRN"
+    },
+    {
+        "code": "MTRN9001",
+        "title": "Research Thesis Mechatronic Engineering  (Part-Time)",
+        "subject": "MTRN"
+    },
+    {
+        "code": "MUPS0001",
+        "title": "Drivers of Urban Change",
+        "subject": "MUPS"
+    },
+    {
+        "code": "MUPS0002",
+        "title": "Strategic Urban Policy",
+        "subject": "MUPS"
+    },
+    {
+        "code": "MUPS0003",
+        "title": "Decision Making and Governance",
+        "subject": "MUPS"
+    },
+    {
+        "code": "MUPS0004",
+        "title": "Development Economics and Finance",
+        "subject": "MUPS"
+    },
+    {
+        "code": "MUPS0007",
+        "title": "Research for Evidence-Based Policy",
+        "subject": "MUPS"
+    },
+    {
+        "code": "MUPS0008",
+        "title": "International Policy Studio",
+        "subject": "MUPS"
+    },
+    {
+        "code": "MUPS0009",
+        "title": "Urban Leadership, Politics and Ethics",
+        "subject": "MUPS"
+    },
+    {
+        "code": "MUSC1101",
+        "title": "Music Reinvented",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC1602",
+        "title": "Materials and Structures of Music 1",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC1603",
+        "title": "Materials and Structures of Music 2",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC1604",
+        "title": "Western Music: a Panorama",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC1707",
+        "title": "Performance Laboratory A",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC1708",
+        "title": "BA Performance Laboratory A",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC2113",
+        "title": "Film Music",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC2115",
+        "title": "Music of the 19th Century",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC2116",
+        "title": "Sound, Society and Self in World Music",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC2602",
+        "title": "Materials and Structures of Music 3",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC2603",
+        "title": "Materials and Structures of Music 4",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC2703",
+        "title": "Performance Laboratory B",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC2801",
+        "title": "Music Performance Styles and Interpretation",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC2802",
+        "title": "Music Studio Teaching",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC2803",
+        "title": "Creative Sound Technologies",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC2804",
+        "title": "Music at the edge",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC3104",
+        "title": "Contemplating Jazz: History, Style, Reception",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC3105",
+        "title": "Psychology of Music",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC3302",
+        "title": "Musical Transformations: Orchestration, Arrangement, Transcription and Recomposition",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC3705",
+        "title": "Performance Laboratory C",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC3706",
+        "title": "Performance Laboratory C (Creative Practice/Music Pedagogy)",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC3801",
+        "title": "Creative Projects in Performance and Composition",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC3802",
+        "title": "Music Analysis",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC3804",
+        "title": "Educating the Musical Novice",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC3805",
+        "title": "Audio Culture",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC3806",
+        "title": "Synergies in Sound Technology",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC3807",
+        "title": "MusiCultures",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC3808",
+        "title": "Becoming a Performer",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC4009",
+        "title": "Music Honours",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC4010",
+        "title": "Music Honours",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC4011",
+        "title": "Music Honours",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC4013",
+        "title": "Music Creative Practice Honours Project",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC4014",
+        "title": "Music Creative Practice Honours Project",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC4015",
+        "title": "Music Honours Thesis",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC4016",
+        "title": "Music Honours Thesis",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC4017",
+        "title": "Music Honours Thesis",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC4101",
+        "title": "Critical Investigation in Music",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC4102",
+        "title": "Critical Practice in Music",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC4103",
+        "title": "Advanced Studies in Music History and Culture 1",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC4104",
+        "title": "Advanced Studies in Music History & Culture 2",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC4705",
+        "title": "Performance Laboratory D (Music Creative Practice)",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC4706",
+        "title": "Music Ensemble",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC8301",
+        "title": "Masters Program by Coursework and Research Full-Time",
+        "subject": "MUSC"
+    },
+    {
+        "code": "MUSC8302",
+        "title": "Masters Program by Coursework and Research Part-Time",
+        "subject": "MUSC"
+    },
+    {
+        "code": "NANO3001",
+        "title": "Advanced Nanomaterials",
+        "subject": "NANO"
+    },
+    {
+        "code": "NANO4004",
+        "title": "Nanotechnology Project",
+        "subject": "NANO"
+    },
+    {
+        "code": "NANO4012",
+        "title": "Nanoscience Project",
+        "subject": "NANO"
+    },
+    {
+        "code": "NCHR9000",
+        "title": "PhD Thesis NCHR Full Time",
+        "subject": "NCHR"
+    },
+    {
+        "code": "NCHR9050",
+        "title": "PhD Thesis NCHR Part Time",
+        "subject": "NCHR"
+    },
+    {
+        "code": "NEUR2201",
+        "title": "Neuroscience Fundamentals",
+        "subject": "NEUR"
+    },
+    {
+        "code": "NEUR3101",
+        "title": "Muscle and Motor Control",
+        "subject": "NEUR"
+    },
+    {
+        "code": "NEUR3121",
+        "title": "Molecular and Cellular Neuroscience",
+        "subject": "NEUR"
+    },
+    {
+        "code": "NEUR3211",
+        "title": "Neuroscience Research Seminars",
+        "subject": "NEUR"
+    },
+    {
+        "code": "NEUR3221",
+        "title": "Neurophysiology",
+        "subject": "NEUR"
+    },
+    {
+        "code": "NEUR4411",
+        "title": "Behavioural Perspectives in Neuroscience",
+        "subject": "NEUR"
+    },
+    {
+        "code": "NEUR4421",
+        "title": "Biomedical Perspectives in Neuroscience",
+        "subject": "NEUR"
+    },
+    {
+        "code": "NEUR4441",
+        "title": "Neuroscience Research",
+        "subject": "NEUR"
+    },
+    {
+        "code": "NEUR4442",
+        "title": "Neuroscience Research",
+        "subject": "NEUR"
+    },
+    {
+        "code": "NEUR4443",
+        "title": "Neuroscience Research 18 Units of Credit",
+        "subject": "NEUR"
+    },
+    {
+        "code": "OBST9001",
+        "title": "Obstetrics and Gynaecology Research Thesis Full-Time",
+        "subject": "OBST"
+    },
+    {
+        "code": "OBST9002",
+        "title": "Obstetrics and Gynaecology Research Thesis Part-Time",
+        "subject": "OBST"
+    },
+    {
+        "code": "OBST9003",
+        "title": "M.D. Obstetrics and Gynaecology Full-Time",
+        "subject": "OBST"
+    },
+    {
+        "code": "OBST9004",
+        "title": "M.D. Obstetrics and Gynaecology Part-Time",
+        "subject": "OBST"
+    },
+    {
+        "code": "OPTM2133",
+        "title": "The Clinical Environment",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM2233",
+        "title": "Optical Dispensing",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM3105",
+        "title": "Disease Processes of the Eye 1",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM3133",
+        "title": "Vision Science in the Consulting Room",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM3201",
+        "title": "Ocular Imaging & Applied Vision Science",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM3205",
+        "title": "Disease Processes of the Eye 2",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM3233",
+        "title": "Working in the Clinical Environment",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM5111",
+        "title": "Clinical Optometry 5A",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM5131",
+        "title": "Specialist Clinical Optometry 5A",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM5151",
+        "title": "Clinical Ocular Therapeutics 5A",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM6400",
+        "title": "Optometric Preclinical Practice",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM6411",
+        "title": "Contact Lenses",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM6413",
+        "title": "Anterior Eye Therapeutics",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM6421",
+        "title": "Binocular Vision, Paediatrics and Low Vision",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM6422",
+        "title": "Clinical Optometry 4B",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM6423",
+        "title": "Therapeutics and the Posterior Eye",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM6424",
+        "title": "Professional Optometry",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM7001",
+        "title": "Introduction to Community Eye Health",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM7003",
+        "title": "Epidemiology of Blinding Eye Diseases",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM7006",
+        "title": "Eye Care Program Management",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM7007",
+        "title": "Community Eye Health Project",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM7104",
+        "title": "Advanced Contact Lens Studies 1",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM7107",
+        "title": "Ocular Therapy 1",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM7108",
+        "title": "Research Skills in Optometry",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM7115",
+        "title": "Visual Neuroscience",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM7117",
+        "title": "Ocular Therapy 2",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM7205",
+        "title": "Specialty Contact Lens Studies",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM7208",
+        "title": "Research Skills in Optometry",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM7213",
+        "title": "Ocular Therapy",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM7218",
+        "title": "Research Project",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM7301",
+        "title": "Advanced Clinical Optometry",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM7302",
+        "title": "Evidence Based Optometry",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM7308",
+        "title": "Research Project",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM7511",
+        "title": "Advanced Ocular Disease 1",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM7521",
+        "title": "Advanced Ocular Disease 2",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM7611",
+        "title": "Introduction to Myopia",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM7612",
+        "title": "Myopia Management",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM8511",
+        "title": "Clinical Paediatrics, Low Vision and Colour Vision",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM8512",
+        "title": "Clinical Optometry 5A",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM8513",
+        "title": "Clinical Ocular Therapy 5A",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM8514",
+        "title": "Optometry Research Project",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM8521",
+        "title": "Clinical Contact Lenses",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM8522",
+        "title": "Clinical Optometry 5B",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM8523",
+        "title": "Clinical Ocular Therapy 5B",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM0001",
+        "title": "Research Thesis Optometry Full-Time",
+        "subject": "OPTM"
+    },
+    {
+        "code": "OPTM0002",
+        "title": "Research Thesis Optometry Part-Time",
+        "subject": "OPTM"
+    },
+    {
+        "code": "PATH2201",
+        "title": "Processes in Disease",
+        "subject": "PATH"
+    },
+    {
+        "code": "PATH2202",
+        "title": "Processes in Disease for Health and Exercise Science",
+        "subject": "PATH"
+    },
+    {
+        "code": "PATH3205",
+        "title": "Molecular Basis of Disease",
+        "subject": "PATH"
+    },
+    {
+        "code": "PATH3206",
+        "title": "Cancer Pathology",
+        "subject": "PATH"
+    },
+    {
+        "code": "PATH3207",
+        "title": "Musculoskeletal Diseases",
+        "subject": "PATH"
+    },
+    {
+        "code": "PHAR2011",
+        "title": "Introductory Pharmacology and Toxicology",
+        "subject": "PHAR"
+    },
+    {
+        "code": "PHAR3101",
+        "title": "Drug Discovery, Design and Development",
+        "subject": "PHAR"
+    },
+    {
+        "code": "PHAR3102",
+        "title": "Molecular Pharmacology",
+        "subject": "PHAR"
+    },
+    {
+        "code": "PHAR3111",
+        "title": "Clinical Pharmacology for Health and Exercise Science",
+        "subject": "PHAR"
+    },
+    {
+        "code": "PHAR3202",
+        "title": "Neuropharmacology",
+        "subject": "PHAR"
+    },
+    {
+        "code": "PHAR3251",
+        "title": "Clinical and Experimental Pharmacology",
+        "subject": "PHAR"
+    },
+    {
+        "code": "PHAR3306",
+        "title": "Pharmacology for Optometry",
+        "subject": "PHAR"
+    },
+    {
+        "code": "PHAR9101",
+        "title": "Introduction to the Therapeutics Industry",
+        "subject": "PHAR"
+    },
+    {
+        "code": "PHAR9104",
+        "title": "Regulatory Affairs",
+        "subject": "PHAR"
+    },
+    {
+        "code": "PHAR9111",
+        "title": "Pharmaceutics",
+        "subject": "PHAR"
+    },
+    {
+        "code": "PHAR9113",
+        "title": "International Regulatory Affairs",
+        "subject": "PHAR"
+    },
+    {
+        "code": "PHAR9114",
+        "title": "Health Technology Assessment",
+        "subject": "PHAR"
+    },
+    {
+        "code": "PHAR9115",
+        "title": "Advanced Health Technology Assessment",
+        "subject": "PHAR"
+    },
+    {
+        "code": "PHAR9116",
+        "title": "Clinical Trial Management",
+        "subject": "PHAR"
+    },
+    {
+        "code": "PHAR9117",
+        "title": "Cancer Therapeutics",
+        "subject": "PHAR"
+    },
+    {
+        "code": "PHAR9118",
+        "title": "Therapeutics",
+        "subject": "PHAR"
+    },
+    {
+        "code": "PHAR9120",
+        "title": "Clinical Trials",
+        "subject": "PHAR"
+    },
+    {
+        "code": "PHAR9121",
+        "title": "Pharmacovigilance",
+        "subject": "PHAR"
+    },
+    {
+        "code": "PHAR9122",
+        "title": "Medical Affairs",
+        "subject": "PHAR"
+    },
+    {
+        "code": "PHAR9124",
+        "title": "Pharmaceutical Medicine Internship",
+        "subject": "PHAR"
+    },
+    {
+        "code": "PHCM1001",
+        "title": "International Indigenous Health",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM2001",
+        "title": "Epidemiology",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM2002",
+        "title": "Biostatistics",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM2003",
+        "title": "Health Promotion",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM2004",
+        "title": "Communicable Disease",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM2005",
+        "title": "Principles of Prevention and Public Health Surveillance",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM2006",
+        "title": "Public Health Policy and Programs",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM2007",
+        "title": "Health Leadership",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM2009",
+        "title": "Global Chronic Disease Prevention and Control",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM3001",
+        "title": "Ethics in Public Health",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM3003",
+        "title": "Public Health Capstone",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM3004",
+        "title": "Women's and Children's Health",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM3007",
+        "title": "Applied Public Health Practice",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM3008",
+        "title": "Physical Activity and Nutrition in International Contexts",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM3009",
+        "title": "The Power of Sport: An Introduction to Sport for Social Change",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9010",
+        "title": "Community Development",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9012",
+        "title": "Health Promotion and Social Perspectives of Health",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9041",
+        "title": "Foundations in Public Health and Health Care Systems",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9050",
+        "title": "Immunisation Policy and Practice",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9082",
+        "title": "Advanced Health Economics and Financial Management",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9100",
+        "title": "Academic Practice",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9103",
+        "title": "Independent Study 6 Units of Credit",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9108",
+        "title": "Program Design and Evaluation",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9120",
+        "title": "Qualitative Research Methods",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9129",
+        "title": "Prevention and Management of Chronic Disease",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9132",
+        "title": "Applied Research Methods for Public Health",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9143",
+        "title": "Internship",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9144",
+        "title": "Project",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9145",
+        "title": "Project",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9148",
+        "title": "Minor Project",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9150",
+        "title": "Major Project",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9151",
+        "title": "Major Project",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9152",
+        "title": "Major Project",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9331",
+        "title": "Ethics and Law in Public Health",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9381",
+        "title": "Policy Studies",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9391",
+        "title": "Strategy, Policy and Change",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9440",
+        "title": "Economic Evaluation in Healthcare",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9441",
+        "title": "Healthcare Economics and Financial Management",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9443",
+        "title": "Health Economics & Finance for Developing Countries",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9471",
+        "title": "Comparative Health Care Systems",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9498",
+        "title": "Epidemiology and Statistics for Public Health",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9517",
+        "title": "Advanced Biostatistics and statistical computing",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9518",
+        "title": "Advanced Epidemiology",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9522",
+        "title": "Politics, Surveillance and Public Health",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9604",
+        "title": "Tobacco, Alcohol and Illicit Drugs",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9605",
+        "title": "International Health",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9606",
+        "title": "Reproductive, Maternal and Children's Health",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9612",
+        "title": "Environmental Health",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9615",
+        "title": "Principles and Practice of Primary Health Care",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9617",
+        "title": "Contemporary Issues in Ageing",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9622",
+        "title": "The Global HIV Epidemic: Social Aspects and Impacts",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9628",
+        "title": "Health Impact Assessment",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9630",
+        "title": "Public Health Perspectives of Indigenous Health",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9662",
+        "title": "Health Aspects of Crises, Emergencies and Disasters",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9701",
+        "title": "Health Leadership and Workforce Management",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9748",
+        "title": "Clinical Governance and Risk Management",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9761",
+        "title": "Public Health Aspects of Mental Health",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9781",
+        "title": "Evidence-informed Decision-making",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9782",
+        "title": "Infectious Diseases Challenges: Epidemiology and Control",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9784",
+        "title": "Tropical Disease Control",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9785",
+        "title": "Predictive modelling in public health",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9786",
+        "title": "Global Approaches to Cardiovascular Disease, Diabetes and Cancer Prevention",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9787",
+        "title": "Infection Prevention and Control in the Healthcare Setting",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9788",
+        "title": "Outbreak Investigation and Intelligence",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9789",
+        "title": "Bioterrorism and Health Intelligence",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9790",
+        "title": "Digital Health- Principles, Practice and Evidence",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9001",
+        "title": "PhD Research Thesis Full-Time",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9002",
+        "title": "PhD Research Thesis Part-Time",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9005",
+        "title": "Research Thesis Dr Public Health Full-Time",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9006",
+        "title": "Research Thesis Dr Public Health Part-Time",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9007",
+        "title": "Master of Philosophy Full Time",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9008",
+        "title": "Master of Philosophy Part Time",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9200",
+        "title": "Masters Research Thesis Full-Time",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9201",
+        "title": "Masters Research Thesis Part-Time",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9820",
+        "title": "Future Health Leaders Workshop A",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHCM9821",
+        "title": "Future Health Leaders Workshop B",
+        "subject": "PHCM"
+    },
+    {
+        "code": "PHIL8301",
+        "title": "Masters Program by Coursework and Research Full-Time",
+        "subject": "PHIL"
+    },
+    {
+        "code": "PHOP9012",
+        "title": "Health Promotion and Social Perspectives of Health",
+        "subject": "PHOP"
+    },
+    {
+        "code": "PHOP9143",
+        "title": "Internship",
+        "subject": "PHOP"
+    },
+    {
+        "code": "PHOP9606",
+        "title": "Reproductive Maternal and Children's Health",
+        "subject": "PHOP"
+    },
+    {
+        "code": "PHOP9748",
+        "title": "Clinical Governance and Risk Management",
+        "subject": "PHOP"
+    },
+    {
+        "code": "PHSL2101",
+        "title": "Physiology 1A",
+        "subject": "PHSL"
+    },
+    {
+        "code": "PHSL2121",
+        "title": "Principles of Physiology A",
+        "subject": "PHSL"
+    },
+    {
+        "code": "PHSL2201",
+        "title": "Physiology 1B",
+        "subject": "PHSL"
+    },
+    {
+        "code": "PHSL2221",
+        "title": "Principles of Physiology B",
+        "subject": "PHSL"
+    },
+    {
+        "code": "PHSL2501",
+        "title": "Human Physiology A",
+        "subject": "PHSL"
+    },
+    {
+        "code": "PHSL2502",
+        "title": "Human Physiology B",
+        "subject": "PHSL"
+    },
+    {
+        "code": "PHSL3211",
+        "title": "Cardiovascular Physiology and Pathophysiology",
+        "subject": "PHSL"
+    },
+    {
+        "code": "PHSL3221",
+        "title": "Endocrine, Reproductive and Developmental Physiology",
+        "subject": "PHSL"
+    },
+    {
+        "code": "PHTN4661",
+        "title": "Optical Circuits and Fibres",
+        "subject": "PHTN"
+    },
+    {
+        "code": "PHTN4662",
+        "title": "Photonic Networks",
+        "subject": "PHTN"
+    },
+    {
+        "code": "PHTN4661",
+        "title": "Optical Circuits and Fibres",
+        "subject": "PHTN"
+    },
+    {
+        "code": "PHTN4662",
+        "title": "Photonic Networks",
+        "subject": "PHTN"
+    },
+    {
+        "code": "PHYS1110",
+        "title": "Everyday Physics",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS1111",
+        "title": "Fundamentals of Physics",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS1121",
+        "title": "Physics 1A",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS1131",
+        "title": "Higher Physics 1A",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS1141",
+        "title": "Higher Physics 1A (Special)",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS1149",
+        "title": "Physics 1A (Aviation)",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS1160",
+        "title": "Introduction to Astronomy",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS1200",
+        "title": "Step into Research",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS1211",
+        "title": "Energy and Environmental Physics",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS1221",
+        "title": "Physics 1B",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS1231",
+        "title": "Higher Physics 1B",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS1241",
+        "title": "Higher Physics 1B (Special)",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS2111",
+        "title": "Quantum Physics",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS2113",
+        "title": "Classical Mechanics and Special Relativity",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS2114",
+        "title": "Electromagnetism",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS2801",
+        "title": "Fundamentals of Atmospheric Science",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS3111",
+        "title": "Quantum Mechanics",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS3112",
+        "title": "Experimental and Computational Physics",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS3113",
+        "title": "Thermal Physics and Statistical Mechanics",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS3114",
+        "title": "Electrodynamics",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS3115",
+        "title": "Particle Physics and the Early Universe",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS3116",
+        "title": "Astrophysics",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS3117",
+        "title": "Physics Laboratory",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS3118",
+        "title": "Quantum Physics of Solids and Devices",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS4141",
+        "title": "Quantum Mechanics (Honours)",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS4142",
+        "title": "Statistical Physics (Honours)",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS4143",
+        "title": "Topics in Contemporary Physics",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS4144",
+        "title": "Physics Honours Research A",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS4145",
+        "title": "Physics Honours Research B",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS4146",
+        "title": "Physics Honours Research C",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS4200",
+        "title": "Physics Research Project",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS6143",
+        "title": "Contemporary Physics A",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS9010",
+        "title": "Quantum Technologies and Applications",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS9110",
+        "title": "Everyday Physics for Teachers",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS9120",
+        "title": "Mechanics for Teachers",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS9130",
+        "title": "Electromagnetism for Teachers",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS9140",
+        "title": "Modern and Thermal Physics for Teachers",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS9103",
+        "title": "Research Thesis Physics Full-Time",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PHYS9113",
+        "title": "Research Thesis Physics Part-Time",
+        "subject": "PHYS"
+    },
+    {
+        "code": "PLAN0081",
+        "title": "Work Experience",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN0082",
+        "title": "Work Experience",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN1001",
+        "title": "Introduction to Planning",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN1002",
+        "title": "Sustainability and Environment",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN1003",
+        "title": "Urban Society, History, Theory",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN1004",
+        "title": "City and Regional Economics",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN1007",
+        "title": "Development Processes: Feasibility and Finance",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN2001",
+        "title": "Strategic Planning",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN2002",
+        "title": "Geographical Information Systems and Urban Informatics",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN2003",
+        "title": "Urban Design",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN2004",
+        "title": "Equitable Cities",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN2005",
+        "title": "Planning Law & Administration",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN2006",
+        "title": "Urban Management and Development Assessment",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN2007",
+        "title": "City Building: Transport and Infrastructure",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN2122",
+        "title": "History, Heritage and the Built Environment",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN3001",
+        "title": "Practice: Communication, Participation, Engagement",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN3002",
+        "title": "Practice: Building, Using Evidence",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN3003",
+        "title": "Practice: Professionalism, Ethics, Politics",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN3004",
+        "title": "Practice: Development",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN3005",
+        "title": "Practice: Governance and Policy",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN4001",
+        "title": "Research Design",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN4002",
+        "title": "Plan Making Studio",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN4003",
+        "title": "Planning Thesis",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN7140",
+        "title": "Land and Environment Law",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN7141",
+        "title": "Land Use Policy and Practice",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN7142",
+        "title": "City Equity and Wellbeing",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN7143",
+        "title": "Urban Design",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN7145",
+        "title": "City Building - Infrastructure Planning",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN7146",
+        "title": "City Economics, Urban Development and Finance",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN7147",
+        "title": "Planning Techniques and Analysis",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN7148",
+        "title": "Strategic Spatial Planning",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN7149",
+        "title": "Planning Thesis",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN7156",
+        "title": "Housing Policy and Finance",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLAN7157",
+        "title": "Engaging Communities",
+        "subject": "PLAN"
+    },
+    {
+        "code": "PLTX1020",
+        "title": "Skills in Practice",
+        "subject": "PLTX"
+    },
+    {
+        "code": "PLTX1040",
+        "title": "Values in Practice",
+        "subject": "PLTX"
+    },
+    {
+        "code": "PLTX1060",
+        "title": "Litigation Practice",
+        "subject": "PLTX"
+    },
+    {
+        "code": "PLTX1080",
+        "title": "Transactional Practice",
+        "subject": "PLTX"
+    },
+    {
+        "code": "PLTX1120",
+        "title": "Administrative Law Practice",
+        "subject": "PLTX"
+    },
+    {
+        "code": "PLTX1150",
+        "title": "Banking and Finance",
+        "subject": "PLTX"
+    },
+    {
+        "code": "PLTX1180",
+        "title": "Criminal Law Practice",
+        "subject": "PLTX"
+    },
+    {
+        "code": "PLTX1210",
+        "title": "Family Law Practice",
+        "subject": "PLTX"
+    },
+    {
+        "code": "PLTX1240",
+        "title": "Employment and Industrial Relations Practice",
+        "subject": "PLTX"
+    },
+    {
+        "code": "PLTX1270",
+        "title": "Wills and Estates Practice",
+        "subject": "PLTX"
+    },
+    {
+        "code": "PLTX1300",
+        "title": "Workplace Experience 1",
+        "subject": "PLTX"
+    },
+    {
+        "code": "PLTX2020",
+        "title": "Workplace Experience 2",
+        "subject": "PLTX"
+    },
+    {
+        "code": "PLTX2040",
+        "title": "Practicum",
+        "subject": "PLTX"
+    },
+    {
+        "code": "POLS5100",
+        "title": "International Relations Internship",
+        "subject": "POLS"
+    },
+    {
+        "code": "POLS5102",
+        "title": "Key Issues in Australian Foreign Policy",
+        "subject": "POLS"
+    },
+    {
+        "code": "POLS5120",
+        "title": "Global Politics: The Globalisation of World Politics",
+        "subject": "POLS"
+    },
+    {
+        "code": "POLS5121",
+        "title": "International Organisations and Global Politics",
+        "subject": "POLS"
+    },
+    {
+        "code": "POLS5122",
+        "title": "The International Political Economy",
+        "subject": "POLS"
+    },
+    {
+        "code": "POLS5125",
+        "title": "The Politics of International Law",
+        "subject": "POLS"
+    },
+    {
+        "code": "POLS5127",
+        "title": "China and Asia-Pacific Security",
+        "subject": "POLS"
+    },
+    {
+        "code": "POLS5129",
+        "title": "The Foreign Policies of the Great Powers",
+        "subject": "POLS"
+    },
+    {
+        "code": "POLS5130",
+        "title": "International Peace and Security",
+        "subject": "POLS"
+    },
+    {
+        "code": "POLS5131",
+        "title": "Insurgency, Terrorism and Political Violence",
+        "subject": "POLS"
+    },
+    {
+        "code": "POLS5161",
+        "title": "Developing Countries and the International System",
+        "subject": "POLS"
+    },
+    {
+        "code": "POLS8301",
+        "title": "Masters Program by Coursework and Research Full-Time",
+        "subject": "POLS"
+    },
+    {
+        "code": "POLS8302",
+        "title": "Masters Program by Coursework and Research Part-Time",
+        "subject": "POLS"
+    },
+    {
+        "code": "POLY3000",
+        "title": "Polymer Science",
+        "subject": "POLY"
+    },
+    {
+        "code": "PPEC1001",
+        "title": "Introduction to Politics, Philosophy and Economics",
+        "subject": "PPEC"
+    },
+    {
+        "code": "PPEC2001",
+        "title": "Politics and the Market",
+        "subject": "PPEC"
+    },
+    {
+        "code": "PSCY9901",
+        "title": "Law and Mental Health",
+        "subject": "PSCY"
+    },
+    {
+        "code": "PSCY9904",
+        "title": "Administration, Institutions and Services",
+        "subject": "PSCY"
+    },
+    {
+        "code": "PSCY9911",
+        "title": "Mental Disorders, Personality Disorders & Crime",
+        "subject": "PSCY"
+    },
+    {
+        "code": "PSCY9912",
+        "title": "Substance Use Problems and Offending",
+        "subject": "PSCY"
+    },
+    {
+        "code": "PSCY9914",
+        "title": "Families, Children and Adolescents",
+        "subject": "PSCY"
+    },
+    {
+        "code": "PSYC1001",
+        "title": "Psychology 1A",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC1011",
+        "title": "Psychology 1B",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC1021",
+        "title": "Introduction to Psychological Applications",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC1022",
+        "title": "The Psychology of Addiction",
+        "subject": "PSYC"
+    },
+    {
+        "code": "PSYC1023",
+        "title": "Abnormal Psychology",
+        "subject": "PSYC"
+    }
+]

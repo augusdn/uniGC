@@ -1,0 +1,2452 @@
+[
+    {
+        "code": "COMM5714",
+        "title": "Social Impact Capstone",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM5902",
+        "title": "Leadership for Social Impact",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM8100",
+        "title": "Foundations of Business Research",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM8101",
+        "title": "Statistical Methods for Business Research",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM8102",
+        "title": "Econometric Analysis",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM8103",
+        "title": "Business Research Project Seminar",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM8001",
+        "title": "Introduction to Qualitative Research Design and Methods",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM8002",
+        "title": "Advanced Quantitative Research Design and Methods",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMM8003",
+        "title": "Advanced Qualitative Research Design and Methods",
+        "subject": "COMM"
+    },
+    {
+        "code": "COMP1000",
+        "title": "Introduction to World Wide Web, Spreadsheets and Databases",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP1010",
+        "title": "The Art of Computing",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP1511",
+        "title": "Programming Fundamentals",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP1521",
+        "title": "Computer Systems Fundamentals",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP1531",
+        "title": "Software Engineering Fundamentals",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP1911",
+        "title": "Computing 1A",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP2041",
+        "title": "Software Construction: Techniques and Tools",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP2111",
+        "title": "System Modelling and Design",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP2121",
+        "title": "Microprocessors and Interfacing",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP2511",
+        "title": "Object-Oriented Design and Programming",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP2521",
+        "title": "Data Structures and Algorithms",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP3121",
+        "title": "Algorithms and Programming Techniques",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP3131",
+        "title": "Programming Languages and Compilers",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP3141",
+        "title": "Software System Design and Implementation",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP3151",
+        "title": "Foundations of Concurrency",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP3153",
+        "title": "Algorithmic Verification",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP3161",
+        "title": "Concepts of Programming Languages",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP3211",
+        "title": "Computer Architecture",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP3222",
+        "title": "Digital Circuits and Systems",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP3231",
+        "title": "Operating Systems",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP3311",
+        "title": "Database Systems",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP3331",
+        "title": "Computer Networks and Applications",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP3411",
+        "title": "Artificial Intelligence",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP3431",
+        "title": "Robotic Software Architecture",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP3511",
+        "title": "Human Computer Interaction",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP3601",
+        "title": "Design Project A",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP3821",
+        "title": "Extended Algorithms and Programming Techniques",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP3891",
+        "title": "Extended Operating Systems",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP3900",
+        "title": "Computer Science Project",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP3901",
+        "title": "Special Project A",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP3902",
+        "title": "Special Project B",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4121",
+        "title": "Advanced and Parallel Algorithms",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4128",
+        "title": "Programming Challenges",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4141",
+        "title": "Theory of Computation",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4161",
+        "title": "Advanced Topics in Software Verification",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4336",
+        "title": "Mobile Data Networking",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4337",
+        "title": "Securing Fixed and Wireless Networks",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4418",
+        "title": "Knowledge Representation and Reasoning",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4511",
+        "title": "User Interface Design and Construction",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4601",
+        "title": "Design Project B",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4920",
+        "title": "Management and Ethics",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4951",
+        "title": "Research Thesis A",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4952",
+        "title": "Research Thesis B",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4953",
+        "title": "Research Thesis C",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4961",
+        "title": "Computer Science Thesis A",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4962",
+        "title": "Computer Science Thesis B",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4963",
+        "title": "Computer Science Thesis C",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6080",
+        "title": "Web Front-end Programming",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6324",
+        "title": "Internet of Things Service Design and Engineering",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6441",
+        "title": "Security Engineering and Cyber Security",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6443",
+        "title": "Web Application Security and Testing",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6445",
+        "title": "Digital Forensics",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6447",
+        "title": "System and Software Security Assessment",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6448",
+        "title": "Security Engineering Masterclass",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6452",
+        "title": "Software Architecture for Blockchain Applications",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6714",
+        "title": "Information Retrieval and Web Search",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6721",
+        "title": "(In-)Formal Methods: The Lost Art",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6733",
+        "title": "Internet of Things Experimental Design Studio",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6741",
+        "title": "Parameterized and Exact Computation",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6752",
+        "title": "Modelling Concurrent Systems",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6771",
+        "title": "Advanced C++ Programming",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6841",
+        "title": "Extended Security Engineering and Cyber Security",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6843",
+        "title": "Extended Web Application Security and Testing",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6845",
+        "title": "Extended Digital Forensics and Incident Response",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9242",
+        "title": "Advanced Operating Systems",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9243",
+        "title": "Distributed Systems",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9301",
+        "title": "Cyber Security Project",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9302",
+        "title": "Cyber Security Project B",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9313",
+        "title": "Big Data Management",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9315",
+        "title": "Database Systems Implementation",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9318",
+        "title": "Data Warehousing and Data Mining",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9319",
+        "title": "Web Data Compression and Search",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9321",
+        "title": "Data Services Engineering",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9322",
+        "title": "Software Service Design and Engineering",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9323",
+        "title": "Software as a Service Project",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9332",
+        "title": "Network Routing and Switching",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9417",
+        "title": "Machine Learning and Data Mining",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9418",
+        "title": "Advanced Topics in Statistical Machine Learning",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9444",
+        "title": "Neural Networks and Deep Learning",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9447",
+        "title": "Security Engineering Workshop",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9517",
+        "title": "Computer Vision",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9844",
+        "title": "Extended Neural Networks and Deep Learning",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4121",
+        "title": "Advanced and Parallel Algorithms",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4141",
+        "title": "Theory of Computation",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4161",
+        "title": "Advanced Topics in Software Verification",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4418",
+        "title": "Knowledge Representation and Reasoning",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP4511",
+        "title": "User Interface Design and Construction",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6080",
+        "title": "Web Front-end Programming",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6324",
+        "title": "Internet of Things Service Design and Engineering",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6441",
+        "title": "Security Engineering and Cyber Security",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6443",
+        "title": "Web Application Security and Testing",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6445",
+        "title": "Digital Forensics",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6447",
+        "title": "System and Software Security Assessment",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6448",
+        "title": "Security Engineering Masterclass",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6452",
+        "title": "Software Architecture for Blockchain Applications",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6714",
+        "title": "Information Retrieval and Web Search",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6721",
+        "title": "(In-)Formal Methods: The Lost Art",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6733",
+        "title": "Internet of Things Experimental Design Studio",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6741",
+        "title": "Parameterized and Exact Computation",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6752",
+        "title": "Modelling Concurrent Systems",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6771",
+        "title": "Advanced C++ Programming",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6841",
+        "title": "Extended Security Engineering and Cyber Security",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6843",
+        "title": "Extended Web Application Security and Testing",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP6845",
+        "title": "Extended Digital Forensics and Incident Response",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9020",
+        "title": "Foundations of Computer Science",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9021",
+        "title": "Principles of Programming",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9024",
+        "title": "Data Structures and Algorithms",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9032",
+        "title": "Microprocessors and Interfacing",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9044",
+        "title": "Software Construction: Techniques and Tools",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9101",
+        "title": "Design and Analysis of Algorithms",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9102",
+        "title": "Programming Languages and Compilers",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9153",
+        "title": "Algorithmic Verification",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9154",
+        "title": "Foundations of Concurrency",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9164",
+        "title": "Concepts of Programming Languages",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9201",
+        "title": "Operating Systems",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9211",
+        "title": "Computer Architecture",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9222",
+        "title": "Digital Circuits and Systems",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9242",
+        "title": "Advanced Operating Systems",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9243",
+        "title": "Distributed Systems",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9283",
+        "title": "Extended Operating Systems",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9301",
+        "title": "Cyber Security Project",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9302",
+        "title": "Cyber Security Project B",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9311",
+        "title": "Database Systems",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9313",
+        "title": "Big Data Management",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9315",
+        "title": "Database Systems Implementation",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9318",
+        "title": "Data Warehousing and Data Mining",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9319",
+        "title": "Web Data Compression and Search",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9321",
+        "title": "Data Services Engineering",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9322",
+        "title": "Software Service Design and Engineering",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9323",
+        "title": "Software as a Service Project",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9331",
+        "title": "Computer Networks and Applications",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9332",
+        "title": "Network Routing and Switching",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9336",
+        "title": "Mobile Data Networking",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9337",
+        "title": "Securing Fixed and Wireless Networks",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9414",
+        "title": "Artificial Intelligence",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9417",
+        "title": "Machine Learning and Data Mining",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9418",
+        "title": "Advanced Topics in Statistical Machine Learning",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9434",
+        "title": "Robotic Software Architecture",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9444",
+        "title": "Neural Networks and Deep Learning",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9447",
+        "title": "Security Engineering Workshop",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9511",
+        "title": "Human Computer Interaction",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9517",
+        "title": "Computer Vision",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9596",
+        "title": "Research Project",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9801",
+        "title": "Extended Design and Analysis of Algorithms",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9814",
+        "title": "Extended Artificial Intelligence",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9844",
+        "title": "Extended Neural Networks and Deep Learning",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9900",
+        "title": "Information Technology Project",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9991",
+        "title": "Research Project A",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9992",
+        "title": "Research Project B",
+        "subject": "COMP"
+    },
+    {
+        "code": "COMP9993",
+        "title": "Research Project C",
+        "subject": "COMP"
+    },
+    {
+        "code": "CONS0002",
+        "title": "Management of Construction Organisations",
+        "subject": "CONS"
+    },
+    {
+        "code": "CONS0005",
+        "title": "Construction Informatics",
+        "subject": "CONS"
+    },
+    {
+        "code": "CONS0009",
+        "title": "Construction Planning and Control",
+        "subject": "CONS"
+    },
+    {
+        "code": "CONS0010",
+        "title": "Construction Contract Administration",
+        "subject": "CONS"
+    },
+    {
+        "code": "CONS0013",
+        "title": "Construction Management Theory and Practice",
+        "subject": "CONS"
+    },
+    {
+        "code": "CONS0016",
+        "title": "Construction Risk Management and Business Analytics",
+        "subject": "CONS"
+    },
+    {
+        "code": "CONS0023",
+        "title": "Construction Cost and Value Management",
+        "subject": "CONS"
+    },
+    {
+        "code": "CONS0025",
+        "title": "Infrastructure Planning, Procurement and Finance",
+        "subject": "CONS"
+    },
+    {
+        "code": "CRIM1010",
+        "title": "Criminology: An Introduction",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM1011",
+        "title": "Introduction to Criminal Justice",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM2014",
+        "title": "Issues in Policing",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM2020",
+        "title": "Criminal Law and Justice 1",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM2021",
+        "title": "Criminal Law and Justice 2",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM2031",
+        "title": "Indigenous Perspective in Criminal Justice",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM2034",
+        "title": "Crime, Politics and the Media",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM2036",
+        "title": "Prison and Punishment: Introduction to Penology",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM2037",
+        "title": "Explaining Punishment",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM2038",
+        "title": "Young People and Juvenile Justice",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM2041",
+        "title": "Crime and Punishment in Historical Perspective",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM2042",
+        "title": "Explaining Crime",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM3000",
+        "title": "Criminology in Practice",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM3011",
+        "title": "Crime Prevention Policy",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM3019",
+        "title": "Restorative Justice",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM3020",
+        "title": "The Criminal Trial",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM3022",
+        "title": "Public Health and Corrections",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM3024",
+        "title": "Issues in Drug Policy",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM3025",
+        "title": "Criminology Work Integrated Learning Placement",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM4001",
+        "title": "Criminology Honours",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM4002",
+        "title": "Criminology Honours",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRIM4003",
+        "title": "Criminology Honours",
+        "subject": "CRIM"
+    },
+    {
+        "code": "CRTV9000",
+        "title": "PhD Thesis CRTV Full Time",
+        "subject": "CRTV"
+    },
+    {
+        "code": "CRTV9050",
+        "title": "PhD Thesis CRTV Part Time",
+        "subject": "CRTV"
+    },
+    {
+        "code": "CVEN1701",
+        "title": "Environmental Principles and Systems",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN2002",
+        "title": "Civil and Environmental Engineering Computations",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN2101",
+        "title": "Engineering Construction",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN2303",
+        "title": "Structural Analysis and Modelling",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN2401",
+        "title": "Sustainable Transport and Highway Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN2402",
+        "title": "Transport Engineering and Environmental Sustainability",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN2701",
+        "title": "Water and Atmospheric Chemistry",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN3031",
+        "title": "Civil and Environmental Engineering Practice",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN3101",
+        "title": "Engineering Operations and Control",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN3202",
+        "title": "Soil Mechanics",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN3203",
+        "title": " Applied Geotechnics and Engineering Geology",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN3303",
+        "title": "Steel Structures",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN3304",
+        "title": "Concrete Structures",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN3501",
+        "title": "Water Resources Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN3502",
+        "title": "Water and Wastewater Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN3701",
+        "title": "Environmental Frameworks, Law and Economics",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN3702",
+        "title": "Solid Wastes and Contaminant Transport",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4002",
+        "title": "Design Practice A",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4003",
+        "title": "Design Practice B",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4032",
+        "title": "Higher Honours Thesis A",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4033",
+        "title": "Higher Honours Thesis B",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4050",
+        "title": "Thesis A",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4051",
+        "title": "Thesis B",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4102",
+        "title": "Operations and Projects",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4103",
+        "title": "Engineering Contracts",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4104",
+        "title": "Sustainability in Construction",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4106",
+        "title": "Construction Practicum",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4201",
+        "title": "Rock and Slope Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4202",
+        "title": "Advanced Topics in Geotechnical Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4204",
+        "title": "Ground Improvement and Monitoring Techniques",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4300",
+        "title": "Structures Practicum",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4301",
+        "title": "Advanced Concrete Structures",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4308",
+        "title": "Structural Dynamics",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4309",
+        "title": "Sustainable Timber Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4402",
+        "title": "Transport Systems - Part 1: Network Analysis",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4404",
+        "title": "Fundamentals of Traffic Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4405",
+        "title": "Human Factors in Civil and Transport Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4503",
+        "title": "Groundwater Resource Investigation",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4504",
+        "title": "Advanced Water and Wastewater Treatment",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4507",
+        "title": "Advanced Water Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4701",
+        "title": "Planning Sustainable Infrastructure",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4703",
+        "title": "Advanced Water Quality Principles",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4705",
+        "title": "Environmental Sustainability - Methods, Tools, Management",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4800",
+        "title": "Satellite Remote Sensing and Applications",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4951",
+        "title": "Research Thesis A",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4952",
+        "title": "Research Thesis B",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4953",
+        "title": "Research Thesis C",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9405",
+        "title": "Urban Transport Planning Practice",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9415",
+        "title": "Transport Systems Part 2",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9612",
+        "title": "Catchment and Water Resources Modelling",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9620",
+        "title": "Channels, Rivers and Estuaries",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9640",
+        "title": "Coastal Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9806",
+        "title": "Prestressed Concrete Design",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9809",
+        "title": "Reinforced Concrete Design",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9820",
+        "title": "Computational Structural Mechanics",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9822",
+        "title": "Steel and Composite Structures",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9824",
+        "title": "Advanced Materials Technology",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9826",
+        "title": "Advanced Mechanics of Structures and Materials",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9840",
+        "title": "Structural Health Monitoring Fundamentals and Practices",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9881",
+        "title": "Hazardous Waste Management",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9884",
+        "title": "Environmental Chemical and Microbial Processes",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN3303",
+        "title": "Steel Structures",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN3304",
+        "title": "Concrete Structures",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN3701",
+        "title": "Environmental Frameworks, Law and Economics",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4102",
+        "title": "Operations and Projects",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4103",
+        "title": "Engineering Contracts",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4104",
+        "title": "Sustainability in Construction",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4201",
+        "title": "Rock and Slope Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4202",
+        "title": "Advanced Topics in Geotechnical Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4204",
+        "title": "Ground Improvement and Monitoring Techniques",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4301",
+        "title": "Advanced Concrete Structures",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4308",
+        "title": "Structural Dynamics",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4309",
+        "title": "Sustainable Timber Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4402",
+        "title": "Transport Systems - Part 1: Network Analysis",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4404",
+        "title": "Fundamentals of Traffic Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4503",
+        "title": "Groundwater Resource Investigation",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4507",
+        "title": "Advanced Water Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4703",
+        "title": "Advanced Water Quality Principles",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4705",
+        "title": "Environmental Sustainability - Methods, Tools, Management",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN4800",
+        "title": "Satellite Remote Sensing and Applications",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9000",
+        "title": "Civil Engineering Design Practice",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9050",
+        "title": "Masters Practice Project A",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9051",
+        "title": "Masters Practice Project B",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9405",
+        "title": "Urban Transport Planning Practice",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9407",
+        "title": "Transport Modelling",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9415",
+        "title": "Transport Systems Part 2",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9421",
+        "title": "Transport Logistics Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9422",
+        "title": "Traffic Management and Control",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9451",
+        "title": "Masters Project A",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9452",
+        "title": "Masters Project B",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9453",
+        "title": "Masters Project C",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9511",
+        "title": "Geotechnical Models and Site Investigation",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9512",
+        "title": "Geomechanics",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9513",
+        "title": "Advanced Foundation Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9521",
+        "title": "Slope Instability and Stabilisation",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9522",
+        "title": "Rock Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9525",
+        "title": "Fundamentals of Geomechanics",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9531",
+        "title": "Unsaturated Soil Mechanics",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9611",
+        "title": "Urban Hydrology and Stormwater Management",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9612",
+        "title": "Catchment and Water Resources Modelling",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9620",
+        "title": "Channels, Rivers and Estuaries",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9625",
+        "title": "Fundamentals of Water Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9630",
+        "title": "Groundwater Hydrology and Resources Analysis",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9640",
+        "title": "Coastal Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9701",
+        "title": "Engineering Economics and Financial Management",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9702",
+        "title": "Project Planning and Control",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9710",
+        "title": "Management of Risk",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9723",
+        "title": "Design of Construction Operations",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9731",
+        "title": "Project Management Framework",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9743",
+        "title": "Construction Engineering Practices",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9744",
+        "title": "Civil Engineering Practices",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9802",
+        "title": "Structural Stability",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9806",
+        "title": "Prestressed Concrete Design",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9809",
+        "title": "Reinforced Concrete Design",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9820",
+        "title": "Computational Structural Mechanics",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9822",
+        "title": "Steel and Composite Structures",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9824",
+        "title": "Advanced Materials Technology",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9826",
+        "title": "Advanced Mechanics of Structures and Materials",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9840",
+        "title": "Structural Health Monitoring Fundamentals and Practices",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9855",
+        "title": "Water and Wastewater Analysis and Quality Requirements",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9856",
+        "title": "Water Treatment",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9857",
+        "title": "Wastewater Treatment",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9872",
+        "title": "Solid Waste Management",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9881",
+        "title": "Hazardous Waste Management",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9884",
+        "title": "Environmental Chemical and Microbial Processes",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9885",
+        "title": "Transport and Transformation of Contaminants",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9888",
+        "title": "Environmental Management",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9892",
+        "title": "Sustainability Assessment and Risk Analysis",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9898",
+        "title": "Fundamentals of Sustainable Infrastructure",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9901",
+        "title": "Special Topic in Civil and Environmental Engineering",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9950",
+        "title": "Extension Masters Thesis",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN0008",
+        "title": "Full Time Research Thesis Civil and Environmental",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN0088",
+        "title": "Research Thesis Civil and Environmental Engineering Part-Time",
+        "subject": "CVEN"
+    },
+    {
+        "code": "CVEN9826",
+        "title": "Advanced Mechanics of Structures and Materials",
+        "subject": "CVEN"
+    },
+    {
+        "code": "DATA1001",
+        "title": "Introduction to Data Science and Decisions",
+        "subject": "DATA"
+    },
+    {
+        "code": "DATA2299",
+        "title": "Data Science Internship 2 (Co-Op)",
+        "subject": "DATA"
+    },
+    {
+        "code": "DATA3001",
+        "title": "Data Science and Decisions in Practice",
+        "subject": "DATA"
+    },
+    {
+        "code": "DATA3199",
+        "title": "Data Science Industrial Placement 3B (Co-Op)",
+        "subject": "DATA"
+    },
+    {
+        "code": "DATA3299",
+        "title": "Data Science Internship 3 (Co-Op)",
+        "subject": "DATA"
+    },
+    {
+        "code": "DESN2000",
+        "title": "Engineering Design and Professional Practice",
+        "subject": "DESN"
+    },
+    {
+        "code": "DPBS1101",
+        "title": "Microeconomics 1",
+        "subject": "DPBS"
+    },
+    {
+        "code": "DPBS1203",
+        "title": "Business and Economic Statistics",
+        "subject": "DPBS"
+    },
+    {
+        "code": "DPGE1001",
+        "title": "Communication and Academic Literacy 1",
+        "subject": "DPGE"
+    },
+    {
+        "code": "DPGE1002",
+        "title": "Communication and Academic Literacy 2",
+        "subject": "DPGE"
+    },
+    {
+        "code": "DPGE1003",
+        "title": "Communication and Academic Literacy 3",
+        "subject": "DPGE"
+    },
+    {
+        "code": "DPST1013",
+        "title": "Mathematics 1A",
+        "subject": "DPST"
+    },
+    {
+        "code": "DPST1014",
+        "title": "Mathematics 1B",
+        "subject": "DPST"
+    },
+    {
+        "code": "DPST1021",
+        "title": "Physics 1A",
+        "subject": "DPST"
+    },
+    {
+        "code": "DPST1022",
+        "title": "Physics 1B",
+        "subject": "DPST"
+    },
+    {
+        "code": "DPST1023",
+        "title": "Higher Physics 1A",
+        "subject": "DPST"
+    },
+    {
+        "code": "DPST1024",
+        "title": "Higher Physics 1B",
+        "subject": "DPST"
+    },
+    {
+        "code": "DPST1031",
+        "title": "Chemistry A: Atoms, Molecules, and Energy",
+        "subject": "DPST"
+    },
+    {
+        "code": "DPST1032",
+        "title": "Chemistry B: Elements, Compounds and Life",
+        "subject": "DPST"
+    },
+    {
+        "code": "DPST1041",
+        "title": "Evolutionary and Functional Biology",
+        "subject": "DPST"
+    },
+    {
+        "code": "DPST1051",
+        "title": "Molecules, Cells and Genes",
+        "subject": "DPST"
+    },
+    {
+        "code": "DPST1052",
+        "title": "Applied Biomolecular Sciences",
+        "subject": "DPST"
+    },
+    {
+        "code": "DPST1061",
+        "title": "Design in Application of Materials in Science and Engineering",
+        "subject": "DPST"
+    },
+    {
+        "code": "DPST1071",
+        "title": "Introduction to Engineering Design and Innovation",
+        "subject": "DPST"
+    },
+    {
+        "code": "DPST1072",
+        "title": "Engineering Mechanics 1",
+        "subject": "DPST"
+    },
+    {
+        "code": "DPST1081",
+        "title": "Electrical and Telecommunications Engineering",
+        "subject": "DPST"
+    },
+    {
+        "code": "DPST1091",
+        "title": "Introduction to Programming",
+        "subject": "DPST"
+    },
+    {
+        "code": "DPST1092",
+        "title": "Computer Systems Fundamentals",
+        "subject": "DPST"
+    },
+    {
+        "code": "ECON1101",
+        "title": "Microeconomics 1",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON1102",
+        "title": "Macroeconomics 1",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON1107",
+        "title": "Elements of Environmental Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON1202",
+        "title": "Quantitative Analysis for Business and Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON1203",
+        "title": "Business and Economic Statistics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON1401",
+        "title": "Economic Perspectives",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON2101",
+        "title": "Microeconomics 2",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON2102",
+        "title": "Macroeconomics 2",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON2103",
+        "title": "Business and Government",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON2104",
+        "title": "Applied Macroeconomics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON2111",
+        "title": "Introduction to Economic Development",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON2112",
+        "title": "Game Theory and Business Strategy",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON2126",
+        "title": "Principles of Experimental and Behavioural Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON2127",
+        "title": "Environmental Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON2206",
+        "title": "Introductory Econometrics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON2209",
+        "title": "Business Forecasting",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON2403",
+        "title": "Empirical Methods",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON3101",
+        "title": "Markets and Frictions",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON3104",
+        "title": "International Macroeconomics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON3106",
+        "title": "Politics and Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON3107",
+        "title": "Economics of Finance",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON3109",
+        "title": "Economic Growth, Technology and Structural Change",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON3110",
+        "title": "Development Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON3114",
+        "title": "Superannuation and Retirement Benefits",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON3116",
+        "title": "International Trade Theory and Policy",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON3117",
+        "title": "Retirement Saving and Spending over the Lifecycle",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON3119",
+        "title": "Political Economy of Capitalism",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON3121",
+        "title": "Industrial Organisation",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON3123",
+        "title": "Organisational Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON3124",
+        "title": "Behavioural Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON3125",
+        "title": "Economics of Health and Human Capital",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON3130",
+        "title": "Real Estate Economics and Public Policy",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON3202",
+        "title": "Mathematical Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON3203",
+        "title": "Econometric Theory and Methods",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON3206",
+        "title": "Financial Econometrics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON3208",
+        "title": "Applied Econometric Methods",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON3209",
+        "title": "Statistics for Econometrics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4100",
+        "title": "Advanced Microeconomic Analysis",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4103",
+        "title": "Advanced Macroeconomic Analysis",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4106",
+        "title": "Policy Evaluation Methods",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4150",
+        "title": "Thesis (Business Economics) A",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4151",
+        "title": "Thesis (Business Economics) B",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4152",
+        "title": "Thesis (Business Economics) C",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4160",
+        "title": "Thesis (Economics) A",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4161",
+        "title": "Thesis (Economics) B",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4162",
+        "title": "Thesis (Economics) C",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4170",
+        "title": "Thesis (Econometrics) A",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4171",
+        "title": "Thesis (Econometrics) B",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4172",
+        "title": "Thesis (Econometrics) C",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4201",
+        "title": "Applied Macroeconometrics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4202",
+        "title": "Advanced Econometric Theory and Methods",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4205",
+        "title": "Microeconometrics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4208",
+        "title": "Applied Econometric Methods",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4301",
+        "title": "Industrial Organisation",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4302",
+        "title": "International Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4307",
+        "title": "Health Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4309",
+        "title": "Economic Measurement",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON4311",
+        "title": "Development and Political Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5103",
+        "title": "Business Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5106",
+        "title": "Economics of Finance",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5111",
+        "title": "Economics of Strategy",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5112",
+        "title": "Organisational Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5114",
+        "title": "Superannuation and Retirement Benefits",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5130",
+        "title": "Financial Systems and The Economy",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5136",
+        "title": "Retirement Saving and Spending over the Lifecycle",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5205",
+        "title": "Econometrics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5206",
+        "title": "Financial Econometrics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5248",
+        "title": "Business Forecasting",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5257",
+        "title": "Introductory Statistics and Data Analysis",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5300",
+        "title": "Advanced Microeconomic Analysis",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5301",
+        "title": "Markets and Frictions",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5304",
+        "title": "International Macroeconomics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5306",
+        "title": "Politics and Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5309",
+        "title": "Economic Growth, Technology and Structural Change",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5310",
+        "title": "Development Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5316",
+        "title": "International Trade Theory and Policy",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5319",
+        "title": "Political Economy of Capitalism",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5321",
+        "title": "Industrial Organisation",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5323",
+        "title": "Organisational Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5324",
+        "title": "Behavioural Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5330",
+        "title": "Real Estate Economics and Public Policy",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5402",
+        "title": "Mathematical Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5403",
+        "title": "Econometric Theory and Methods",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5408",
+        "title": "Applied Econometric Methods",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5409",
+        "title": "Statistics for Econometrics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON6001",
+        "title": "Microeconomic Theory I",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON6002",
+        "title": "Macroeconomic Theory I",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON6004",
+        "title": "Mathematical Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON6101",
+        "title": "Microeconomic Theory II",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON6102",
+        "title": "Macroeconomic Theory II",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON6201",
+        "title": "Advanced Econometric Theory and Methods",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON6202",
+        "title": "Policy Evaluation Methods",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON6203",
+        "title": "Macroeconometrics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON6205",
+        "title": "Microeconometrics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON6301",
+        "title": "Industrial Organisation",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON6307",
+        "title": "Health Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON6309",
+        "title": "Economic Measurement",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON6310",
+        "title": "Experimental and Behavioural Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON6313",
+        "title": "Public Economics and Regulation",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON6314",
+        "title": "Economic Development in China",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON7001",
+        "title": "Microeconomic Theory I",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON7002",
+        "title": "Macroeconomic Theory I",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON7004",
+        "title": "Mathematical Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON7101",
+        "title": "Microeconomic Theory II",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON7102",
+        "title": "Macroeconomic Theory II",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5000",
+        "title": "Research Economics Full-Time",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON5001",
+        "title": "Research Economics Part-Time",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON7204",
+        "title": "Macroeconometrics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON7205",
+        "title": "Microeconometrics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON7301",
+        "title": "Industrial Organisation",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON7307",
+        "title": "Health Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON7309",
+        "title": "Economic Measurement",
+        "subject": "ECON"
+    },
+    {
+        "code": "ECON7311",
+        "title": "Development and Political Economics",
+        "subject": "ECON"
+    },
+    {
+        "code": "EDST1101",
+        "title": "Educational Psychology",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST1104",
+        "title": "Social Perspectives in Education",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST1108",
+        "title": "Indigenous Perspectives in Education",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST2002",
+        "title": "Professional Engagement",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST2003",
+        "title": "Learning and Teaching: Language, Literacy and Numeracy",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST2032",
+        "title": "Critical Thinking and Education",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST2044",
+        "title": "Motivation in Learning and Teaching",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST2070",
+        "title": "Culture, Identity and Education",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST2091",
+        "title": "Digital Literacies in Learning and Teaching",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST2094",
+        "title": "Communication Skills for Teachers",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST4080",
+        "title": "Special Education: Inclusive Strategies",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST4084",
+        "title": "Managing the Classroom Environment",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST4096",
+        "title": "Responding to Gifted and Talented Students",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST4501",
+        "title": "Education Honours",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST4502",
+        "title": "Education Honours",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST4503",
+        "title": "Education Honours",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST4505",
+        "title": "Honours Research Methodology",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST4506",
+        "title": "Honours Seminar 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST4507",
+        "title": "Honours Seminar 2",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6700",
+        "title": "Chinese Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6701",
+        "title": "Drama Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6702",
+        "title": "English Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6704",
+        "title": "English as an Additional Language or Dialect Method 1",
+        "subject": "EDST"
+    },
+    {
+        "code": "EDST6705",
+        "title": "French Method 1",
+        "subject": "EDST"
+    }
+]

@@ -1,0 +1,2452 @@
+[
+    {
+        "code": "ACCT1501",
+        "title": "Accounting and Financial Management 1A",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT1511",
+        "title": "Accounting and Financial Management 1B",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT2101",
+        "title": "Industry Placement 1",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT2522",
+        "title": "Management Accounting 1",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT2542",
+        "title": "Corporate Financial Reporting and Analysis",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT2672",
+        "title": "Accounting Analytics for Business Decision Making",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT3202",
+        "title": "Industry Placement 2",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT3303",
+        "title": "Industry Placement 3",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT3563",
+        "title": "Issues in Financial Reporting and Analysis",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT3583",
+        "title": "Management Accounting 2",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT3601",
+        "title": "Global Financial Reporting and Analysis",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT3610",
+        "title": "Business Analysis and Valuation",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT3708",
+        "title": "Auditing and Assurance Services",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT4796",
+        "title": "Thesis (Accounting) A",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT4797",
+        "title": "Thesis (Accounting) B",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT4798",
+        "title": "Thesis (Accounting) C",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT4809",
+        "title": "Current Developments in Auditing Research",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT4851",
+        "title": "Current Developments in Accounting Research - Financial",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT4852",
+        "title": "Current Developments in Accounting Research - Managerial",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT4897",
+        "title": "Seminar in Research Methodology",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5906",
+        "title": "Financial Literacy for Business Decisions",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5907",
+        "title": "International Financial Statement Analysis",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5908",
+        "title": "Auditing and Assurance Services",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5909",
+        "title": "Current Developments in Auditing Research",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5910",
+        "title": "Business Analysis and Valuation",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5919",
+        "title": "Business Risk Management",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5920",
+        "title": "Managing Intangible Resources",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5925",
+        "title": "Integrated Reporting, Integrated Thinking and Value Creation",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5930",
+        "title": "Financial Accounting",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5931",
+        "title": "Strategic Management Accounting",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5942",
+        "title": "Corporate Accounting and Regulation",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5943",
+        "title": "Advanced Financial Reporting",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5949",
+        "title": "Managing Agile Organisations",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5951",
+        "title": "Current Developments in Accounting Research - Financial",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5952",
+        "title": "Current Developments in Accounting Research - Managerial",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5955",
+        "title": "Management Control Systems in Contemporary Contexts",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5961",
+        "title": "Reporting for Climate Change and Sustainability",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5967",
+        "title": "Special Topic in Accounting",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5996",
+        "title": "Management Accounting and Business Analysis",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5997",
+        "title": "Seminar in Research Methodology",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5998",
+        "title": "Project Seminar",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5999",
+        "title": "Project Report",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5000",
+        "title": "Research Accounting Full-Time",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5001",
+        "title": "Research Accounting Part-Time",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT5994",
+        "title": "Thesis Accounting (Full-time)",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACCT6001",
+        "title": "P/T Masters Research Thesis Accounting",
+        "subject": "ACCT"
+    },
+    {
+        "code": "ACTL1101",
+        "title": "Introduction to Actuarial Studies",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL2100",
+        "title": "Industrial Training 1 (Co-op)",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL2101",
+        "title": "Industry Placement 1",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL2102",
+        "title": "Foundations of Actuarial Models",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL2111",
+        "title": "Financial Mathematics for Actuaries",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL2131",
+        "title": "Probability and Mathematical Statistics",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL3141",
+        "title": "Actuarial Models and Statistics",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL3142",
+        "title": "Actuarial Data and Analysis",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL3151",
+        "title": "Life Contingencies",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL3162",
+        "title": "General Insurance Techniques",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL3182",
+        "title": "Asset-Liability and Derivative Models",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL3191",
+        "title": "Superannuation and Retirement Benefits",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL3192",
+        "title": "Retirement Saving and Spending Over the Lifecycle",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL3202",
+        "title": "Industry Placement 2",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL3303",
+        "title": "Industry Placement 3",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL4001",
+        "title": "Actuarial Theory and Practice A",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL4002",
+        "title": "Actuarial Theory and Practice B",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL4003",
+        "title": "Research Methods in Risk and Actuarial Studies",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL4010",
+        "title": "Thesis (Actuarial Studies) A",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL4011",
+        "title": "Thesis (Actuarial Studies) B",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL4012",
+        "title": "Thesis (Actuarial Studies) C",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL4301",
+        "title": "Models for Risk Management",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL4302",
+        "title": "Risk and Capital Management",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL4305",
+        "title": "Actuarial Data Analytic Applications",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL5002",
+        "title": "Superannuation and Retirement Benefits",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL5004",
+        "title": "Project Report - Actuarial Studies",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL5100",
+        "title": "Actuarial Theory and Practice  A",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL5101",
+        "title": "Probability and Statistics for Actuaries",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL5102",
+        "title": "Financial Mathematics",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL5103",
+        "title": "Stochastic Modelling for Actuaries",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL5104",
+        "title": "Actuarial Statistics",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL5105",
+        "title": "Life Insurance and Superannuation",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL5106",
+        "title": "Insurance Risk Models",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL5108",
+        "title": "Finance and Financial Reporting for Actuaries",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL5109",
+        "title": "Financial Economics for Insurance and Superannuation",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL5110",
+        "title": "Actuarial Data and Analysis",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL5200",
+        "title": "Actuarial Theory and Practice B",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL5301",
+        "title": "Models for Risk Management",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL5302",
+        "title": "Risk and Capital Management",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL5305",
+        "title": "Actuarial Data Analytic Applications",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL5306",
+        "title": "Retirement Saving and Spending over the Lifecycle",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL6105",
+        "title": "Advanced Topics in Risk and Actuarial Studies C",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL5000",
+        "title": "Thesis (Actuarial Studies)",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL5001",
+        "title": "Thesis (Part-Time) - Actuarial Studies",
+        "subject": "ACTL"
+    },
+    {
+        "code": "ACTL5003",
+        "title": "Research Methods in Risk and Actuarial Studies",
+        "subject": "ACTL"
+    },
+    {
+        "code": "AERO3110",
+        "title": "Aerospace Design 1",
+        "subject": "AERO"
+    },
+    {
+        "code": "AERO3410",
+        "title": "Aerospace Structures",
+        "subject": "AERO"
+    },
+    {
+        "code": "AERO3630",
+        "title": "Aerodynamics",
+        "subject": "AERO"
+    },
+    {
+        "code": "AERO3660",
+        "title": "Flight Performance and Propulsion",
+        "subject": "AERO"
+    },
+    {
+        "code": "AERO4110",
+        "title": "Aerospace Design 2",
+        "subject": "AERO"
+    },
+    {
+        "code": "AERO4620",
+        "title": "Dynamics of Aerospace Vehicles, Systems and Avionics",
+        "subject": "AERO"
+    },
+    {
+        "code": "AERO9500",
+        "title": "Space Systems Architectures and Orbits",
+        "subject": "AERO"
+    },
+    {
+        "code": "AERO9610",
+        "title": "The Space Segment",
+        "subject": "AERO"
+    },
+    {
+        "code": "AERO9660",
+        "title": "Advanced Aerospace Propulsion",
+        "subject": "AERO"
+    },
+    {
+        "code": "AERO9500",
+        "title": "Space Systems Architectures and Orbits",
+        "subject": "AERO"
+    },
+    {
+        "code": "AERO9610",
+        "title": "The Space Segment",
+        "subject": "AERO"
+    },
+    {
+        "code": "AERO9660",
+        "title": "Advanced Aerospace Propulsion",
+        "subject": "AERO"
+    },
+    {
+        "code": "AERO9000",
+        "title": "Research Thesis Aerospace Engineering (Full-Time)",
+        "subject": "AERO"
+    },
+    {
+        "code": "AERO9001",
+        "title": "Research Thesis Aerospace Engineering (Part-Time)",
+        "subject": "AERO"
+    },
+    {
+        "code": "ANAT1521",
+        "title": "Anatomy for Medical Science",
+        "subject": "ANAT"
+    },
+    {
+        "code": "ANAT2111",
+        "title": "Introductory Anatomy",
+        "subject": "ANAT"
+    },
+    {
+        "code": "ANAT2241",
+        "title": "Histology: Basic and Systematic",
+        "subject": "ANAT"
+    },
+    {
+        "code": "ANAT2341",
+        "title": "Embryology: Early and Systematic Development",
+        "subject": "ANAT"
+    },
+    {
+        "code": "ANAT2451",
+        "title": "Functional Anatomy for Health and Exercise Science",
+        "subject": "ANAT"
+    },
+    {
+        "code": "ANAT2511",
+        "title": "Fundamentals of Anatomy",
+        "subject": "ANAT"
+    },
+    {
+        "code": "ANAT2521",
+        "title": "Evolution of Human Structure",
+        "subject": "ANAT"
+    },
+    {
+        "code": "ANAT3121",
+        "title": "Visceral Anatomy",
+        "subject": "ANAT"
+    },
+    {
+        "code": "ANAT3131",
+        "title": "Functional Anatomy of the Head, Neck and Back",
+        "subject": "ANAT"
+    },
+    {
+        "code": "ANAT3141",
+        "title": "Functional Anatomy of the Limbs",
+        "subject": "ANAT"
+    },
+    {
+        "code": "ANAT3411",
+        "title": "Neuroanatomy",
+        "subject": "ANAT"
+    },
+    {
+        "code": "ARCH0006",
+        "title": "Special Program (Architecture)",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH1080",
+        "title": "Introduction to Architecture and Enabling Skills",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH1101",
+        "title": "Architectural Design Studio 1",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH1102",
+        "title": "Architectural Design Studio 2",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH1161",
+        "title": "Architectural Science and Building Environment 1",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH1162",
+        "title": "Construction and Structures 1",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH1201",
+        "title": "Architectural Design Studio 3",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH1203",
+        "title": "Architectural Design Studio 4",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH1222",
+        "title": "Architectural History and Theory 2",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH1261",
+        "title": "Construction and Structures 2",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH1302",
+        "title": "Architectural Design Studio 6",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH1311",
+        "title": "Architectural Design Studio 5",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH1322",
+        "title": "Architectural History and Theory 3",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH1331",
+        "title": "Architectural Fabrication",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH1361",
+        "title": "Architectural Science and Building Environment 2",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH1481",
+        "title": "Critical Review of Literature",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH1482",
+        "title": "Research Methods",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH1483",
+        "title": "Honours Thesis",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH2170",
+        "title": "Building Information Modelling",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7111",
+        "title": "Architectural Design Studio 1",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7112",
+        "title": "Integrated Design Studio",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7161",
+        "title": "Advanced Construction and Structures",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7182",
+        "title": "Professional Practice",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7201",
+        "title": "Research Studio",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7202",
+        "title": "Major Design Studio",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7211",
+        "title": "Graduation Research Studio",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7212",
+        "title": "Graduation Research Studio",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7213",
+        "title": "High Performance Building Systems",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7214",
+        "title": "Architecture and Politics",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7215",
+        "title": "Advanced Themes in Australian Architecture",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7216",
+        "title": "Designing Diversity: Architecture and Urbanism in a Multicultural Context",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7218",
+        "title": "Urban Climate Change - Mitigation and Adaptation in the Urban Built Environment",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7220",
+        "title": "Architecture and Urbanism in Asia",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7227",
+        "title": "A History of Housing",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7231",
+        "title": "Graduation Research Studio",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7241",
+        "title": "Graduation Research Studio",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7251",
+        "title": "Graduation Major Design Studio",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7252",
+        "title": "Graduation Major Design Studio",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7253",
+        "title": "Graduation Major Design Studio",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7254",
+        "title": "Graduation Major Design Studio",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7304",
+        "title": "Architecture and the City",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH7809",
+        "title": "Architectural Environment and Building Services",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARCH9006",
+        "title": "Special Program (Architecture)",
+        "subject": "ARCH"
+    },
+    {
+        "code": "ARTS1010",
+        "title": "The Life of Words",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1011",
+        "title": "Inventing the Self: Creative Writing in the Digital Age",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1030",
+        "title": "Forms of Writing: Literature, Genre, Culture",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1031",
+        "title": "Reading Through Time",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1032",
+        "title": "The Literature Laboratory: Writing Beyond Limits",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1060",
+        "title": "Introduction to Film Studies",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1062",
+        "title": "Hollywood Film: Industry, Technology, Aesthetics",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1064",
+        "title": "Screen Production I",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1090",
+        "title": "Media, Culture and Everyday Life",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1091",
+        "title": "Media, Society, Politics",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1092",
+        "title": "Working with Data",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1120",
+        "title": "Experiencing Theatre",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1121",
+        "title": "The Life of Performance",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1190",
+        "title": "Sydney: History, Landscapes, People",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1210",
+        "title": "Concepts of Asia",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1211",
+        "title": "Australia's Asian Context",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1240",
+        "title": "Environment and Society",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1241",
+        "title": "Environmental Advocacy and Activism",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1270",
+        "title": "Global History: Exploring the First Globalization, 15th-19th Century",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1271",
+        "title": "History of the Present: The World since 1900",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1360",
+        "title": "Truth and Human Existence: Introduction to Philosophy",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1361",
+        "title": "Mind, Ethics, and Freedom: Introduction to Philosophy",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1362",
+        "title": "Critical Thinking for Today's World",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1450",
+        "title": "Introductory Chinese A for Non-Background Students",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1451",
+        "title": "Introductory Chinese B for Non-Background Students",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1452",
+        "title": "Introductory Chinese for Background Speakers A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1453",
+        "title": "Introductory Chinese for Background Speakers B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1480",
+        "title": "Introductory French A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1481",
+        "title": "Introductory French B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1510",
+        "title": "Introductory German A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1511",
+        "title": "Introductory German B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1540",
+        "title": "Introductory Greek A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1541",
+        "title": "Introductory Greek B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1570",
+        "title": "Introductory Spanish A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1571",
+        "title": "Introductory Spanish B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1630",
+        "title": "Introductory Japanese A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1631",
+        "title": "Introductory Japanese B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1660",
+        "title": "Introductory Korean A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1661",
+        "title": "Introductory Korean B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1690",
+        "title": "The Structure of Language",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1691",
+        "title": "The Use of Language",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1750",
+        "title": "Introduction to Global Development",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1753",
+        "title": "Culture, Experience and Change",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1780",
+        "title": "Concepts of Europe",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1782",
+        "title": "Contemporary Europe in Crisis: Power and Culture",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1810",
+        "title": "Foundations of Politics and International Relations",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1811",
+        "title": "Contemporary Issues in Government and Global Politics",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1846",
+        "title": "Politics, Peace and Prosperity",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1870",
+        "title": "Rethinking the Social",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS1900",
+        "title": "Gendered Worlds: Introduction to Women's and Gender Studies",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2020",
+        "title": "Creative Writing",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2021",
+        "title": "Creative Writing Project",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2031",
+        "title": "Australian Literature",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2033",
+        "title": "Poetry and Poetics",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2034",
+        "title": "Shakespearean Drama",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2035",
+        "title": "American Literature: Past and Present",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2036",
+        "title": "Modernism: Text and Screen",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2040",
+        "title": "The Contemporary Classic: Writing the World",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2050",
+        "title": "Academic Writing for the Humanities",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2061",
+        "title": "Contemporary Approaches to Cinema",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2062",
+        "title": "Australian Cinema",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2063",
+        "title": "National Cinemas",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2064",
+        "title": "A Case Study of Film Genre",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2065",
+        "title": "Screen Production II",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2066",
+        "title": "Writing for the Screen",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2091",
+        "title": "Mobile Cultures",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2092",
+        "title": "Global Media: Markets, Flows and Cultures",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2093",
+        "title": "Social Media",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2094",
+        "title": "Visual Communication",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2095",
+        "title": "Digital Technologies and the Self",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2096",
+        "title": "Media Rights, Media Wrongs",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2120",
+        "title": "Writing for Performance",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2121",
+        "title": "Theatre in Our Times",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2122",
+        "title": "Performance Production",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2123",
+        "title": "Musicals, Dance and Popular Culture",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2125",
+        "title": "Acting and Performing",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2126",
+        "title": "Reviewing the Arts",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2127",
+        "title": "Great Plays",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2128",
+        "title": "Art and Social Change",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2129",
+        "title": "Cultural Performance and Digital Cultures: Creative Production in Metro Manila",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2150",
+        "title": "The Making of Trump's America",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2211",
+        "title": "East Asia",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2212",
+        "title": "Southeast Asia",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2213",
+        "title": "Asian Popular Culture",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2240",
+        "title": "Environment, Sustainability and Development",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2242",
+        "title": "The Politics of Climate Change",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2243",
+        "title": "Waste and Society",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2244",
+        "title": "Rethinking Wildlife: Philosophy, Biodiversity, Extinction",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2248",
+        "title": "Disasters and Society",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2249",
+        "title": "Environmental Philosophy",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2271",
+        "title": "Inventing Modern Australia: 1900 to Now",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2272",
+        "title": "The European World, 1500-1800",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2281",
+        "title": "Ancient Egypt and Western Asia",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2282",
+        "title": "Rome",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2283",
+        "title": "Classical Greece",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2285",
+        "title": "The Holocaust: Origins, Implementation, Aftermath",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2360",
+        "title": "Knowledge and Reality",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2361",
+        "title": "Philosophy of Mind and Psychology",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2362",
+        "title": "Alienation and Social Critique",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2363",
+        "title": "Chinese Philosophy",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2374",
+        "title": "Ways of Reasoning",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2375",
+        "title": "Philosophical Logic",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2383",
+        "title": "Ethics: Theory and Practice",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2384",
+        "title": "Political Philosophy",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2450",
+        "title": "Intermediate Chinese for Non-Background Speakers A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2451",
+        "title": "Intermediate Chinese for Non-Background Speakers B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2452",
+        "title": "Chinese English Translation",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2453",
+        "title": "Chinese Cinema",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2455",
+        "title": "Gender in China",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2457",
+        "title": "China Imagined and Perceived",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2458",
+        "title": "Along the Silk Road: Conquerors, Traders and Explorers",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2461",
+        "title": "Intermediate Chinese for Background Speakers A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2462",
+        "title": "Intermediate Chinese for Background Speakers B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2464",
+        "title": "Chinese Ideas of Beauty and Erotica: Ancient to Modern",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2480",
+        "title": "Intermediate French A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2481",
+        "title": "Intermediate French B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2482",
+        "title": "French Cinema and Society",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2485",
+        "title": "Exploring French Linguistics",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2510",
+        "title": "Intermediate German A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2511",
+        "title": "Intermediate German B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2542",
+        "title": "Gods, Heroines and Heroes in Greek Myth",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2570",
+        "title": "Intermediate Spanish A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2571",
+        "title": "Intermediate Spanish B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2630",
+        "title": "Intermediate Japanese A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2631",
+        "title": "Intermediate Japanese B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2660",
+        "title": "Intermediate Korean A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2661",
+        "title": "Intermediate Korean B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2663",
+        "title": "Korea and Japan: Chinese Cultural Transmission",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2690",
+        "title": "Semantics and Pragmatics",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2692",
+        "title": "Syntax",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2693",
+        "title": "Psycholinguistics",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2696",
+        "title": "The Grammar of English",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2698",
+        "title": "Intercultural Interaction",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2751",
+        "title": "International Development",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2754",
+        "title": "Research for Impact in Global Development",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2755",
+        "title": "Global Development in Practice: Concepts and Practices for Inclusive Development",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2785",
+        "title": "Europe's Age of Catastrophe, 1914-1945",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2813",
+        "title": "International Security",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2815",
+        "title": "Politics and Security in the Indo-Pacific",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2816",
+        "title": "Who Gets What? The Global Politics of Inequality",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2817",
+        "title": "Diplomacy and Statecraft: Past, Present, Futures",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2818",
+        "title": "Australian Politics",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2819",
+        "title": "Globalisation and Governance",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2820",
+        "title": "Justice",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2821",
+        "title": "Colonialism: Resistance, Justice, and Transition",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2845",
+        "title": "Sex, Human Rights and Justice",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2852",
+        "title": "Qualitative Research for Political and Social Problems",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2870",
+        "title": "Citizens, Action and Dissent",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2871",
+        "title": "Power and Powerlessness",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2872",
+        "title": "Living and dying",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2874",
+        "title": "Culture and Emotion",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2876",
+        "title": "Understanding the Self",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2877",
+        "title": "Technologies, Culture, Society",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2900",
+        "title": "Global Feminisms: Competing Visions, Varying Histories",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2904",
+        "title": "Dressed to Kill: Dress and Identity in History",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2906",
+        "title": "History of Sexuality",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS2908",
+        "title": "Premodern Japan: Status, Sex and Power",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3013",
+        "title": "Performing Arts Industry Experience",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3022",
+        "title": "Narrative: The Art and Science of Storytelling",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3023",
+        "title": "Fiction Writing",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3025",
+        "title": "Advanced Creative Writing",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3039",
+        "title": "Jane Austen in Context",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3040",
+        "title": "Postcolonial Literatures",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3047",
+        "title": "Contemporary Critical and Cultural Theory",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3049",
+        "title": "Literary Animals, Monsters and Machines",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3054",
+        "title": "The Getting of Wisdom: Youth, Literature and the Formation of the Self",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3055",
+        "title": "Literature and Power",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3060",
+        "title": "Film in the Media Landscape",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3061",
+        "title": "Screen Production III (Video Project)",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3062",
+        "title": "Aspects of Film History: Cinematic Thinking",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3064",
+        "title": "Issues in Film Styles and Aesthetics",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3065",
+        "title": "Screen Emotions: Affect and Cinema",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3066",
+        "title": "Documentary and Non Fiction Cinemas",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3068",
+        "title": "Doing Film Festivals",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3090",
+        "title": "Media, Culture and Technology Capstone: Media Cultures",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3091",
+        "title": "Advanced Media Issues",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3092",
+        "title": "Media and Transformation in the Asia-Pacific",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3093",
+        "title": "Media Power",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3096",
+        "title": "Media and Climate Change",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3097",
+        "title": "Current Debates in Media and Culture",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3122",
+        "title": "Working in the Performing Arts",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3123",
+        "title": "Solo Performance Making",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3124",
+        "title": "Collaborative Performance Making",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3125",
+        "title": "Experiments in Performance and Media",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3131",
+        "title": "Australian Drama",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3212",
+        "title": "Contemporary India Through Bollywood: Politics, Society and Culture",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3216",
+        "title": "Chinese Media and Communication",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3218",
+        "title": "Japanese History: Modern Miracles and Mythologies",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3240",
+        "title": "Environmental Humanities Capstone",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3241",
+        "title": "Environmental Justice",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3242",
+        "title": "Environmental History",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3243",
+        "title": "Remaking Nature: The Politics of Biotechnology",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3270",
+        "title": "Reflecting on Histories and Historians: Capstone",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3283",
+        "title": "Roman Emperors: From Augustus to Nero",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3289",
+        "title": "Documentary Film and History",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3292",
+        "title": "Migrants and Refugees in Australian History",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3295",
+        "title": "Understanding Nazi Germany: Origins, Structures, Explanation",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3330",
+        "title": "Languages Capstone: Translation and Interpreting",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3360",
+        "title": "Philosophy Capstone: Examining Pivotal Texts",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3366",
+        "title": "Contemporary Debates in Moral and Political Philosophy",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3368",
+        "title": "Modern European Philosophy",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3373",
+        "title": "Topics in Metaphysics, Epistemology, and Philosophy of Language",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3450",
+        "title": "Advanced Chinese A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3451",
+        "title": "Advanced Chinese B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3452",
+        "title": "Professional Chinese A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3453",
+        "title": "Professional Chinese B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3454",
+        "title": "Chinese English Interpreting",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3455",
+        "title": "Contemporary Chinese Literature",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3456",
+        "title": "Classical Chinese Literature",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3458",
+        "title": "Chinese Capstone: Re-Visioning China and Chinese Studies",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3462",
+        "title": "Artistic Representations of China and the Diaspora",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3480",
+        "title": "Advanced French A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3481",
+        "title": "Advanced French B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3482",
+        "title": "Professional French A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3488",
+        "title": "French Discourse Studies",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3510",
+        "title": "Advanced German A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3570",
+        "title": "Advanced Spanish A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3571",
+        "title": "Advanced Spanish B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3574",
+        "title": "Topics in Latin American Cinema",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3575",
+        "title": "Spanish Popular Culture",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3630",
+        "title": "Advanced Japanese A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3631",
+        "title": "Advanced Japanese B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3632",
+        "title": "Professional Japanese A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3633",
+        "title": "Professional Japanese B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3636",
+        "title": "Contextualising Japanese: Capstone",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3639",
+        "title": "Japan in Popular Culture",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3640",
+        "title": "Japan and Korea: Cultures in Conflict",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3641",
+        "title": "Commercial Japanese",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3643",
+        "title": "Advanced Writing in Japanese",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3660",
+        "title": "Advanced Korean A",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3661",
+        "title": "Advanced Korean B",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3663",
+        "title": "Professional Korean",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3665",
+        "title": "Korean Interpreting",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3690",
+        "title": "Language Universals and Linguistic Typology",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3695",
+        "title": "Multilingualism and Language Planning",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3750",
+        "title": "Development, Community and Environment",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3751",
+        "title": "Development Studies: Research, Practice and Ethics",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3755",
+        "title": "Development in Practice: Project Design",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3758",
+        "title": "Global Change Internship",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3759",
+        "title": "Preparing for and Reflecting on International Internships",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3780",
+        "title": "Contemporary Germany: History, Politics, Society",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3783",
+        "title": "Great, Emerging and Declining Powers in the Contemporary World",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3786",
+        "title": "Confronting the Past in Contemporary Europe",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3810",
+        "title": "Politics & International Relations: Theory and Practice",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3812",
+        "title": "Manias, Panics and Crashes: Global Political Economy in an Era of Crisis",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3814",
+        "title": "Australian Foreign Policy",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3819",
+        "title": "Emerging Challenges in International Security",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3820",
+        "title": "How to start a revolution: activism, social movements and political change",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3821",
+        "title": "The Politics of Identity in the 21st Century",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3822",
+        "title": "The Art of Political Science",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3870",
+        "title": "Debates and Controversies in Sociology and Anthropology",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3872",
+        "title": "Media Publics",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3874",
+        "title": "Culture and Human Rights",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3875",
+        "title": "Decolonising Research Methods",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3883",
+        "title": "Personhood in Asia",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3885",
+        "title": "Trauma and Violence",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3886",
+        "title": "Living Social Justice: Experience and Practice",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS3991",
+        "title": "Arts and Social Sciences Capstone",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4100",
+        "title": "Research Methods and Thesis Writing",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4202",
+        "title": "Uses of Theory: Honours (Research)",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4247",
+        "title": "Research Skills in the Humanities",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4249",
+        "title": "The Humanities, then and now",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4266",
+        "title": "Puzzles, Planning, and Presentation for Honours in the Social Sciences",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4268",
+        "title": "Methodologies in the Social Sciences: Questions and Quandaries",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4600",
+        "title": "Dance Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4601",
+        "title": "Dance Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4602",
+        "title": "Dance Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4604",
+        "title": "English Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4605",
+        "title": "English Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4606",
+        "title": "English Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4608",
+        "title": "Film Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4609",
+        "title": "Film Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4610",
+        "title": "Film Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4612",
+        "title": "Media, Culture and Technology Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4613",
+        "title": "Media, Culture and Technology Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4614",
+        "title": "Media, Culture and Technology Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4616",
+        "title": "Theatre and Performance Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4617",
+        "title": "Theatre and Performance Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4618",
+        "title": "Theatre and Performance Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4620",
+        "title": "Creative Writing Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4621",
+        "title": "Creative Writing Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4622",
+        "title": "Creative Writing Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4700",
+        "title": "Environmental Humanities Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4701",
+        "title": "Environmental Humanities Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4702",
+        "title": "Environmental Humanities Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4704",
+        "title": "History Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4705",
+        "title": "History Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4706",
+        "title": "History Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4712",
+        "title": "Philosophy Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4713",
+        "title": "Philosophy Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4714",
+        "title": "Philosophy Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4810",
+        "title": "Asian Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4811",
+        "title": "Asian Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4812",
+        "title": "Asian Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4814",
+        "title": "Chinese Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4815",
+        "title": "Chinese Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4816",
+        "title": "Chinese Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4818",
+        "title": "French Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4819",
+        "title": "French Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4820",
+        "title": "French Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4822",
+        "title": "Spanish & Latin American Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4823",
+        "title": "Spanish & Latin American Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4824",
+        "title": "Spanish & Latin American Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4826",
+        "title": "Japanese Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4827",
+        "title": "Japanese Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4828",
+        "title": "Japanese Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4830",
+        "title": "Korean Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4831",
+        "title": "Korean Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4832",
+        "title": "Korean Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4834",
+        "title": "Linguistics Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4835",
+        "title": "Linguistics Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4836",
+        "title": "Linguistics Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4838",
+        "title": "German Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4839",
+        "title": "German Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4840",
+        "title": "German Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4900",
+        "title": "Development Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4901",
+        "title": "Development Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4902",
+        "title": "Development Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4904",
+        "title": "European Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4905",
+        "title": "European Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4906",
+        "title": "European Studies Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4912",
+        "title": "International Relations Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4913",
+        "title": "International Relations Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4914",
+        "title": "International Relations Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4916",
+        "title": "Politics Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4917",
+        "title": "Politics Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4918",
+        "title": "Politics Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4920",
+        "title": "Sociology and Anthropology Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4921",
+        "title": "Sociology and Anthropology Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4922",
+        "title": "Sociology and Anthropology Honours",
+        "subject": "ARTS"
+    },
+    {
+        "code": "ARTS4924",
+        "title": "Politics and International Relations Honours",
+        "subject": "ARTS"
+    }
+]
