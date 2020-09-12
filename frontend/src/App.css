@@ -23,7 +23,6 @@
 .Subject-list {
   display: grid;
   grid-template-columns: auto auto auto;
-  place-items: center;
   grid-gap: 20px;
 }
 
@@ -70,7 +69,6 @@
     margin: 20px;
     display: grid;
     grid-template-columns: auto;
-    place-items: center;
     grid-gap: 20px;
   }
 
