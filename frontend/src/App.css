@@ -8,9 +8,9 @@
 }
 
 .Search-container {
-  background-color: #282c34;
+  background-color: rgb(184, 223, 255);
   height: 50vh;
-  color: white;
+  color: 282c34;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -25,6 +25,15 @@
   grid-template-columns: auto auto auto;
   place-items: center;
   grid-gap: 20px;
+}
+
+.search-field {
+  color: white;
+}
+
+.subject-container {
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .Marginal-container {
