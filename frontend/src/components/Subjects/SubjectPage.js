@@ -2,30 +2,32 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import Card from '@material-ui/core/Card';
 import { CardActionArea, CardContent, CardMedia, Typography } from '@material-ui/core';
-import subjects from './SubjectList';
+import courses from '../Search/CourseList';
 
-const listofSubjects = ["ACCT","BABS","CDEV","DATA","ECON","FINS","GBAT","HDAT","IDES","JURD","LAND"];
 
-const SubjectBoxes = ({}) => (
+export default function SubjectPage(props) {
+  let courseRegex = new RegExp(props.location.pathname.slice(-4));
+  const relevantCourses = courses.filter(course => course.code.match(courseRegex));
+  return (
     <div>
-      <h2 className="Section-header">Subject Areas</h2>
+      <h2 className="Section-header">Courses</h2>
       <div className="Subject-list Marginal-container">
 
-        { subjects.map((subject, i) => {
+        { relevantCourses.map((course, i) => {
             return (
-                <Link to={'/subject/' + subject.code}>
+                <Link to={'/course/' + course.code}>
                   {/*<Card>
                       <CardActionArea>
                           <CardContent>
                               <Typography  variant="body1" component="h2" align='center' paragraph='true'>
-                                  {subject.code} <br></br>({subject.name})
+                                  {course.code}
                               </Typography>
                           </CardContent>
                       </CardActionArea>
                   </Card>*/}
                   <div className="card" style={{ textAlign: "center", color: "black" }}>
                     <div className="card-body">
-                      <h5 className="card-title">{ subject.code }: <br/> { subject.name }</h5>
+                      <h5 className="card-title">{ course.code }</h5>
                     </div>
                   </div>
                 </Link>
@@ -33,6 +35,5 @@ const SubjectBoxes = ({}) => (
         }) }
       </div>
     </div>
-)
-
-export default SubjectBoxes;
+  )
+}

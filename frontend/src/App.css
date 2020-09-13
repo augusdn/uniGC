@@ -22,18 +22,8 @@
 
 .Subject-list {
   display: grid;
-  grid-template-columns: auto auto auto;
-  place-items: center;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 20px;
-}
-
-.search-field {
-  color: white;
-}
-
-.subject-container {
-  display: flex;
-  flex-wrap: wrap;
 }
 
 .Marginal-container {
@@ -74,12 +64,15 @@
   justify-content: center;
 }
 
+.Course-links, .Course-links:hover {
+  text-decoration: none;
+  color: black;
+}
+
 @media screen and (max-width: 1000px) {
   .Subject-list {
-    margin: 20px;
     display: grid;
     grid-template-columns: auto;
-    place-items: center;
     grid-gap: 20px;
   }
 

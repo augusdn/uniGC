@@ -7,6 +7,8 @@ import NavIn from './components/Navigation/NavIn.js';
 import Home from './pages/Home';
 import Profile from './pages/Profile';
 import Login from './pages/Login';
+import CoursePage from './components/Courses/CoursePage';
+import SubjectPage from './components/Subjects/SubjectPage';
 import './App.css';
 import firebase from "./components/firebase/firebase"
 
@@ -33,7 +35,8 @@ class App extends React.Component {
           <div className="App">
             <NavIn />
             <Route path="/" exact component={Home} />
-            <Route path="/login" exact component = {Login} />
+            <Route path="/course/:code" exact component={CoursePage} />
+            <Route path="/subject/:code" exact component={SubjectPage} />
             <Route path="/profile" render={(props) =>
                 <Profile
                   uid={this.state.currentUser.uid}
@@ -52,7 +55,9 @@ class App extends React.Component {
           <div className="App">
             <Nav />
             <Route path="/" exact component={Home} />
-            <Route path="/login" exact component = {Login} />
+            <Route path="/login" exact component={Login} />
+            <Route path="/course/:code" exact component={CoursePage} />
+            <Route path="/subject/:code" exact component={SubjectPage} />
           </div>
         </HashRouter>
       );
