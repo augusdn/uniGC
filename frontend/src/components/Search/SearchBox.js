@@ -1,13 +1,14 @@
 /* eslint-disable no-use-before-define */
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, Redirect } from 'react-router-dom';
 import TextField from '@material-ui/core/TextField';
 import Autocomplete from '@material-ui/lab/Autocomplete';
 import courses from './CourseList';
-
+import {Button} from '@material-ui/core';
 
 export default function SearchBox() {
   const [options, setOptions] = React.useState([]);
+  const [input, setInput] = React.useState([]);
 
   function handleChange(term) {
     if (term) {
@@ -26,7 +27,20 @@ export default function SearchBox() {
     }
   }
 
+  const submitHandler = e => {
+    e.preventDefault();
+    if(input == ""){
+      console.log("empty");
+      alert("Course name can't be empty!");
+    } else {
+      console.log("Searching + " + input);
+      alert(document.location.href);
+      document.location.href = document.location.href+"course/"+input;
+    }
+  }
+
   return (
+    <form onSubmit={submitHandler}>
     <Autocomplete
       id="search-box"
       // disable onInputChange for less function calls
@@ -34,9 +48,15 @@ export default function SearchBox() {
       // enable below for less function calls
       options={courses}
       // options={options}
+      onInputChange ={(event,value) => setInput(value)}
+      
       getOptionLabel={(option) => option.code}
-      renderInput={(params) => <TextField {...params} label="Course Search" variant="outlined" />}
-      renderOption={(option) => <Link to={'/course/' + option.code} className="Course-links">{ option.code }</Link>}
+      renderInput={(params) => <TextField {...params} label="Course Search(beta)" variant="outlined" />}
+      // renderOption={(option) => <Link to={'/course/' + option.code} className="Course-links">{ option.code }</Link>}
     />
+    <Button variant="contained" color="primary" style={{margin: 10}} type="submit">
+        Submit
+    </Button>
+    </form>
   );
 }

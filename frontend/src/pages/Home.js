@@ -10,7 +10,7 @@ function Home() {
         <div className="form-group Search-group-chat">
           <h2 style={{ textAlign: "center" }}>Group Chats</h2>
           <SearchBox />
-          <small id="searchHelp" className="form-text text-muted">Maybe the group chat you're interested in already exists?</small>
+          <small id="searchHelp" className="form-text text-muted">Maybe the group chat you're interested in already exists?(search box is little slow atm)</small>
         </div>
       </form>
       <SubjectBoxes />

@@ -27,7 +27,8 @@ export default function SubjectPage(props) {
                   </Card>*/}
                   <div className="card" style={{ textAlign: "center", color: "black" }}>
                     <div className="card-body">
-                      <h5 className="card-title">{ course.code }</h5>
+                      <h5 className="card-title">{ course.code }: <br/> { course.title }</h5>
+                      {/* <h5 className="card-title">{ subject.code }: <br/> { subject.name }</h5> */}
                     </div>
                   </div>
                 </Link>
