@@ -3,10 +3,11 @@ import React from 'react';
 import { Link, Redirect } from 'react-router-dom';
 import TextField from '@material-ui/core/TextField';
 import Autocomplete from '@material-ui/lab/Autocomplete';
-import courses from './CourseList';
+import courses from '../components/Search/CourseList';
 import {Button} from '@material-ui/core';
+import firebase from "../components/firebase/firebase";
 
-export default function SearchBox() {
+export default function AddChat() {
   const [options, setOptions] = React.useState([]);
   const [input, setInput] = React.useState([]);
 
@@ -29,17 +30,19 @@ export default function SearchBox() {
 
   const submitHandler = e => {
     e.preventDefault();
+    console.log(firebase.auth().currentUser);
     if(input == ""){
       console.log("empty");
       alert("Course name can't be empty!");
     } else {
-      console.log("Searching + " + input);
+      console.log("Submit + " + input);
       // alert(document.location.href);
-      document.location.href = document.location.href+"course/"+input.toUpperCase();
+    //   document.location.href = document.location.href+"course/"+input.toUpperCase();
     }
   }
 
   return (
+    <div style={{display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between'}}>
     <form onSubmit={submitHandler}>
     <Autocomplete
       id="search-box"
@@ -54,9 +57,13 @@ export default function SearchBox() {
       renderInput={(params) => <TextField {...params} label="Course Search(beta)" variant="outlined" />}
       // renderOption={(option) => <Link to={'/course/' + option.code} className="Course-links">{ option.code }</Link>}
     />
+    <br/> Chat link: https://www.facebook.com/messages/t/
+    <TextField id="chatId" label="Chat ID" variant="outlined" />
+    <br/>
     <Button variant="contained" color="primary" style={{margin: 10}} type="submit">
         Submit
     </Button>
     </form>
+    </div>
   );
 }
