@@ -34,7 +34,7 @@ export default function SearchBox() {
       alert("Course name can't be empty!");
     } else {
       console.log("Searching + " + input);
-      alert(document.location.href);
+      // alert(document.location.href);
       document.location.href = document.location.href+"course/"+input;
     }
   }
