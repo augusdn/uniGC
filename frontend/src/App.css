@@ -10,7 +10,7 @@
 .Search-container {
   background-color: rgb(184, 223, 255);
   height: 50vh;
-  color: 282c34;
+  color: #282c34;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -20,20 +20,16 @@
   width: 50vw;
 }
 
+.Submit-search {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
 .Subject-list {
   display: grid;
-  grid-template-columns: auto auto auto;
-  place-items: center;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 20px;
-}
-
-.search-field {
-  color: white;
-}
-
-.subject-container {
-  display: flex;
-  flex-wrap: wrap;
 }
 
 .Marginal-container {
@@ -74,12 +70,19 @@
   justify-content: center;
 }
 
+.Course-links, .Course-links:hover {
+  text-decoration: none;
+  color: black;
+}
+
 @media screen and (max-width: 1000px) {
+  .Search-group-chat {
+    width: 70vw;
+  }
+
   .Subject-list {
-    margin: 20px;
     display: grid;
     grid-template-columns: auto;
-    place-items: center;
     grid-gap: 20px;
   }
 
