@@ -4,7 +4,7 @@ import { Link, Redirect } from 'react-router-dom';
 import TextField from '@material-ui/core/TextField';
 import Autocomplete from '@material-ui/lab/Autocomplete';
 import courses from '../components/Search/CourseList';
-import {Button} from '@material-ui/core';
+import { Button, Typography } from '@material-ui/core';
 import firebase from "../components/firebase/firebase";
 
 export default function AddChat() {
@@ -42,28 +42,34 @@ export default function AddChat() {
   }
 
   return (
-    <div style={{display: 'flex', flexWrap: 'wrap', justifyContent: 'space-between'}}>
-    <form onSubmit={submitHandler}>
-    <Autocomplete
-      id="search-box"
-      // disable onInputChange for less function calls
-      // onInputChange={(event, value) => handleChange(value)}
-      // enable below for less function calls
-      options={courses}
-      // options={options}
-      onInputChange ={(event,value) => setInput(value)}
-      
-      getOptionLabel={(option) => option.code}
-      renderInput={(params) => <TextField {...params} label="Course Search(beta)" variant="outlined" />}
-      // renderOption={(option) => <Link to={'/course/' + option.code} className="Course-links">{ option.code }</Link>}
-    />
-    <br/> Chat link: https://www.facebook.com/messages/t/
-    <TextField id="chatId" label="Chat ID" variant="outlined" />
-    <br/>
-    <Button variant="contained" color="primary" style={{margin: 10}} type="submit">
-        Submit
-    </Button>
+    <form className="Add-chat-container" onSubmit={submitHandler}>
+      <div className="form-group Search-group-chat">
+        <h2>Add Group Chat</h2>
+        <Autocomplete
+          id="search-box"
+          // disable onInputChange for less function calls
+          // onInputChange={(event, value) => handleChange(value)}
+          // enable below for less function calls
+          options={courses}
+          // options={options}
+          onInputChange ={(event,value) => setInput(value)}
+
+          getOptionLabel={(option) => option.code}
+          renderInput={(params) => <TextField {...params} label="Course Search(beta)" variant="outlined" />}
+          // renderOption={(option) => <Link to={'/course/' + option.code} className="Course-links">{ option.code }</Link>}
+        />
+        <div className="Chat-id">
+          <span className="Chat-id-desktop">
+            www.facebook.com/messages/t/
+            <TextField id="chatId" label="Chat ID" variant="outlined" />
+          </span>
+        </div>
+        <div className="Add-chat">
+          <Button variant="contained" color="primary" type="submit">
+              Add group chat
+          </Button>
+        </div>
+      </div>
     </form>
-    </div>
   );
 }
