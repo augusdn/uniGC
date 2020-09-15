@@ -40,23 +40,29 @@ export default function SearchBox() {
   }
 
   return (
-    <form onSubmit={submitHandler}>
-    <Autocomplete
-      id="search-box"
-      // disable onInputChange for less function calls
-      // onInputChange={(event, value) => handleChange(value)}
-      // enable below for less function calls
-      options={courses}
-      // options={options}
-      onInputChange ={(event,value) => setInput(value)}
-      
-      getOptionLabel={(option) => option.code}
-      renderInput={(params) => <TextField {...params} label="Course Search(beta)" variant="outlined" />}
-      // renderOption={(option) => <Link to={'/course/' + option.code} className="Course-links">{ option.code }</Link>}
-    />
-    <Button variant="contained" color="primary" style={{margin: 10}} type="submit">
-        Submit
-    </Button>
+    <form className="Search-container" onSubmit={submitHandler}>
+      <div className="form-group Search-group-chat">
+        <h2 style={{ textAlign: "center" }}>Group Chats</h2>
+        <Autocomplete
+          id="search-box"
+          // disable onInputChange for less function calls
+          // onInputChange={(event, value) => handleChange(value)}
+          // enable below for less function calls
+          options={courses}
+          // options={options}
+          onInputChange ={(event,value) => setInput(value)}
+
+          getOptionLabel={(option) => option.code}
+          renderInput={(params) => <TextField {...params} label="Course Search (beta)" variant="outlined" />}
+          // renderOption={(option) => <Link to={'/course/' + option.code} className="Course-links">{ option.code }</Link>}
+        />
+        <small id="searchHelp" className="form-text text-muted">Maybe the group chat you're interested in already exists?</small>
+        <div className="Submit-search">
+          <Button variant="outlined" color="primary" type="submit">
+            Submit
+          </Button>
+        </div>
+      </div>
     </form>
   );
 }

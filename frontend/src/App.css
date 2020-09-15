@@ -10,7 +10,7 @@
 .Search-container {
   background-color: rgb(184, 223, 255);
   height: 50vh;
-  color: 282c34;
+  color: #282c34;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -18,6 +18,12 @@
 
 .Search-group-chat {
   width: 50vw;
+}
+
+.Submit-search {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
 }
 
 .Subject-list {
@@ -70,6 +76,10 @@
 }
 
 @media screen and (max-width: 1000px) {
+  .Search-group-chat {
+    width: 70vw;
+  }
+
   .Subject-list {
     display: grid;
     grid-template-columns: auto;
