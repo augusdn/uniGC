@@ -69,7 +69,7 @@ export default function AddChat() {
           renderInput={(params) => <TextField {...params} label="Course Search(beta)" variant="outlined" />}
           renderOption={(option) =>  option.code }
         />
-        {cError.length > 0 && 
+        {cError.length > 0 &&
                 <span className='error'>{cError}</span>}
         <div className="Chat-id">
           <span className="Chat-id-desktop">
@@ -78,7 +78,7 @@ export default function AddChat() {
           </span>
         </div>
         <div className="Add-chat">
-          <Button variant="contained" color="primary" type="submit">
+          <Button variant="contained" style={{ backgroundColor: "#1778F2", color: "white" }} type="submit">
               Add group chat
           </Button>
         </div>
