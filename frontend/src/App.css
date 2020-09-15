@@ -8,9 +8,9 @@
 }
 
 .Search-container {
-  background-color: #282c34;
+  background-color: rgb(184, 223, 255);
   height: 50vh;
-  color: white;
+  color: #282c34;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -20,9 +20,15 @@
   width: 50vw;
 }
 
+.Submit-search {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
 .Subject-list {
   display: grid;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 20px;
 }
 
@@ -64,9 +70,38 @@
   justify-content: center;
 }
 
+.Course-links, .Course-links:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.Add-chat-container {
+  background-color: rgb(255, 223, 184);
+  height: 50vh;
+  color: 282c34;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.Chat-id {
+  padding-top: 20px;
+  line-height: 3rem;
+}
+
+.Add-chat {
+  display: flex;
+  justify-content: flex-start;
+  padding-top: 20px;
+}
+
 @media screen and (max-width: 1000px) {
+  .Search-group-chat {
+    width: 70vw;
+  }
+
   .Subject-list {
-    margin: 20px;
     display: grid;
     grid-template-columns: auto;
     grid-gap: 20px;

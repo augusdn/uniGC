@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faUser } from '@fortawesome/free-solid-svg-icons';
 import { faFacebook } from '@fortawesome/free-brands-svg-icons';
@@ -26,31 +27,18 @@ const fbSignIn = () => {
   });
 }
 
-function Login() {
-  if(user){
-    console.log(user);
-    console.log("asdasdasdasdsad");
-    return (
-      <div className="card Login-form">
-        <div className="card-body">
-          <h2 style={{textAlign: "center"}}>Successfully logged in!</h2>
-        </div>
-      </div>
-    );
-  } else {
-    console.log("asdasdasdasd123sad");
-    return (
+function Login() {return (
       <div className="card Login-form">
         <div className="card-body">
           <h2 style={{textAlign: "center"}}>Welcome to uniGC!</h2>
-          <button type="submit" className="btn btn-primary btn-block" onClick={fbSignIn}>
-            Login using Facebook <FontAwesomeIcon icon={faFacebook} />
-          </button>
+          <Link to="/">
+            <button type="submit" className="btn btn-primary btn-block" onClick={fbSignIn}>
+              Login using Facebook <FontAwesomeIcon icon={faFacebook} />
+            </button>
+          </Link>
         </div>
       </div>
-    );
-  }
-  
+  );
 }
 
 export default Login;
