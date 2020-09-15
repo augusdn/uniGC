@@ -3,10 +3,11 @@ import React from 'react';
 import { Link, Redirect } from 'react-router-dom';
 import TextField from '@material-ui/core/TextField';
 import Autocomplete from '@material-ui/lab/Autocomplete';
-import courses from './CourseList';
-import {Button} from '@material-ui/core';
+import courses from '../components/Search/CourseList';
+import { Button, Typography } from '@material-ui/core';
+import firebase from "../components/firebase/firebase";
 
-export default function SearchBox() {
+export default function AddChat() {
   const [options, setOptions] = React.useState([]);
   const [input, setInput] = React.useState([]);
 
@@ -29,20 +30,21 @@ export default function SearchBox() {
 
   const submitHandler = e => {
     e.preventDefault();
+    console.log(firebase.auth().currentUser);
     if(input == ""){
       console.log("empty");
       alert("Course name can't be empty!");
     } else {
-      console.log("Searching + " + input);
+      console.log("Submit + " + input);
       // alert(document.location.href);
-      document.location.href = document.location.href+"course/"+input.toUpperCase();
+    //   document.location.href = document.location.href+"course/"+input.toUpperCase();
     }
   }
 
   return (
-    <form className="Search-container" onSubmit={submitHandler}>
+    <form className="Add-chat-container" onSubmit={submitHandler}>
       <div className="form-group Search-group-chat">
-        <h2 style={{ textAlign: "center" }}>Group Chats</h2>
+        <h2>Add Group Chat</h2>
         <Autocomplete
           id="search-box"
           // disable onInputChange for less function calls
@@ -53,13 +55,18 @@ export default function SearchBox() {
           onInputChange ={(event,value) => setInput(value)}
 
           getOptionLabel={(option) => option.code}
-          renderInput={(params) => <TextField {...params} label="Course Search (beta)" variant="outlined" />}
+          renderInput={(params) => <TextField {...params} label="Course Search(beta)" variant="outlined" />}
           // renderOption={(option) => <Link to={'/course/' + option.code} className="Course-links">{ option.code }</Link>}
         />
-        <small id="searchHelp" className="form-text text-muted">Maybe the group chat you're interested in already exists?</small>
-        <div className="Submit-search">
-          <Button variant="outlined" color="primary" type="submit">
-            Submit
+        <div className="Chat-id">
+          <span className="Chat-id-desktop">
+            www.facebook.com/messages/t/
+            <TextField id="chatId" label="Chat ID" variant="outlined" />
+          </span>
+        </div>
+        <div className="Add-chat">
+          <Button variant="contained" color="primary" type="submit">
+              Add group chat
           </Button>
         </div>
       </div>

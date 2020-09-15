@@ -75,6 +75,27 @@
   color: black;
 }
 
+.Add-chat-container {
+  background-color: rgb(255, 223, 184);
+  height: 50vh;
+  color: 282c34;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.Chat-id {
+  padding-top: 20px;
+  line-height: 3rem;
+}
+
+.Add-chat {
+  display: flex;
+  justify-content: flex-start;
+  padding-top: 20px;
+}
+
 @media screen and (max-width: 1000px) {
   .Search-group-chat {
     width: 70vw;
