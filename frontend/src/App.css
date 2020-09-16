@@ -96,6 +96,20 @@
   padding-top: 20px;
 }
 
+.User-info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.User-avatar {
+  font-size: 30px;
+}
+
+.User-name {
+  display: inline;
+  margin-left: 20px;
+}
+
 @media screen and (max-width: 1000px) {
   .Search-group-chat {
     width: 70vw;
