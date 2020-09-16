@@ -7,7 +7,7 @@ import courses from '../components/Search/CourseList';
 import { Button, Typography } from '@material-ui/core';
 import firebase from "../components/firebase/firebase";
 
-export default function AddChat() {
+export default function AddChat(props) {
   const [options, setOptions] = React.useState([]);
   const [input, setInput] = React.useState([]);
   const [url, setUrl] = React.useState([]);
@@ -33,22 +33,39 @@ export default function AddChat() {
 
   function courseChange(value) {
     console.log(value);
+    setInput(value);
   }
 
   const submitHandler = e => {
     e.preventDefault();
-    console.log(firebase.auth().currentUser);
+    // console.log(firebase.auth().currentUser);
     if(input == ""){
       console.log("empty");
       alert("Course name can't be empty!");
+    } if(url == ""){
+      alert("URL can't be empty!");
     } else {
-      console.log("Submit + " + input);
+      console.log("Submit + " + input+url);
       // alert(document.location.href);
     //   document.location.href = document.location.href+"course/"+input.toUpperCase();
     }
   }
 
   const validCourseRegex = RegExp(/^[a-zA-Z]{4}[0-9]{4}$/i);
+  const validLinkRegex = RegExp(/^\d+$/i);
+  let courseRegex = new RegExp(props.location.pathname.slice(-8));
+  const crs = courses.filter(course => course.code.match(courseRegex));
+
+  function handleDefault(){
+    if(crs){
+      console.log(crs[0])
+      return crs[0]
+    } else {
+      console.log("none")
+      return ""
+    }
+  }
+  
 
   return (
     <form className="Add-chat-container" onSubmit={submitHandler}>
@@ -64,6 +81,7 @@ export default function AddChat() {
           // options={options}
           // onInputChange ={(event,value) => setInput(value)}
           onInputChange ={(event,value) => courseChange(value)}
+          defaultValue= {handleDefault()}
 
           getOptionLabel={(option) => option.code}
           renderInput={(params) => <TextField {...params} label="Course Search(beta)" variant="outlined" />}
@@ -74,7 +92,7 @@ export default function AddChat() {
         <div className="Chat-id">
           <span className="Chat-id-desktop">
             www.facebook.com/messages/t/
-            <TextField id="chatId"  onChange ={(event,value) => console.log("a")} label="Chat ID" variant="outlined" />
+            <TextField id="chatId"  onChange ={(event,value) => setUrl(event.target.value)} label="Chat ID" variant="outlined" />
           </span>
         </div>
         <div className="Add-chat">
