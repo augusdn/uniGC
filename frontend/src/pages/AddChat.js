@@ -78,9 +78,7 @@ export default function AddChat() {
           </span>
         </div>
         <div className="Add-chat">
-          <Button variant="contained" style={{ backgroundColor: "#1778F2", color: "white" }} type="submit">
-              Add group chat
-          </Button>
+          <button type="submit" className="btn btn-primary">Add group chat</button>
         </div>
       </div>
     </form>

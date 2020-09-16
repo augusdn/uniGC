@@ -8,6 +8,7 @@ import Home from './pages/Home';
 import Profile from './pages/Profile';
 import Login from './pages/Login';
 import CoursePage from './components/Courses/CoursePage';
+import CourseChat from './components/Courses/CourseChat';
 import SubjectPage from './components/Subjects/SubjectPage';
 import AddChat from './pages/AddChat';
 import './App.css';
@@ -37,6 +38,7 @@ class App extends React.Component {
             <NavIn />
             <Route path="/" exact component={Home} />
             <Route path="/course/:code" exact component={CoursePage} />
+            <Route path="/course/:code/:id" exact component={CourseChat} />
             <Route path="/subject/:code" exact component={SubjectPage} />
             <Route path="/addChat" exact component={AddChat} />
             <Route path="/profile" render={(props) =>

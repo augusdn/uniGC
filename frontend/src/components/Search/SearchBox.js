@@ -58,9 +58,7 @@ export default function SearchBox() {
         />
         <small id="searchHelp" className="form-text text-muted">Maybe the group chat you're interested in already exists?</small>
         <div className="Submit-search">
-          <Button variant="contained" style={{ backgroundColor: "#1778F2", color: "white" }} type="submit">
-            Submit
-          </Button>
+          <button type="submit" className="btn btn-primary">Submit</button>
         </div>
       </div>
     </form>
