@@ -241,13 +241,35 @@ app.get("/getChats/:courseCode", (request, response) => {
     .then((data) => {
       let chats = new Array();
       data.forEach((doc) => {
-        chats.push(doc.data());
+        let r = doc.data()
+        r['id'] = doc.id
+        chats.push(r);
+        // chats.push({id: doc.id, chat: doc.data()});
       });
       return response.json({ chats });
     })
     .catch((err) => {
         response.status(500).json({ status: "failed", error: err.code })
     });
+});
+
+app.get("/getChat/:id", (request, response) => {
+  const id = request.params.id;
+  db.collection("chats")
+    .doc(id)
+    .get()
+    .then((data) => {
+      if (data.exists) {
+        // console.log(data);
+        return response.json(data.data());
+      }
+      return response
+        .status(404)
+        .json({ status: "failed", error: "course not found" });
+    })
+    .catch((err) =>
+      response.status(500).json({ status: "failed", error: err.code })
+    );
 });
 
 app.get("/myChats/:uid", (request, response) => {
@@ -260,7 +282,9 @@ app.get("/myChats/:uid", (request, response) => {
     .then((data) => {
       let chats = new Array();
       data.forEach((doc) => {
-        chats.push(doc.data());
+        let r = doc.data()
+        r['id'] = doc.id
+        chats.push(r);
       });
       return response.json({ chats });
     })
@@ -276,7 +300,9 @@ app.get("/waitingList", (request, response) => {
     .then(data => {
       let chats = new Array();
       data.forEach((doc) => {
-        chats.push(doc.data());
+        let r = doc.data()
+        r['id'] = doc.id
+        chats.push(r);
       });
       return response.json({ chats });
     })

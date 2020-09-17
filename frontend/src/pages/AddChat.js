@@ -6,6 +6,7 @@ import Autocomplete from '@material-ui/lab/Autocomplete';
 import courses from '../components/Search/CourseList';
 import { Button, Typography } from '@material-ui/core';
 import firebase from "../components/firebase/firebase";
+import {addChat} from "../components/Services/ChatService";
 
 export default function AddChat(props) {
   const [options, setOptions] = React.useState([]);
@@ -36,16 +37,28 @@ export default function AddChat(props) {
     setInput(value);
   }
 
-  const submitHandler = e => {
+  const submitHandler = async e => {
     e.preventDefault();
-    // console.log(firebase.auth().currentUser);
+    // console.log(firebase.auth().currentUser.uid);
     if(input == ""){
       console.log("empty");
       alert("Course name can't be empty!");
-    } if(url == ""){
-      alert("URL can't be empty!");
     } else {
-      console.log("Submit + " + input+url);
+      if(url == ""){
+        alert("URL can't be empty!");
+      } else {
+        console.log("Submit + " + input+url);
+        const data = {
+          uid: firebase.auth().currentUser.uid,
+          code: input,
+          URL: url,
+          fullName: firebase.auth().currentUser.displayName,
+        };
+        await addChat(data);
+        window.location.href='/#/course/'+input.toUpperCase();
+    }
+    
+
       // alert(document.location.href);
     //   document.location.href = document.location.href+"course/"+input.toUpperCase();
     }
@@ -58,10 +71,10 @@ export default function AddChat(props) {
 
   function handleDefault(){
     if(crs){
-      console.log(crs[0])
+      // console.log(crs[0])
       return crs[0]
     } else {
-      console.log("none")
+      // console.log("none")
       return ""
     }
   }

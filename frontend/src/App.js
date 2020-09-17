@@ -64,6 +64,7 @@ class App extends React.Component {
             <Route path="/login" exact component={Login} />
             <Route path="/course/:code" exact component={CoursePage} />
             <Route path="/subject/:code" exact component={SubjectPage} />
+            <Route path="/course/:code/:id" exact component={Login} />
             <Route path="/addChat" exact component={Login} />
             <Route path="/addChat/:code" exact component={Login} />
           </div>
