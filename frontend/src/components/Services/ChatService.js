@@ -3,10 +3,10 @@ export async function addChat(data){
         method: 'POST',
         headers: {'Content-Type': 'application/json'},
         body: JSON.stringify({
-            owner: data.owner,
+            uid: data.uid,
             code: data.code,
             URL: data.URL,
-            time: data.time,
+            fullName: data.fullName,
         })
     });
     return await response.json();
