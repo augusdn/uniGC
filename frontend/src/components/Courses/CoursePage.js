@@ -32,7 +32,7 @@ export default function CoursePage(props) {
               // data.sort((a,b) => { return a.chats.created._seconds - b.chats.created_seconds});
               const chats = data.chats;
               chats.sort((a,b) => b.created._seconds - a.created._seconds);
-              console.log(chats)
+              // console.log(chats)
               return(
                 <div className="Subject-list Marginal-container">
                     {chats.map((chat, index) => (

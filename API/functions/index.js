@@ -175,7 +175,8 @@ app.post("/addChat", (request, response) => {
       URL: request.body.URL,
       waiting: 0,
       users: 0,
-      created: admin.firestore.Timestamp.fromDate(new Date())
+      created: admin.firestore.Timestamp.fromDate(new Date()),
+      waitingList: []
   })
   .then((docRef) => {
       return response.json({
