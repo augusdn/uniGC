@@ -4,7 +4,6 @@ import Card from '@material-ui/core/Card';
 import { CardActionArea, CardContent, CardMedia, Typography } from '@material-ui/core';
 import subjects from './SubjectList';
 
-const listofSubjects = ["ACCT","BABS","CDEV","DATA","ECON","FINS","GBAT","HDAT","IDES","JURD","LAND"];
 
 const SubjectBoxes = ({}) => (
     <div>
@@ -13,7 +12,7 @@ const SubjectBoxes = ({}) => (
 
         { subjects.map((subject, i) => {
             return (
-                <Link to={'/subject/' + subject.code}>
+                <Link to={'/subject/' + subject.code} key={i}>
                   {/*<Card>
                       <CardActionArea>
                           <CardContent>

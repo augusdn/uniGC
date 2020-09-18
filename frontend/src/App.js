@@ -38,9 +38,11 @@ class App extends React.Component {
             <NavIn />
             <Route path="/" exact component={Home} />
             <Route path="/course/:code" exact component={CoursePage} />
+            <Route path="/login" exact component={Home} />
             <Route path="/course/:code/:id" exact component={CourseChat} />
             <Route path="/subject/:code" exact component={SubjectPage} />
             <Route path="/addChat" exact component={AddChat} />
+            <Route path="/addChat/:code" exact component={AddChat} />
             <Route path="/profile" render={(props) =>
                 <Profile
                   uid={this.state.currentUser.uid}
@@ -62,6 +64,9 @@ class App extends React.Component {
             <Route path="/login" exact component={Login} />
             <Route path="/course/:code" exact component={CoursePage} />
             <Route path="/subject/:code" exact component={SubjectPage} />
+            <Route path="/course/:code/:id" exact component={Login} />
+            <Route path="/addChat" exact component={Login} />
+            <Route path="/addChat/:code" exact component={Login} />
           </div>
         </HashRouter>
       );

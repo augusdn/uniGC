@@ -76,40 +76,40 @@ app.get("/subjects", (request, response) => {
         response.status(500).json({ status: "failed", error: err.code })
     });
 });
-app.post("/addCourse", (request, response) => {
-    db.collection("courses").doc(request.body.code).set({
-        title: request.body.title,
-        code: request.body.code,
-        subject: request.body.subject
-    })
-    .then(() => {
-        return response.json({
-            status: "success",
-            details: `course code ${request.body.code} added`,
-        });
-    })
-    .catch((err) => {
-        response.status(500).json({ status: "failed", error: err.code })
-    });
-});
+// app.post("/addCourse", (request, response) => {
+//     db.collection("courses").doc(request.body.code).set({
+//         title: request.body.title,
+//         code: request.body.code,
+//         subject: request.body.subject
+//     })
+//     .then(() => {
+//         return response.json({
+//             status: "success",
+//             details: `course code ${request.body.code} added`,
+//         });
+//     })
+//     .catch((err) => {
+//         response.status(500).json({ status: "failed", error: err.code })
+//     });
+// });
 
-app.post("/addSubject", (request, response) => {
-  // const courses = request.body.courses.split(",");
-  db.collection("subjects").doc(request.body.subject).set({
-      subject: request.body.subject,
-      title: request.body.title,
-      courses: request.body.courses,
-  })
-  .then(() => {
-      return response.json({
-          status: "success",
-          details: `suject ${request.body.subject} added`,
-      });
-  })
-  .catch((err) => {
-      response.status(500).json({ status: "failed", error: err.code })
-  });
-});
+// app.post("/addSubject", (request, response) => {
+//   // const courses = request.body.courses.split(",");
+//   db.collection("subjects").doc(request.body.subject).set({
+//       subject: request.body.subject,
+//       title: request.body.title,
+//       courses: request.body.courses,
+//   })
+//   .then(() => {
+//       return response.json({
+//           status: "success",
+//           details: `suject ${request.body.subject} added`,
+//       });
+//   })
+//   .catch((err) => {
+//       response.status(500).json({ status: "failed", error: err.code })
+//   });
+// });
 
 app.get("/course/:courseID", (request, response) => {
   const id = request.params.courseID;
@@ -161,6 +161,150 @@ app.get("/search/:courseID", (request, response) => {
         return doc.data();
       })
       return response.json(arrayR);
+    })
+    .catch((err) =>
+      response.status(500).json({ status: "failed", error: err.code })
+    );
+});
+
+app.post("/addChat", (request, response) => {
+  db.collection("chats").add({
+      uid: request.body.uid,
+      fullName: request.body.fullName,
+      code: request.body.code,
+      URL: request.body.URL,
+      waiting: 0,
+      users: 0,
+      created: admin.firestore.Timestamp.fromDate(new Date())
+  })
+  .then((docRef) => {
+      return response.json({
+          status: "success",
+          details: `course chat ${docRef.id} added`,
+      });
+  })
+  .catch((err) => {
+      response.status(500).json({ status: "failed", error: err.code })
+  });
+});
+
+app.post("/joinChat", (request, response) => {
+  const userData = {
+    uid: request.body.uid,
+    fullName: request.body.fullName
+  }
+  const chatID = request.body.chatID
+  db.collection("chats").doc(chatID).update({
+    waitingList: admin.firestore.FieldValue.arrayUnion(userData),
+    users: admin.firestore.FieldValue.increment(1),
+    waiting: admin.firestore.FieldValue.increment(1)
+  })
+  .then((docRef) => {
+      return response.json({
+          status: "success",
+          details: `Added to waiting list`,
+      });
+  })
+  .catch((err) => {
+      response.status(500).json({ status: "failed", error: err.code })
+  });
+});
+
+app.post("/leaveChat", (request, response) => {
+  const userData = {
+    uid: request.body.uid,
+    fullName: request.body.fullName
+  }
+  const chatID = request.body.chatID
+  db.collection("chats").doc(chatID).update({
+    waitingList: admin.firestore.FieldValue.arrayRemove(userData),
+    waiting: admin.firestore.FieldValue.increment(-1)
+  })
+  .then((docRef) => {
+      return response.json({
+          status: "success",
+          details: `Deleted from waiting list`,
+      });
+  })
+  .catch((err) => {
+      response.status(500).json({ status: "failed", error: err.code })
+  });
+});
+
+app.get("/getChats/:courseCode", (request, response) => {
+  const id = request.params.courseCode;
+  console.log(id)
+  db.collection("chats")
+    .where("code", "==", id)
+    // .orderBy("created")
+    .get()
+    .then((data) => {
+      let chats = new Array();
+      data.forEach((doc) => {
+        let r = doc.data()
+        r['id'] = doc.id
+        chats.push(r);
+        // chats.push({id: doc.id, chat: doc.data()});
+      });
+      return response.json({ chats });
+    })
+    .catch((err) => {
+        response.status(500).json({ status: "failed", error: err.code })
+    });
+});
+
+app.get("/getChat/:id", (request, response) => {
+  const id = request.params.id;
+  db.collection("chats")
+    .doc(id)
+    .get()
+    .then((data) => {
+      if (data.exists) {
+        // console.log(data);
+        return response.json(data.data());
+      }
+      return response
+        .status(404)
+        .json({ status: "failed", error: "course not found" });
+    })
+    .catch((err) =>
+      response.status(500).json({ status: "failed", error: err.code })
+    );
+});
+
+app.get("/myChats/:uid", (request, response) => {
+  const id = request.params.uid;
+  console.log(id)
+  db.collection("chats")
+    .where("uid", "==", id)
+    // .orderBy("created")
+    .get()
+    .then((data) => {
+      let chats = new Array();
+      data.forEach((doc) => {
+        let r = doc.data()
+        r['id'] = doc.id
+        chats.push(r);
+      });
+      return response.json({ chats });
+    })
+    .catch((err) => {
+        response.status(500).json({ status: "failed", error: err.code })
+    });
+});
+
+app.get("/waitingList", (request, response) => {
+  db.collection("chats")
+    .where("waiting", ">", 0)
+    .get()
+    .then(data => {
+      let chats = new Array();
+      data.forEach((doc) => {
+        let r = doc.data()
+        r['id'] = doc.id
+        chats.push(r);
+      });
+      return response.json({ chats });
     })
     .catch((err) =>
       response.status(500).json({ status: "failed", error: err.code })

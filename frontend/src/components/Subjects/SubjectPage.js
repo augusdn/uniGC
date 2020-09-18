@@ -15,7 +15,7 @@ export default function SubjectPage(props) {
 
         { relevantCourses.map((course, i) => {
             return (
-                <Link to={'/course/' + course.code}>
+                <Link to={'/course/' + course.code} key={i}>
                   {/*<Card>
                       <CardActionArea>
                           <CardContent>
