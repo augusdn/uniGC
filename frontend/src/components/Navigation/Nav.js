@@ -5,7 +5,7 @@ import { faUserPlus } from '@fortawesome/free-solid-svg-icons';
 import { faHome } from '@fortawesome/free-solid-svg-icons';
 import { faSignInAlt } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faUserAstronaut } from '@fortawesome/free-solid-svg-icons';
+import { faUserAstronaut, faComments } from '@fortawesome/free-solid-svg-icons';
 
 
 
@@ -20,6 +20,11 @@ const Nav = ({}) =>(
             <ul className="navbar-nav mr-auto">
                 <li className="nav-item active">
                     <Link className="nav-link" to="/">Home <FontAwesomeIcon icon={faHome}/><span className="sr-only">(current)</span></Link>
+                </li>
+                <li className="nav-item">
+                    <Link className="nav-link" to="/login">
+                      New chat <FontAwesomeIcon icon={faComments}/>
+                    </Link>
                 </li>
                 <li className="nav-item">
                     <Link className="nav-link" to="/login">Login <FontAwesomeIcon icon={faSignInAlt}/></Link>

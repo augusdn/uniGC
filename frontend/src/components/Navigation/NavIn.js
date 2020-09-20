@@ -5,7 +5,7 @@ import { faUserPlus } from '@fortawesome/free-solid-svg-icons';
 import { faHome } from '@fortawesome/free-solid-svg-icons';
 import { faSignOutAlt } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faUserAstronaut } from '@fortawesome/free-solid-svg-icons';
+import { faUserAstronaut, faComments } from '@fortawesome/free-solid-svg-icons';
 
 
 // Firebase
@@ -29,6 +29,11 @@ const Nav = ({}) =>(
                 <li className="nav-item">
                     <Link className="nav-link" to="/profile">
                       Profile <FontAwesomeIcon icon={faUserAstronaut}/>
+                    </Link>
+                </li>
+                <li className="nav-item">
+                    <Link className="nav-link" to="/addChat">
+                      New chat <FontAwesomeIcon icon={faComments}/>
                     </Link>
                 </li>
                 <li className="nav-item">

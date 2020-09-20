@@ -33,7 +33,7 @@ export default function AddChat(props) {
   }
 
   function courseChange(value) {
-    console.log(value);
+    // console.log(value);
     setInput(value);
   }
 
@@ -41,13 +41,13 @@ export default function AddChat(props) {
     e.preventDefault();
     // console.log(firebase.auth().currentUser.uid);
     if(input == ""){
-      console.log("empty");
+      // console.log("empty");
       alert("Course name can't be empty!");
     } else {
       if(url == ""){
         alert("URL can't be empty!");
       } else {
-        console.log("Submit + " + input+url);
+        // console.log("Submit + " + input+url);
         const data = {
           uid: firebase.auth().currentUser.uid,
           code: input,

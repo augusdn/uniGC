@@ -13,7 +13,7 @@ export default function SearchBox() {
   function handleChange(term) {
     if (term) {
       const endpoint = 'https://asia-east2-unigc-eea69.cloudfunctions.net/api/search/'+term;
-      console.log(endpoint)
+      // console.log(endpoint)
 
       fetch(endpoint)
         .then((response) => response.json())
@@ -30,10 +30,10 @@ export default function SearchBox() {
   const submitHandler = e => {
     e.preventDefault();
     if(input == ""){
-      console.log("empty");
+      // console.log("empty");
       alert("Course name can't be empty!");
     } else {
-      console.log("Searching + " + input);
+      // console.log("Searching + " + input);
       // alert(document.location.href);
       document.location.href = document.location.href+"course/"+input.toUpperCase();
     }
